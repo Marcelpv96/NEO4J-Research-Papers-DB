@@ -3,7 +3,7 @@ LOAD CSV WITH HEADERS FROM 'file:///journal.csv' AS journals
 LOAD CSV WITH HEADERS FROM 'file:///conference.csv' AS conferences
 LOAD CSV WITH HEADERS FROM 'file:///keywords.csv' AS keywords
 LOAD CSV WITH HEADERS FROM 'file:///reviews.csv' AS reviews
-LOAD CSV WITH HEADERS FROM 'file:///references.csv' AS references
+LOAD CSV WITH HEADERS FROM 'file:///references.csv' AS refers
 
 
 
@@ -42,21 +42,9 @@ MERGE (conference)-[:edits]->(conference_editor)
 /* Create all the nodes realted with keywords */
 MERGE (keyword:KeyWord {name:keywords.Keyword})
 
-WITH keywords, keyword
-MATCH (paper:Scientific_Paper)
-WHERE paper.name = keywords.Paper
+WITH keywords, keyword, refers, reviews
+MATCH (paper:Scientific_Paper),(paper1:Scientific_Paper),(paper2:Scientific_Paper),(author:Scientific)-[:publish]->(author_paper:Scientific_Paper),(editor:Scientific),(paper_review:Scientific_Paper)
+WHERE paper.name = keywords.Paper AND paper1.name = refers.paper AND paper2.name = refers.reference AND author.name = reviews.Author AND editor.name = reviews.Editor AND paper_review.name = reviews.Paper AND author_paper.name <> paper_review.name
 MERGE (paper)-[:HasKeyWord]->(keyword)
-
-
-
-/* Relation when a paper is refered to */
-WITH references
-MATCH (paper1:Scientific_Paper),(paper2:Scientific_Paper)
-WHERE paper1.name = references.paper AND paper2.name = references.reference
 MERGE (paper1)-[:refersTo]->(paper2)
-
-/* Paper reviewed by */
-WITH reviews
-MATCH (author:Scientific)-[:publish]->(author_paper:Scientific_Paper),(editor:Scientific),(paper:Scientific_Paper)
-WHERE author.name = reviews.Author AND editor.name = reviews.Editor AND paper.name = reviews.Paper AND author_paper.name != paper.name
-MERGE (editor)-[:Assigns_paper{name:paper.name}]->(author)
+MERGE (editor)-[:Assigns_paper{name:paper_review.name}]->(author)
