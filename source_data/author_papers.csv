@@ -1,0 +1,501 @@
+,author,title
+0,Sanjeev Saxena,Parallel Integer Sorting and Simulation Amongst CRCW Models.
+1,Hans Ulrich Simon,Pattern Matching in Trees and Nets.
+2,Nathan Goodman|Oded Shmueli,NP-complete Problems Simplified on Tree Schemas.
+3,Norbert Blum,On the Power of Chain Rules in Context Free Grammars.
+4,Arnold Schönhage,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.
+5,Juha Honkala,A characterization of rational D0L power series.
+6,Christian Lengauer|Chua-Huang Huang,The Derivation of Systolic Implementations of Programs.
+7,Alain Finkel|Annie Choquet,Fifo Nets Without Order Deadlock.
+8,Joachim Biskup,On the Complementation Rule for Multivalued Dependencies in Database Relations.
+9,George Rahonis|Symeon Bozapalidis|Zoltán Fülöp 0001,Equational weighted tree transformations.
+10,Alex Kondratyev|Maciej Koutny|Victor Khomenko|Walter Vogler,Merged processes: a new condensed representation of Petri net behaviour.
+11,Wim H. Hesselink,Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos.
+12,Christian Ronse,A Three-Stage Construction for Multiconnection Networks.
+13,Carol Critchlow|Prakash Panangaden,The Expressive Power of Delay Operators in SCCS.
+14,Robin Milner,Calculi for Interaction.
+15,John Darlington,A Synthesis of Several Sorting Algorithms.
+16,Giuseppe Serazzi|M. Italiani|Maria Calzarossa,A Workload Model Representative of Static and Dynamic Characteristics.
+17,Vincent Vajnovszki,Gray visiting Motzkins.
+18,Christian Stahl|Richard Müller 0001|Walter Vogler,Trace- and failure-based semantics for responsiveness.
+19,Luc Devroye,Branching Processes in the Analysis of the Heights of Trees.
+20,K. C. Tan|T. C. Hu,Least Upper Bound on the Cost of Optimum Binary Search Trees.
+21,William R. Franta,The Mathematical Analysis of the Computer System Modeled as a Two Stage Cyclic Queue.
+22,Ekkart Kindler,"Invariants, Composition, and Substitution."
+23,Demetres D. Kouvatsos,Maximum Entropy and the 
+24,Christian Lengauer|Sergei Gorlatch,Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach.
+25,Roland Meyer,A theory of structural stationarity in the 
+26,Stefan Reisch,Hex ist PSPACE-vollständig.
+27,Erzsébet Csuhaj-Varjú|Victor Mitrana,Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells.
+28,Lila Kari|Manasi S. Kulkarni,Disjunctivity and other properties of sets of pseudo-bordered words.
+29,Ryszard Janicki,Relational structures model of concurrency.
+30,Bruce Russell,On an Equivalence between Continuation and Stack Semantics.
+31,Andrzej Ehrenfeucht|Grzegorz Rozenberg,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.
+32,Rainer Kemp,A Note on the Density of Inherently Ambiguous Context-free Languages.
+33,Yijie Han|Yoshihide Igarashi,Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array.
+34,Horst von Brand|Ian F. Akyildiz,Computational Algorithms for Networks of Queues with Rejection Blocking.
+35,Carlo Montangero|X. J. Chen,Compositional Refinements in Multiple Blackboard Systems.
+36,Ernst-Rüdiger Olderog|Rob J. van Glabbeek|Ursula Goltz,"Special issue on ""Combining Compositionality and Concurrency"": part 1."
+37,Antonella Santone,Automatic verification of concurrent systems using a formula-based compositional approach.
+38,Eric C. R. Hehner,On Removing the Machine from the Language.
+39,Ivan Hal Sudborough|Michael Evangelist|Moon-Jung Chung,Complete Problems for Space Bounded Subclasses of NP.
+40,Alexandre David|Guangyuan Li|Kim G. Larsen|Peter E. Bulychev,Efficient controller synthesis for a fragment of MTL
+41,Dana Angluin|Timothy A. Budd,Two Notions of Correctness and Their Relation to Testing.
+42,George Markowsky,Best Huffman Trees.
+43,Manfred P. Stadel,Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler.
+44,David A. Watt,The Parsing Problem for Affix Grammars.
+45,Derick Wood|Paul S. Amerins|Ricardo A. Baeza-Yates,On Efficient Entreeings.
+46,Ernst W. Mayr,Persistence of Vector Replacement Systems is Decidable.
+47,Karel Culik II|Simant Dube,Implementing Daubechies Wavelet Transform with Weighted Finite Automata.
+48,Armin B. Cremers|Thomas N. Hibbard,Functional Behavior in Data Spaces.
+49,William P. R. Mitchell,Inductive Completion with Retracts.
+50,Patrick Cousot|Radhia Cousot,Sometime = Always + Recursion = Always on the Equivalence of the Intermittent and Invariant Assertions Methods for Proving Inevitability Properties of Programs.
+51,Isi Mitrani|J. H. Hine,Complete Parameterized Families of Job Scheduling Strategies.
+52,Joseph M. Morris|Malcolm Tyrrell,Modelling higher-order dual nondeterminacy.
+53,Jürgen Nehmer,Dispatcher Primitives for the Construction of Operating System Kernels.
+54,Walter J. Savitch,A Note on Multihead Automata and Context-Sensitive Languages
+55,Karl Meinke,A Recursive Second Order Initial Algebra Specification of Primitive Recursion.
+56,Delphine Longuet|Frank S. de Boer|Marjan Sirjani|Mohammad Mahdi Jaghoori|Tom Chothia,Compositional schedulability analysis of real-time actor-based systems.
+57,George Leih|Joost Engelfriet|Linda Heyker,Context-Free Graph Languages of Bounded Degree are Generated by Apex Graph Grammars.
+58,Pradip K. Srimani|Shyamal K. Chowdhury,Worst Case Performance of Weighted Buddy Systems.
+59,Francesca Rossi|Ugo Montanari,Contextual Nets.
+60,M. W. Shields|Peter E. Lauer|Piero R. Torrigiani,COSY - A System Specification Language Based on Paths and Processes.
+61,Rudolf Berghammer,Applying relation algebra and Rel View to solve problems on orders and lattices.
+62,David Pager,Eliminating Unit Productions from LR Parsers.
+63,Matthias Olk|Peter Lipps|Reinhard Wilhelm|Ulrich Möncke,Attribute (Re)evaluation in OPTRAN.
+64,Sandeep Sen|Sanguthevar Rajasekaran,On Parallel Integer Sorting.
+65,Jianwen Su|Richard Hull 0001,Domain Independence and the Relational Calculus.
+66,Alan Fekete|John K. Lee,Multi-Granularity Locking for Nested Transactions: A Proof Using a Possibilities Mapping.
+67,Teuvo Laurinolli,Bounded Quantification and Relations Recognizable by Finite Automata.
+68,Don Pigozzi|Gary T. Leavens,A Complete Algebraic Characterization of Behavioral Subtyping.
+69,Luke Hunsberger,Efficient execution of dynamically controllable simple temporal networks with uncertainty.
+70,Maw-Shang Chang|Y. Daniel Liang,Minimum Feedback Vertex Sets in Cocomparability Graphs and Convex Bipartite Graphs.
+71,Gilles Bernot|Michel Bidoit|Teodor Knapik,Behavioural Approaches to Algebraic Specifications: A Comparative Study.
+72,C. A. Middelburg|Jan A. Bergstra,Instruction sequence processing operators.
+73,Wlodzimierz Drabent,What is Failure? An Approach to Constructive Negation.
+74,Mark Schäfer|Ralf Wollowski|Victor Khomenko|Walter Vogler,STG decomposition strategies in combination with unfolding.
+75,Jon Louis Bentley|Raphael A. Finkel,Quad Trees: A Data Structure for Retrieval on Composite Keys.
+76,Alfred Schmitt,On the Number of Relational Operators Necessary to Compute Certain Functions of Real Variables.
+77,Guy Pujolle|Jacques Labetoulle,A Study of Queueing Networks with Deterministic Service and Application to Computer Networks.
+78,Christian Eisentraut|David N. Jansen|Holger Hermanns|Jens Chr. Godskesen|Lei Song 0001|Lijun Zhang 0001|Pengfei Yang,Probabilistic bisimulation for realistic schedulers.
+79,Paul Pritchard,Explaining the Wheel Sieve.
+80,Robert T. Moenck,Another Polynomial Homomorphism.
+81,Philip Heidelberger,Variance Reduction Techniques for the Simulation of Markov Process.
+82,Kai Salomaa|Sang-Ki Ko|Yo-Sub Han,State complexity of deletion and bipolar deletion.
+83,Siegfried Bublitz,Decomposition of Graphs and Monotone Formula Size of Homogeneous Functions.
+84,Ali Movaghar|Gholamreza Sotudeh|Masoud Ebrahimi,Symbolic checking of Fuzzy CTL on Fuzzy Program Graph.
+85,Gian Luigi Ferrari|Gianluca Mezzetti|Pierpaolo Degano,Regular and context-free nominal traces.
+86,Benedek Nagy|Friedrich Otto,Deterministic pushdown-CD-systems of stateless deterministic R(1)-automata.
+87,Krishnendu Chatterjee|Rüdiger Ehlers,Special issue: Synthesis and SYNT 2014.
+88,Gheorghe Paun,On the Synchronization in Parallel Communicating Grammar Systems.
+89,P. F. Schuler,Weakly Context-Sensitive Languages as Model for Programming Languages.
+90,George W. Ernst,Rules of Inference for Procedure Calls.
+91,Günther E. Pfaff,The Construction of Operator Interfaces Based on Logical Input Devices.
+92,Heiko Vogler|Joost Engelfriet,High Level Tree Transducers and Iterated Pushdown Tree Transducers.
+93,Stefan Reisch,Gobang ist PSPACE-vollständig.
+94,Chen-Ming Fan|Cheng-Chih Huang|Huei-Jan Shyr|Kuo-Hsiang Chen,A note on autodense related languages.
+95,Artiom Alhazov|Linqiang Pan,Solving HPP and SAT by P Systems with Active Membranes and Separation Rules.
+96,Akhil Kumar 0001|Kavindra Malik,Optimizing the Costs of Hierarchical Quorum Consensus.
+97,Denis Poitrenaud|Serge Haddad,Recursive Petri nets.
+98,Donald P. Gaver|George Humfeld,Multitype Multiprogramming Models.
+99,J.-P. Lévy,Automatic Correction of Syntax-Errors in Programming Languages.
+100,Nicolae Santean|Sheng Yu|Stavros Konstantinidis,Representation and uniformization of algebraic transductions.
+101,Astrid Kiehn|Eike Best|Lucia Pomello|Raymond R. Devillers,Concurrent Bisimulations in Petri Nets.
+102,Markus Büttner,Enhanced prefetching and caching strategies for single- and multi-disk systems.
+103,Andrzej Ehrenfeucht|Grzegorz Rozenberg|Hendrik Jan Hoogeboom,Recording the Use of Memory in Right-Boundary Grammars and Push-Down Automata.
+104,Eike Best|Raymond R. Devillers,State space axioms for T-systems.
+105,Andreas Maletti|Eric Lilin|Joost Engelfriet,Extended multi bottom-up tree transducers.
+106,Andrzej Blikle,The Clean Termination of Iterative Programs.
+107,Fred Kröger,Infinite Proof Rules for Loops.
+108,Michael Bertol|Zoltán Ésik,Nonfinite Axiomatizability of the Equational Theory of Shuffle.
+109,Johannes A. La Poutré|Rob van Stee,"Running a job on a collection of partly available machines, with on-line restarts."
+110,Carroll Morgan|Paul H. B. Gardiner,Data Refinement by Calculation.
+111,Ambuj K. Singh,Program Refinement in Fair Transition Systems.
+112,Nicolas Halbwachs|Paul Caspi,A Functional Model for Describing and Reasoning About Time Behaviour of Computing Systems.
+113,Eike Best|Elisabeth Pelz|Hanna Klaudel|Richard P. Hopkins|Wojciech Fraczak,"M-Nets: An Algebra of High-Level Petri Nets, with an Application to the Semantics of Concurrent Programming Languages."
+114,Wuu Yang,On the Look-Ahead Problem in Lexical Analysis.
+115,Sanjit A. Seshia|Susmit Jha,A theory of formal synthesis via inductive learning.
+116,Håkan Lennerstad|Kamilla Klonowska|Lars Lundberg,The maximum gain of increasing the number of preemptions in multiprocessor scheduling.
+117,Arnold L. Rosenberg,Data Encodings and Their Costs.
+118,Zvi Galil,Hierarchies of Complete Problems.
+119,Volker Claus,Ein Vollständigkeitssatz für Programme und Schaltkreise.
+120,Naoki Kobayashi 0001,Type-based information flow analysis for the pi-calculus.
+121,Jean Berstel,Sur une Conjecture de S. Greibach.
+122,B. Bartsch|Gunter Bolch,A Conservation Law for G/G/m Queueing Systems.
+123,Zvi Galil,Applications of Efficient Mergeable Heaps for Optimization Problems on Trees.
+124,Jan Joris Vereijken|Joost Engelfriet,Context-Free Graph Grammars and Concatenation of Graphs.
+125,Teruo Hikita,On a Class of Recursive Procedures and Equivalent Iterative Ones.
+126,Allen Reiter|Yuri Breitbart,Algorithms for Fast Evaluation of Boolean Expressions.
+127,Damien Pous|Daniela Petrisan|Filippo Bonchi|Jurriaan Rot,A general account of coinduction up-to.
+128,Per Brinch Hansen,A Comparison of Two Synchronizing Concepts.
+129,Karsten Schmidt 0004,How to Calculate Symmetries of Petri Nets.
+130,Arto Salomaa|Grzegorz Rozenberg|Mogens Nielsen|Sven Skyum,"Nonterminals, Homomorphisms and Codings in Different Variations of OL-Systems. I. Deterministic Systems."
+131,Antonios Kalampakas|Symeon Bozapalidis,Recognizability of graph and pattern languages.
+132,Jörg Desel|Wolfgang Reisig,The Synthesis Problem of Petri Nets.
+133,Wolfgang Merzenich,A Binary Operation on Trees and an Initial Algebra Characterization for Finite Tree Types.
+134,Eleni Mandrali|George Rahonis,On weighted first-order logics with discounting.
+135,Dirk Janssens|Grzegorz Rozenberg,A Characterization of Context-free String Languages by Directed Node-label Controlled Graph Grammars.
+136,Annabelle McIver|Carroll Morgan,"Demonic, angelic and unbounded probabilistic choices in sequential programs."
+137,Matthew Hennessy|S. Arun-Kumar,An Efficiency Preorder for Processes.
+138,Benedetto Intrigila|Stefano Varricchio,On the Generalization of Higman and Kruskal's Theorems to Regular Languages and Rational Trees.
+139,Ricardo A. Baeza-Yates,Modeling Splits in File Structures.
+140,Angelo Monti|Domenico Parente|Emanuela Fachini|Margherita Napoli,Languages Accepted by Systolic Y-Tree Automata: Structural Characterizations.
+141,Benedetto Intrigila|Enrico Tronci|Giuseppe Della Penna|Marisa Venturini Zilli,Synchronized regular expressions.
+142,Borivoj Melichar|Jan Janousek,On regular tree languages and deterministic pushdown automata.
+143,Matthew Hennessy|Xinxin Liu,A Modal Logic for Message Passing Processes.
+144,Marc J. van Kreveld|Mark H. Overmars|Mark de Berg|Michiel H. M. Smid,Maintaining Range Trees in Secondary Memory. Part I: Partitions.
+145,Michael Brand,Does indirect addressing matter? - A note.
+146,Joakim von Wright|Ralph-Johan Back,Reasoning Algebraically about Loops.
+147,Alexandre Brandwajn,A Model of a Time Sharing Virtual Memory System Solved Using Equivalence and Decomposition Methods.
+148,Eric Badouel|Philippe Darondeau,Trace Nets and Process Automata.
+149,Angelo Montanari|Marco Pazzaglia|Pietro Sala,Metric propositional neighborhood logic with an equivalence relation.
+150,Leonidas J. Guibas,A Principle of Independence for Binary Tree Searching.
+151,Ralf Hartmut Güting,Optimal Divide-and-Conquer to Compute Measure and Contour for a Set of Iso-Rectangles.
+152,Clement H. C. Leung|Qui Hoon Choo,The Paging Drum Queue: A Uniform Perspective and Further Results.
+153,Steffen Hölldobler|Stephan Heilbrunner,The Undecidability of the Unification and Matching Problem for Canonical Theories.
+154,Niklaus Wirth,The Programming Language Pascal.
+155,Achim D. Brucker|Burkhart Wolff,"Semantics, calculi, and analysis for object-oriented specifications."
+156,Hermann K.-G. Walter,Inhibitionsfelder.
+157,Andreas Malcher|Martin Kutrib|Matthias Wendlandt,Head and state hierarchies for unary multi-head finite automata.
+158,Bernhard Mescheder,On the Number of Active-Operations Needed to Compute the Discrete Fourier Transform.
+159,Antonín Kucera|Jan Strejcek,The stuttering principle revisited.
+160,Thomas P. Murtagh,Redundant Proofs of Non-Interference in Levin-Gries CSP Program Proofs.
+161,Adam L. Buchsbaum|Rajamani Sundar|Robert Endre Tarjan,Lazy Structure Sharing for Query Optimization.
+162,Yuxi Fu,Fair ambients.
+163,Norbert Ramsperger,Concurrent Access to Data.
+164,Kim S. Larsen,Relaxed red-black trees with group updates.
+165,Ikuo Nakata|Masataka Sassa,Generation of Efficient 
+166,László Pap|Nam H. Do|Ram Chakka|Tien Van Do,A Markovian queue with varying number of servers and applications to the performance comparison of HSDPA user equipment.
+167,Hsu-Chun Yen,Priority Conflict-Free Petri Nets.
+168,Derick Wood|Hans-Peter Kriegel|Vijay K. Vaishnavi,Optimum Multiway Search Trees.
+169,Martin Seysen|Norbert Blum,Characterization of all Optimal Networks for a Simultaneous Computation of AND and NOR.
+170,Carlos R. P. Hartmann|Pramod K. Varshney|Ramachandran Vaidyanathan,Parallel Integer Sorting Using Small Operations.
+171,Ján Gaso|Martin Nehéz,Stochastic cooperative distributed grammar systems and random graphs.
+172,Andrzej Duda|Tadeusz Czachórski,Performance Evaluation of Fork and Join Synchronization Primitives.
+173,Y. S. Tsai|Zheng-Zhu Li,Some properties of the disjunctive languages contained in 
+174,Arto Salomaa|Jozef Gruska|Karel Culik II,Systolic Automata for VLSI on Balanced Trees.
+175,Joost Engelfriet|Tjalling Gelsema,A new natural structural congruence in the pi-calculus with replication.
+176,Dominique Potier|Jacques Leroudier|Kevin C. Kahn|Peter J. Denning|Rajan Suri,Optimal Multiprogramming.
+177,Andrea Maggiolo-Schettini|Davide Sangiorgi|Emanuela Fachini,Classes of Systolic Y-Tree Automata and a Comparison with Systolic Trellis Automata.
+178,Christian Choffrut|Karel Culik II,On Real-Time Cellular Automata and Trellis Automata.
+179,Ernst-Rüdiger Olderog|Michael Schenke,Transformational Design of Real-Time Systems Part I: From Requirements to Program Specifications.
+180,Flavio Corradini|Marco Roccetti|Roberto Gorrieri,Performance Preorder and Competitive Equivalence.
+181,Anton Nijholt,A Survey of Normal Form Covers for Context Free Grammars.
+182,Kung-Kiu Lau,A Note on Synthesis and Classification of Sorting Algorithms.
+183,Flavio Corradini|Maria Rita Di Berardini|Walter Vogler,Liveness of a mutex algorithm in a fair process algebra.
+184,Paul Pritchard,"Another Look at the ""Longest Ascending Subsequence"" Problem."
+185,J. V. Tucker|Peter R. J. Asveld,Complexity Theory and the Operational Structure of Algebraic Programming Systems.
+186,Amir Pnueli|Zohar Manna,Models for Reactivity.
+187,Joost Engelfriet|Tjalling Gelsema,"Axioms for Generalized Graphs, Illustrated by a Cantor-Bernstein Proposition."
+188,Ann E. Kelley Sobel|Neelam Soundararajan,A Proof System for Distributed Processes.
+189,Giora Slutzki,Finite State Relational Programs.
+190,Stefan Reisch|Thomas Klingler,A Gap Between the Actual Complexity of Permutations and Their Entropy Defined by Stoß.
+191,Andreas Maletti|Frank Drewes|Johanna Högberg,MAT learners for tree series: an abstract data type and two realizations.
+192,Kim S. Larsen|Lars Jacobsen,Exponentially decreasing number of operations in balanced trees.
+193,Bruce Russell,Correctness of the Compiling Process Based on Axiomatic Semantics.
+194,Graham Wrightson|Jörg H. Siekmann,Paramodulated Connection Graphs.
+195,Joakim von Wright,The Lattice of Data Refinement.
+196,Amir Pnueli|Boris Klebansky|Nissim Francez,Backtracking in Recursive Computations.
+197,Chunhua Cao|Di Yang|Lu Qing,A first step in characterizing three-element codes.
+198,Charles N. Fischer|D. R. Milton|S. B. Quiring,Efficient LL(1) Error Correction and Recovery Using Only Insertions.
+199,Axel van Lamsweerde|Michel Sintzoff,Formal Derivation of Strongly Correct Concurrent Programs.
+200,Hermann A. Maurer|Jon Louis Bentley,Efficient Worst-Case Data Structures for Range Searching.
+201,Agustín Valverde|Inman P. de Guzmán|Manuel Ojeda-Aciego,A Formal Identification between Tuples and Lists with an Application to List-Arithmetic Categories.
+202,Jeffrey D. Ullman|John B. Kam,Monotone Data Flow Analysis Frameworks.
+203,Mikkel Thorup,Disambiguating Grammars by Exclusion of Sub-Parse Trees.
+204,Matthew Hennessy,Axiomatising Finite Delay Operators.
+205,Joseph M. Morris,Laws of Data Refinement.
+206,José M. Amigó,Representing the integers with powers of 2 and 3.
+207,Erik D. Demaine|Gerth Stølting Brodal|J. Ian Munro,Fast allocation and deallocation with an improved buddy system.
+208,C. Pandu Rangan|S. Kiran Kumar,A Linear Space Algorithm for the LCS Problem.
+209,Houguang Yue|Jinzhao Wu|Mila E. Majster-Cederbaum,Refinement of actions for real-time concurrent systems with causal ambiguity.
+210,Changwook Kim,Efficient recognition algorithms for boundary and linear eNCE graph languages.
+211,Astrid Kiehn,Comparing Locality and Causality Based Equivalences.
+212,A. Michael Berman|Barbara G. Ryder|Marvin C. Paull,Proving Relative Lower Bounds for Incremental Algorithms.
+213,Peter Kandzia,Zur Theorie der Partiell-linearen Realisierungen endlicher Automaten
+214,Beverly A. Sanders,Data Refinement of Mixed Specifications.
+215,Pedro V. Silva,A note on pure and p-pure languages.
+216,Wim H. Hesselink,A distributed resource allocation algorithm for many processes.
+217,K. V. S. Ramarao,Complexity of Distributed Commit Protocols.
+218,Amr Elmasry|Michael L. Fredman,Adaptive sorting: an information theoretic perspective.
+219,Andrew J. Malton|Eric C. R. Hehner|Lorene E. Gupta,Erratum: Predicative Methodology.
+220,Rodney W. Topor,The Correctness of the Schorr-Waite List Marking Algorithm.
+221,Juhani Karhumäki|Karel Culik II,Synchronizable Deterministic Pushdown Automata and the Decidability of their Equivalence.
+222,Heikki Mannila|Thomas Eiter,Distance Measures for Point Sets and their Computation.
+223,Frank Wm. Tompa|J. Ian Munro|Raúl J. Ramírez,Optimum Reorganization Points for Arbitrary Database Costs.
+224,Chung-Hao Huang|Farn Wang|Sven Schewe,Model-checking iterated games.
+225,Dominique Potier|Erol Gelenbe|Jacques Lenfant,Analyse d'un algorithme de gestion simultanée Mémoire centrale - Disque de pagination.
+226,Paul Pritchard,Opportunistic Algorithms for Eliminating Supersets.
+227,Corina Apachite|Erkki Mäkinen|Ferucio Laurentiu Tiplea,Synchronized extension systems.
+228,Alan J. Perlis|Andrei P. Ershov|Friedrich L. Bauer|Manfred Paul,Klaus Samelson.
+229,Mehdi Jazayeri|Wayne A. Babich,The Method of Attributes for Data Flow Analysis: Part II. Demand Analysis.
+230,Robert H. Sloan|Ugo A. Buy,Reduction Rules for Time Petri Nets.
+231,Liuba Shrira|Oded Goldreich 0001,Electing a Leader in a Ring with Link Failures.
+232,Jacobo Torán|Josep Díaz|Maria J. Serna,Parallel Approximation Schemes for Problems on Planar Graphs.
+233,Ferruccio Damiani|Ina Schaefer|Lorenzo Bettini,Compositional type checking of delta-oriented software product lines.
+234,Qing Ding|T. C. Edwin Cheng,Single Machine Scheduling with Deadlines and Increasing Rates of Processing Times.
+235,François Baccelli|Thierry Fleury,On Parsing Arithmetic Expressions in a Multiprocessing Environment.
+236,Jean-François Raskin|Ocan Sankur|Romain Brenguier,Assume-admissible synthesis.
+237,Luc Devroye,A Probabilistic Analysis of the Height of Tries and of the Complexity of Triesort.
+238,Adrian Atanasiu,A Class of Coders Based on GSM.
+239,Charlie Svahnberg|Håkan Lennerstad|Kamilla Klonowska|Lars Lundberg,Optimal recovery schemes in fault tolerant distributed computing.
+240,Jürg Nievergelt|Klaus H. Hinrichs|Peter Schorn,An All-Round Sweep Algorithm for 2-Dimensional Nearest-Neighbor Problems.
+241,Gerald Lüttgen|Sascha Fendrich|Walter Vogler,Richer interface automata with optimistic and pessimistic compatibility.
+242,Ismo Hakala|Juha Kortelainen,"On the System of word equations x^i_1 x^i_2 ... x^i_m = y^i_1 y^i_2 ...y^i_n (i=1, 2, ...) in a Free Monoid."
+243,Grzegorz Rozenberg|Robert Meersman,Two-Level Meta-Controlled Substitution Grammars.
+244,Amit Chakrabarti|Andrew Wirth|Anthony Wirth|Venkatesan Guruswami,The query complexity of estimating weighted averages.
+245,N. P. Chapman,
+246,Hans Jürgen Schneider|Hartmut Ehrig,Grammars on Partial Graphs.
+247,Andreas Stafylopatis|Vangelis Th. Paschos|Wenceslas Fernandez de la Vega,Average-Case Complexity for the Execution of Recursive Definitions on Relational Databases.
+248,Guojun Wang|Ke Gu|Sheng Wen|Weijia Jia,Efficient and secure attribute-based signature for monotone predicates.
+249,Kim Marriott,Frameworks for Abstract Interpretation.
+250,Jacques Loeckx|Thomas Lehmann 0004,OBSCURE: A Specification Language for Abstract Data Types.
+251,M. R. Garey|Ronald L. Graham,Performance Bounds on the Splitting Algorithm for Binary Testing.
+252,G. Marque-Pucheu,Rational Set of Trees and the Algebraic Semantics of Logic Programming.
+253,Hermann A. Maurer|Maurice Nivat,Rational Bijection of Rational Sets.
+254,Alessandro Umbrico|Andrea Orlandini|Marta Cialdea Mayer,Planning and execution with flexible timelines: a formal account.
+255,Reidar Conradi,"Some Comments on ""Concurrent Readers and Writers""."
+256,Allen Reiter|Yuri Breitbart,A Branch-and-Bound Algorithm to Obtain an Optimal Evaluation Tree for Monotonic Boolean Functions.
+257,Xiaoning Peng|Zhijun Xiao,Optimal covers in the relational database model.
+258,Charles N. Fischer|Mahadevan Ganapathi,Integrating Code Generation and Peephole Optimization.
+259,Aviezri S. Fraenkel|Moshe Mor|Yehoshua Perl,Is Text Compression by Prefixes and Suffixes Practical?
+260,Johannes Röhrich,Methods for the Automatic Construction of Error Correcting Parsers.
+261,Uwe Kastens,Ordered Attributed Grammars.
+262,Håkan Lennerstad|Lars Lundberg,Optimal Bounds on the Gain of Permitting Dynamic Allocation of Communication Channels in Distributed Computing.
+263,Antoine Meyer|Arnaud Carayol,Linearly bounded infinite graphs.
+264,Frank Wm. Tompa,A Practical Example of the Specification of Abstract Data Types.
+265,Luc Boasson|Maurice Nivat,Sur diverses familles de langages fermées par transductions rationelle
+266,Chul E. Kim|Oscar H. Ibarra,On 3-Head Versus 2-Head Finite Automata.
+267,Gary T. Leavens|William E. Weihl,Specification and Verification of Object-Oriented Programs Using Supertype Abstraction.
+268,Francesco Ranzato,An efficient simulation algorithm on Kripke structures.
+269,Mika Hirvensalo|Vesa Halava,Improved matrix pair undecidability results.
+270,Hans-Anton Rollik,Automaten in planaren Graphen.
+271,Demetres D. Kouvatsos|John Almond,Maximum Entropy Two-Station Cyclic Queues with Multiple General Servers.
+272,Alexander Grigoriev|Gerhard J. Woeginger,"Project scheduling with irregular costs: complexity, approximability, and algorithms."
+273,Andrzej Tarlecki|Donald Sannella,Toward Formal Development of Programs from Algebraic Specifications: Implementations Revisited.
+274,Henning Bordihn|Markus Holzer 0001,Programmed grammars and their relation to the LBA problem.
+275,Paul M. Zislis,Semantic Decomposition of Computer Programs: An Aid to Program Testing.
+276,David Gries|Gary Levin,A Proof Technique for Communicating Sequential Processes.
+277,Tero Harju|Vesa Halava,New proof for the undecidability of the circular PCP.
+278,Jan Ramon|Maurice Bruynooghe,A polynomial time computable metric between point sets.
+279,Bengt Jonsson|Cong Quy Trinh|Lukás Holík|Ondrej Lengál|Parosh Aziz Abdulla|Tomás Vojnar,Verification of heap manipulating programs with ordered data by extended forest automata.
+280,B. Leguy|B. Ratoandromanana|Michel Latteux,The Family of One-Counter Languages is Closed Under Quotient.
+281,Elena Losseva|Geoff Wozniak|Lila Kari|Stavros Konstantinidis,Sticky-free and overhang-free DNA languages.
+282,Reinhold Franck,A Class of Linearly Parsable Graph Grammars.
+283,Frits Dannenberg|Lubos Brim|Marta Kwiatkowska|Milan Ceska Jr.|Nicola Paoletti,Precise parameter synthesis for stochastic biochemical systems.
+284,Elisa Bertino|Hua Wang 0002|Md. Enamul Kabir,Efficient systematic clustering method for 
+285,Thomas Giammo,Validation of a Computer Performance Model of the Exponential Queuing Network Family.
+286,Jean-François Condotta|Souhila Kaci|Yakoub Salhi,Optimization in temporal qualitative constraint networks.
+287,Adrian Johnstone|Elizabeth Scott,Reducing non-determinism in right nulled GLR parsers.
+288,Antonín Kucera|Oldrich Strazovský|Tomás Brázdil,Deciding probabilistic bisimilarity over infinite-state probabilistic systems.
+289,Antonella Santone|Gigliola Vaglini,Abstract reduction in directed model checking CCS processes.
+290,Christel Baier|Joachim Klein 0001|Sascha Klüppelholz,Compositional construction of most general controllers.
+291,Christoph Seidl|Ferruccio Damiani|Ina Schaefer|Luca Padovani,A core calculus for dynamic delta-oriented programming.
+292,Edward G. Belaga,Through the Mincing Machine with a Boolean Layer Cake.
+293,John P. Kearns|Mary Lou Soffa,The Implementation of Retention in a Coroutine Environment.
+294,Hsien-Kuei Hwang,Asymptotic Expansions of the Mergesort Recurrences.
+295,Jean-Marie Nicolas 0001,Logic for Improving Integrity Checking in Relational Data Bases.
+296,Augusto Sampaio|Jim Woodcock|Juan Ignacio Perna|Juliano Iyoda,Correct hardware synthesis - An algebraic approach.
+297,Arto Salomaa|Derick Wood|Hermann A. Maurer,EOL Forms.
+298,Hans Langmaack,On Procedures as Open Subroutines. I
+299,Róbert Szelepcsényi,The Method of Forced Enumeration for Nondeterministic Automata.
+300,Friedrich Otto|G. Bauer,Finite Complete Rewriting Systems and the Complexity of the Word Problem.
+301,Anup Basil Mathew|Dietmar Berwanger|Marie van den Bogaard,Hierarchical information and the synthesis of distributed strategies.
+302,Arto Salomaa|Lucian Ilie,On the Expressiveness of Subset-Sum Representations.
+303,Hisao Kameda,A Note on Multi-queue Scheduling of Two Tasks.
+304,Dirk Hauschildt|Matthias Jantzen,Petri Net Algorithms in the Theory of Matrix Grammars.
+305,Juha Honkala,Decision Problems Concerning Thinness and Slenderness of Formal Languages.
+306,David Gries|Dean Jacobs,General Correctness: A Unification of Partial and Total Correctness.
+307,Jan van Leeuwen|Mark H. Overmars,Stratified Balanced Search Trees.
+308,Derick Wood|Michael Schrapp|Thomas Ottmann,Purely Top-Down Updating Algorithms for Stratified Search Trees.
+309,Friedrich L. Bauer|Martin Wirsing,Crypt-Equivalent Algebraic Specifications.
+310,Alan J. Demers|Bernd Reusch|C. Keleman,On Some Decidable Properties of Finite State Translations.
+311,Beate Commentz-Walter,Size-Depth Tradeoff in Monotone Boolean Formulae.
+312,Lawrence T. Kou,On Efficient Implementation of an Approximation Algorithm for the Steiner Tree Problem.
+313,Alexander Meduna,Coincidental extension of scattered context languages.
+314,Henning Fernau,Parallel communicating grammar systems with terminal transmission.
+315,M. Kempf|Rudolf Bayer|Ulrich Güntzer,Time Optimal Left to Right Construction of Position Trees.
+316,Eljas Soisalon-Soininen|Kim S. Larsen|Thomas Ottmann,Relaxed balance for search trees with local rebalancing.
+317,Pankaj Jalote|Yennun Huang,Analytic Models for the Primary Site Approach to Fault-Tolerance.
+318,Egon Börger|Klaus-Dieter Schewe,Concurrent abstract state machines.
+319,Yiwei Jiang|Yong He,Preemptive online algorithms for scheduling with machine cost.
+320,Iain A. Stewart,Logical and Schematic Characterization of Complexity Classes.
+321,Klaus Küspert,Storage Utilization in B*-Trees with a Generalized Overflow Technique.
+322,Foto N. Afrati|Manolis Gergatsoulis|Rada Chirkova|Vassia Pavlaki,View selection for 
+323,Didier Y. Hinz,A Run-Time Load Balancing Strategy for Highly Parallel Systems.
+324,Yiwei Jiang|Yong He,Optimal semi-online algorithms for preemptive scheduling problems with inexact partial information.
+325,Jesús N. Ravelo,Two Graph Algorithms Derived.
+326,Enrico Tronci|Javier Esparza,Preface for the special issue GandALF 2015.
+327,Michael Rodeh|Nissim Francez|Reinhard Wilhelm|Shmuel Sagiv,A Logic-Based Approach to Program Flow Analysis.
+328,Jean-François Perrot,Monoïdes syntactiques des langages algébriques.
+329,Gaston H. Gonnet|J. Alan George|Lawrence D. Rogers,An Algorithmic and Complexity Analysis of Interpolation Search.
+330,Antti Valmari,On constructibility and unconstructibility of LTS operators from other LTS operators.
+331,Arturo Carpi|Flavio D'Alessandro,Strongly transitive automata and the Cerný conjecture.
+332,Gadi Taubenfeld|Shlomo Moran,Possibility and Impossibility Results in a Shared Memory Environment.
+333,Dominic Duggan,Type-based hot swapping of running modules.
+334,Carlos Caleiro|Hans-Dieter Ehrich,Specifying Communication in Distributed Information Systems.
+335,Ingo Wegener|Mike Paterson,Nearly Optimal Hierarchies for Network and Formula Size.
+336,Martin Zimmermann 0002,Parameterized linear temporal logics meet costs: still not costlier than LTL.
+337,Jürgen Dingel,Compositional Analysis of C/C++ Programs with VeriSoft.
+338,Laurent Alonso|René Schott,On the tree inclusion problem.
+339,Alexander Meduna|Petr Zemek,Controlled finite automata.
+340,J. V. Tucker|Neal A. Harman,Algebraic Models of Microprocessors: Architecture and Organisation.
+341,Terrence W. Pratt,Program Analysis and Optimization through Kernel-Control Decomposition.
+342,Stéphane Coulondre,A top-down proof procedure for generalized data dependencies.
+343,Nobuki Tokura|Toshiro Araki,Flow Languages Equal Recursively Enumerable Languages.
+344,K. Vidyasankar|Sibsankar Haldar,Simple Extensions of 1-writer Atomic Variable Constructions to Multiwriter Ones.
+345,Brenda S. Baker|Donna J. Brown|Howard P. Katseff,Lower Bounds for On-Line Two-Dimensional Packing Algorithms.
+346,Demetres D. Kouvatsos|Nasreddine Tabet-Aouel,A Maximum Entropy Priority Approximation for a Stable 
+347,Andrea Maggiolo-Schettini|Józef Winkowski,A Kernel Language for Programmed Rewriting of (Hyper)graphs.
+348,Malcolm Hole|Simon J. Gay,Subtyping for session types in the pi calculus.
+349,Colin Stirling|Gerardo Costa,A Fair Calculus of Communicating Systems.
+350,Kamala Krithivasan|Madhu Mutyam,Generalized normal form for rewriting P systems.
+351,C. A. Middelburg|Jan A. Bergstra,Synchronous cooperation for explicit multi-threading.
+352,Werner Pohlmann,A Fixed Point Approach to Parallel Discrete Event Simulation.
+353,Aart Middeldorp|Hitoshi Ohsaki,Type Introduction for Equational Rewriting.
+354,Jan Strejcek|Laura Bozzelli|Mojmír Kretínský|Vojtech Rehák,On decidability of LTL model checking for process rewrite systems.
+355,Mark H. Overmars|Michiel H. M. Smid,Maintaining Range Trees in Secondary Memory. Part II: Lower Bounds.
+356,J. W. Cohen,The Multiple Phase Service Network with Generalized Processor Sharing.
+357,Richard N. Taylor,Complexity of Analyzing the Synchronization Structure of Concurrent Programs.
+358,William E. Wright,Binary Search Trees in Secondary Memory.
+359,Catherine Mongenet|Guy-René Perrin|Philippe Clauss,Geometrical Tools to Map Systems of Affine Recurrence Equations on Regular Arrays.
+360,Armin B. Cremers|Thomas N. Hibbard,Orthogonality of Information Structures.
+361,Bengt Jonsson|Carl Leonardsson|Konstantinos Sagonas|Mohamed Faouzi Atig|Parosh Aziz Abdulla|Stavros Aronis,Stateless model checking for TSO and PSO.
+362,Andreas G. Veneris|Lefteris M. Kirousis,Efficient Algorithms for Checking the Atomicity of a Run of Read and Write Operations.
+363,Erkki Mäkinen|Tarja Systä,Minimally adequate teacher synthesizes statechart diagrams.
+364,J. W. de Bakker|John-Jules Ch. Meyer,Order and Metric in the Stream Semantics of Elemental Concurrency.
+365,Levent V. Orman,Relational Database Constraints as Counterexamples.
+366,Dale Skeen|Fred B. Schneider|Richard Conway 0003,Thrifty Execution of Task Pipelines.
+367,Leo Marcus|Telis Menas,Expressibility of Output Equals Input.
+368,Barbara G. Ryder|Thomas J. Marlowe,Properties of Data Flow Frameworks.
+369,Joseph M. Morris|Malcolm Tyrrell,"Dual unbounded nondeterminacy, recursion, and fixpoints."
+370,Gennadi Falin|Jesus R. Artalejo|M. Martìn Dìaz,Information Theoretic Approximations for the 
+371,Donald E. Knuth,Top-Down Syntax Analysis.
+372,Ernst-Rüdiger Olderog|John-Jules Ch. Meyer,Hiding in Stream Semantics of Uniform Concurrency.
+373,Peter Schlichtiger|Rudolf Bayer,Data Management Support for Database Management.
+374,Chen-Ming Fan|Huei-Jan Shyr|Shyr-Shen Yu,d-Words and d-Languages.
+375,Roland Carl Backhouse|S. O. Anderson,An Alternative Implementation of an Insertion-Only Recovery Technique.
+376,Leah Epstein|Tamir Tassa,Approximation schemes for the Min-Max Starting Time Problem.
+377,Peter G. Harrison,On the Expansion of Non-Linear Functions.
+378,Vincent D. Blondel,Structured Numbers: Properties of a Hierarchy of Operations on Binary Trees.
+379,Mogens Nielsen,EOL Systems with Control Devices.
+380,Clement H. C. Leung,Analysis of Space Allocation in a Generally Fragmented Linear Store.
+381,Jarkko Kari|Karel Culik II,Computational Fractal Geometry with WFA.
+382,Elaine J. Weyuker|Marvin C. Paull|Thomas J. Ostrand,Parsing Regular Grammars with Finite Lookahead.
+383,Mark Reynolds,Metric temporal logic revisited.
+384,Antonín Kucera|Ivana Cerná|Mojmír Kretínský,Comparing Expressibility of Normed BPA and Normed BPP Processes.
+385,Charles N. Fischer|Jon Mauney,"A Simple, Fast, and Effective LL(1) Error Repair Algorithm."
+386,Kohei Honda|Martin Berger|Nobuko Yoshida,Genericity and the pi-calculus.
+387,Jean-Marc Champarnaud|Ludovic Mignot|Pascal Caron,Multi-tilde-bar expressions and their automata.
+388,Hosam M. Mahmoud,Erratum: The size of random bucket trees via urn models.
+389,David de Frutos-Escrig|Luca Aceto,Special issue: Selected papers from the 26th International Conference on Concurrency Theory (CONCUR 2015).
+390,Barbara Jobstmann|Bettina Könighofer|Georg Hofferek|Karin Greimel|Krishnendu Chatterjee|Robert Könighofer|Roderick Bloem|Thomas A. Henzinger,Synthesizing robust systems.
+391,Leon Horsten|Steven Delvaux,On best transitive approximations to simple graphs.
+392,Erol Gelenbe|J. C. A. Boekhorst|Paolo Tiberio,Page Size in Demand-Paging Systems.
+393,Helmuth Partsch|Martin Wirsing|Peter Pepper|Walter Dosch,On Hierarchies of Abstract Data Types.
+394,Riccardo Torlone,Update Operations in Deductive Databases with Functional Dependencies.
+395,George Leih|Grzegorz Rozenberg|Joost Engelfriet,Apex Graph Grammars and Attribute Grammars.
+396,Masahiro Miyakawa,Optimum Decision Trees - An Optimal Variable Theorem and its Related Applications.
+397,Jörg-Rüdiger Sack|Thomas Strothotte,An Algorithm for Merging Heaps.
+398,Balakrishnan Krishnamurthy,Short Proofs for Tricky Formulas.
+399,William E. Wright,Some Average Performance Measures for the B-Tree.
+400,Leslie Lamport,The 'Hoare Logic' of Concurrent Programs.
+401,Flaviu Cristian,Robust Data Types.
+402,Hosam M. Mahmoud,"Random sprouts as internet models, and Pólya processes."
+403,Mario Schkolnick|Rudolf Bayer,Concurrency of Operations on B-Trees.
+404,Eljas Soisalon-Soininen|Otto Nurmi,Chromatic Binary Search Trees. A Structure for Concurrent Rebalancing.
+405,C. K. Wong|Lin S. Woo|Markku Tamminen|Paolo Sipala|W. K. Luk,Constructing Maximal Slicings from Geometry.
+406,Amir M. Ben-Amram,A complexity tradeoff in ranking-function termination proofs.
+407,Luca Tesei|Roberto Barbuti,Timed automata with urgent transitions.
+408,Jean-Michel Autebert|Joffroy Beauquier|Luc Boasson,Formes de langages et de grammaires.
+409,Cheryl E. Praeger|Edward A. Bender|Nicholas C. Wormald,Optimal Worst Case Trees.
+410,Dariusz Dereniowski|Edward G. Coffman Jr.|Wieslaw Kubiak,An efficient algorithm for finding ideal schedules.
+411,Amílcar Sernadas|José Luiz Fiadeiro,Specification and Verification of Database Dynamics.
+412,John E. Shore,Information Theoretic Approximations for 
+413,Friedhelm Meyer auf der Heide|Peter Klein,A Lower Time Bound for the Knapsack Problem on Random Access Machines.
+414,Wim H. Hesselink,Splitting forward simulations to copewith liveness.
+415,Bradford G. Nickerson|Michael G. Lamoureux,A deterministic skip list for k-dimensional range search.
+416,Alistair Moffat|Nicholas C. Wormald|Ola Petersson,A Tree-Based Mergesort.
+417,Ashok K. Agrawala|Satish K. Tripathi,On an Exponential Server with General Cyclic Arrivals.
+418,Lutz Eichner,Total lineare Realisierbarkeit endlicher Automaten.
+419,Peter Deussen,A Decidability Criterion for van Wijngaarden Grammars.
+420,Leah Epstein|Rob van Stee,Online square and cube packing.
+421,Meurig Beynon,Replaceability and Computational Equivalence for Monotone Boolean Functions.
+422,Daniela Musto|Elisa Bertino,Correctness of Semantic Integrity Checking in Database Management Systems.
+423,Jürgen Avenhaus|Klaus Madlener,Subrekursive Komplexität bei Gruppen: II. Der Einbettungssatz von Higman für entscheidbare Gruppen.
+424,M. W. Du|S. C. Chang,A Model and a Fast Algorithm for Multiple Errors Spelling Correction.
+425,Jan van Leeuwen,A Useful Lemma for Context-Free Programmed Grammars.
+426,Ichiro Suzuki|Tadao Kasami,Three Measures for Synchronic Dependence in Petri Nets.
+427,Desh Ranjan|Enrico Pontelli|Gopal Gupta,Data structures for order-sensitive predicates in parallel nondeterministic systems.
+428,Adriano Peron|Alberto Molinari|Angelo Montanari|Aniello Murano|Giuseppe Perelli,Checking interval properties of computations.
+429,Egidio Astesiano|Gianna Reggio,Labelled transition logic: an outline.
+430,Anthony E. Krzesinski|Peter Teunissen,A Multiclass Networt Model of a Demand Paging Computer System.
+431,Fabrice Kordon|Hüseyin Lort|Rza Bashirov,Exploiting colored Petri nets to decide on permutation admissibility.
+432,Aris M. Ouksel|Otto Mayer,A Robust and Efficient Spatial Data Structure.
+433,Robert E. Shostak,On the Role of Unification in Mechanical Theorem Proving.
+434,Hosam M. Mahmoud,On the Average Internal Path Length of 
+435,H. C. M. Kleijn|Michel Latteux|Tero Harju,Deterministic Sequential Functions.
+436,Grzegorz Rozenberg|Jetty Kleijn|Maciej Koutny|Marta Pietkiewicz-Koutny,Step semantics of boolean nets.
+437,Anthony J. Bonner|Giansalvatore Mecca,Querying Sequence Databases with Transducers.
+438,Karl Unterauer,Dynamic Weighted Binary Search Trees.
+439,Huei-Jan Shyr|Shyr-Shen Yu,Bi-Catenation and Shuffle Product of Languages.
+440,Manfred Broy,Letter from the Editor.
+441,Juris Hartmanis,On Non-Determinancy in Simple Computing Devices.
+442,Johannes Reichardt,Deterministic Grammars and Grammar Morphisms.
+443,Danny Dubé|Marc Feeley,Efficiently building a parse tree from a regular expression.
+444,Javier Esparza|Jérôme Leroux|Pierre Ganty|Rupak Majumdar,Verification of population protocols.
+445,Wim H. Hesselink,Refinement verification of the lazy caching algorithm.
+446,Eric C. R. Hehner,do Considered od: A Contribution to the Programming Calculus.
+447,Dongfeng Chen|Fereidoon Sadri|Rada Chirkova|Tiia J. Salo,Query optimization in information integration.
+448,Xiaolei Qian,The Expressive Power of the Bounded-Iteration Construct.
+449,Hessam Khoshnevisan,Efficient Memo-Table Management Strategies.
+450,Volker Claus,Die mittlere Additionsdauer eines Paralleladdierwerks
+451,Kurt Mehlhorn|Peter Deussen,Van Wijngaarden Grammars and Space Complexity Classs EXSPACE.
+452,Bennett L. Fox,Reducing the Number of Multiplikations in Iterative Processes.
+453,Bogdan Aman|Gabriel Ciobanu,Solving a weak NP-complete problem in polynomial time by using mutual mobile membrane systems.
+454,Werner Kuich,The Characterization of Parallel Ultralinear Grammars by Rational Power Series.
+455,Joachim Biskup|Pratul Dublish|Yehoshua Sagiv,Optimization of a Subclass of Conjunctive Queries.
+456,Alessandro Cimatti|Andrea Micheli|Luke Hunsberger|Marco Roveri|Roberto Posenato,Dynamic controllability via Timed Game Automata.
+457,Amir Pnueli|Zohar Manna,Axiomatic Approach to Total Correctness of Programs.
+458,James D. Currie|Terry I. Visentin,On Abelian 2-avoidable binary patterns.
+459,Matthew Hennessy,Concurrent Testing of Processes.
+460,Margherita Napoli|Salvatore La Torre,Timed tree automata with an application to temporal logic.
+461,Susan Horwitz|Thomas W. Reps,Efficient Comparison of Program Slices.
+462,Per Brinch Hansen,"A Reply to Comments on ""A Comparison of Two Synchronizing Concepts"""
+463,Cristina Tîrnauca|Victor Mitrana,New bounds for the query complexity of an algorithm that learns DFAs with correction and equivalence queries.
+464,Alexandru Mateescu|Arto Salomaa,On Simplest Possible Solutions for Post Correspondence Problems.
+465,A. J. Kfoury|Pawel Urzyczyn,Necessary and Sufficient Conditions for the Universality of Programming Formalisms.
+466,Sheldon Shen,Cooperative Distributed Dynamic Load Balancing.
+467,Aivars Lorencs,The identity problem of finitely generated bi-ideals.
+468,Andreas Malcher|Detlef Wotschke|Martin Kutrib,The Boolean closure of linear context-free languages.
+469,Gerd Kaufholz,Über die Vernetzungsstruktur von Maschinen.
+470,Jinzhao Wu|Mila E. Majster-Cederbaum,Towards action refinement for true concurrent real time.
+471,Rance Cleaveland,Tableau-Based Model Checking in the Propositional Mu-Calculus.
+472,John H. Reif|Scott A. Smolka,The Complexity of Reachability in Distributed Communicating Processes.
+473,Leah Epstein,Bin stretching revisited.
+474,Paolo Zuliani,Reasoning about faulty quantum programs.
+475,Henk Alblas,A Characterization of Attribute Evaluation in Passes.
+476,Achour Mostéfaoui|Michel Raynal,"Signature-free asynchronous Byzantine systems: from multivalued to binary consensus with t< n/3, O(n"
+477,S. Purushothaman|Wuxu Peng,Analysis of a Class of Communicating Finite State Machines.
+478,Ralph-Johan Back,A Calculus of Refinements for Program Derivations.
+479,Borivoj Melichar|Ladislav Vagner,Parallel LL parsing.
+480,Krzysztof R. Apt,Recursive Assertions and Parallel Programs.
+481,Barnaby Martin|Bernard Lidický|Daniël Paulusma|Petr A. Golovach,Finding vertex-surjective graph homomorphisms.
+482,Jeffrey D. Ullman,Fast Algorithms for the Elimination of Common Subexpressions
+483,Piotr Rudnicki|Wlodzimierz Drabent,Erratum: Proving Properties of Pascal Programs in MIZAR 2.
+484,Henning Fernau,Unconditional Transfer in Regulated Rewriting.
+485,Lynn Robert Carter,Further Analysis of Code Generation for a Single Register Machine.
+486,Leslie Lamport,The Synchronization of Independent Processes.
+487,Tsutomu Kamimura,An Effectively Given Initial Semigroup.
+488,Maciej Koutny|Victor Khomenko|Walter Vogler,Canonical prefixes of Petri net unfoldings.
+489,Petr Jancar|Zdenek Sawa,Hardness of equivalence checking for composed finite-state systems.
+490,Luc Duponcheel|M. Duponcheel,Acceptable Functional Programming Systems.
+491,Wim H. Hesselink,Preference rankings in the face of uncertainty.
+492,Erica Moodie|James D. Currie,A word on 7 letters which is non-repetitive up to mod 5.
+493,Stephan Heilbrunner,Truly Prefix-Correct Chain-Free 
+494,Vernon Rego,Some Efficient Computational Algorithms Related to Phase Models.
+495,Tomasz Kowaltowski,Axiomatic Approach to Side Effects and General Jumps.
+496,Joseph Sifakis|Sergio Yovine|Xavier Nicollin,From ATP to Timed Graphs and Hybrid Systems.
+497,Gerhard J. Woeginger|Rüdiger Rudolf|Vladimir G. Deineko,On the Recognition of Permuted Supnick and Incomplete Monge Matrices.
+498,Gabriel Thierrin|Gheorghe Paun|Jürgen Dassow|Sheng Yu,Tree-systems of morphisms.
+499,Andreas Malcher|Beatrice Palano|Carlo Mereghetti|Christian Choffrut,First-order logics: some characterizations and closure properties.
