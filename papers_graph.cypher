@@ -14,11 +14,13 @@ MERGE (journal_year:Year {year:journals.Year})
 MERGE (journal_paper:Scientific_Paper {name:journals.Paper})
 MERGE (journal_editor:Scientific {name:journals.Editor})
 MERGE (journal_city:City {name:journals.City})
+MERGE(journal_editon:Journal_edition {name:journals.Edition})
 
 
 MERGE (journal_author)-[:publish]->(journal_paper)
 MERGE (journal_paper)-[:publishedON]->(journal)
-MERGE (journal_paper)-[:publishedAT]->(journal_year)
+MERGE (journal)-[:edition]->(journal_editon)
+MERGE (journal_edition)-[:AtYear]->(year)
 MERGE (journal)-[:city]->(journal_city)
 MERGE (journal)-[:edit_by]->(journal_editor)
 
@@ -30,10 +32,12 @@ MERGE (conference_year:Year {year:conferences.Year})
 MERGE (conference_paper:Scientific_Paper {name:conferences.Paper})
 MERGE (conference_editor:Scientific {name:conferences.Editor})
 MERGE (conference_city:City {name:conferences.City})
+MERGE (conference_edition:Conference_Edition {name:conferences.Edition})
 
 MERGE (conference_author)-[:publish]->(conference_paper)
 MERGE (conference_paper)-[:publishedON]->(conference)
-MERGE (conference_paper)-[:publishedAT]->(conference_year)
+MERGE (conference_paper)-[:edition]->(conference_edition)
+MERGE (conference_edition)-[:AtYear]->(year)
 MERGE (conference)-[:city]->(conference_city)
 MERGE (conference)-[:edits]->(conference_editor)
 
