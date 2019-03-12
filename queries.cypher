@@ -20,7 +20,7 @@ WHERE (n2:Scientific_Paper)->[e2:publishedIN]->()
 RETURN n3,n1
 
 /*Single Source Shortest Path--  This should give the shortest path to all nddes from the node in the match statement*/
-MATCH (paper:Scientific_Paper {name:'nnnnn'})
+MATCH (paper:Scientific_Paper {name:'Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.'})
 CALL algo.shortestPath.deltaStepping.stream(n)
 YIELD nodeId, distance
 RETURN algo.getNodeById(nodeId).name AS destination, distance
