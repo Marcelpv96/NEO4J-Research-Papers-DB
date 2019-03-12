@@ -1,0 +1,51 @@
+,Author,Editor,Paper
+0,Sanjeev Saxena,Isi Mitrani,Parallel Integer Sorting and Simulation Amongst CRCW Models.
+1,Oded Shmueli,Joseph M. Morris,Pattern Matching in Trees and Nets.
+2,Oded Shmueli,Jürgen Nehmer,NP-complete Problems Simplified on Tree Schemas.
+3,Norbert Blum,Isi Mitrani,On the Power of Chain Rules in Context Free Grammars.
+4,Norbert Blum,Isi Mitrani,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.
+5,Hans Ulrich Simon,Joseph M. Morris,A characterization of rational D0L power series.
+6,Arnold Schönhage,Jürgen Nehmer,The Derivation of Systolic Implementations of Programs.
+7,Norbert Blum,Jürgen Nehmer,Fifo Nets Without Order Deadlock.
+8,Nathan Goodman,Patrick Cousot,On the Complementation Rule for Multivalued Dependencies in Database Relations.
+9,Norbert Blum,Jürgen Nehmer,Equational weighted tree transformations.
+10,Nathan Goodman,Isi Mitrani,Merged processes: a new condensed representation of Petri net behaviour.
+11,Oded Shmueli,Jürgen Nehmer,Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos.
+12,Norbert Blum,Isi Mitrani,A Three-Stage Construction for Multiconnection Networks.
+13,Oded Shmueli,Patrick Cousot,The Expressive Power of Delay Operators in SCCS.
+14,Arnold Schönhage,Isi Mitrani,Calculi for Interaction.
+15,Nathan Goodman,Jürgen Nehmer,A Synthesis of Several Sorting Algorithms.
+16,Hans Ulrich Simon,Jürgen Nehmer,A Workload Model Representative of Static and Dynamic Characteristics.
+17,Norbert Blum,Jürgen Nehmer,Gray visiting Motzkins.
+18,Arnold Schönhage,Isi Mitrani,Trace- and failure-based semantics for responsiveness.
+19,Hans Ulrich Simon,Isi Mitrani,Branching Processes in the Analysis of the Heights of Trees.
+20,Oded Shmueli,Delphine Longuet,Least Upper Bound on the Cost of Optimum Binary Search Trees.
+21,Oded Shmueli,Walter J. Savitch,The Mathematical Analysis of the Computer System Modeled as a Two Stage Cyclic Queue.
+22,Nathan Goodman,Delphine Longuet,"Invariants, Composition, and Substitution."
+23,Juha Honkala,Delphine Longuet,Maximum Entropy and the 
+24,Hans Ulrich Simon,George Leih,Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach.
+25,Arnold Schönhage,Karl Meinke,A theory of structural stationarity in the 
+26,Arnold Schönhage,Karl Meinke,Hex ist PSPACE-vollständig.
+27,Hans Ulrich Simon,George Leih,Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells.
+28,Norbert Blum,Karl Meinke,Disjunctivity and other properties of sets of pseudo-bordered words.
+29,Juha Honkala,Walter J. Savitch,Relational structures model of concurrency.
+30,Arnold Schönhage,Karl Meinke,On an Equivalence between Continuation and Stack Semantics.
+31,Nathan Goodman,George Leih,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.
+32,Juha Honkala,Delphine Longuet,A Note on the Density of Inherently Ambiguous Context-free Languages.
+33,Norbert Blum,Karl Meinke,Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array.
+34,Hans Ulrich Simon,Walter J. Savitch,Computational Algorithms for Networks of Queues with Rejection Blocking.
+35,Oded Shmueli,Delphine Longuet,Compositional Refinements in Multiple Blackboard Systems.
+36,Arnold Schönhage,Delphine Longuet,"Special issue on ""Combining Compositionality and Concurrency"": part 1."
+37,Nathan Goodman,Karl Meinke,Automatic verification of concurrent systems using a formula-based compositional approach.
+38,Arnold Schönhage,Delphine Longuet,On Removing the Machine from the Language.
+39,Oded Shmueli,Delphine Longuet,Complete Problems for Space Bounded Subclasses of NP.
+40,Juha Honkala,Delphine Longuet,Efficient controller synthesis for a fragment of MTL
+41,Sanjeev Saxena,Delphine Longuet,Two Notions of Correctness and Their Relation to Testing.
+42,Norbert Blum,Walter J. Savitch,Best Huffman Trees.
+43,Hans Ulrich Simon,George Leih,Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler.
+44,Oded Shmueli,Karl Meinke,The Parsing Problem for Affix Grammars.
+45,Juha Honkala,Karl Meinke,On Efficient Entreeings.
+46,Nathan Goodman,Walter J. Savitch,Persistence of Vector Replacement Systems is Decidable.
+47,Hans Ulrich Simon,Karl Meinke,Implementing Daubechies Wavelet Transform with Weighted Finite Automata.
+48,Norbert Blum,Walter J. Savitch,Functional Behavior in Data Spaces.
+49,Arnold Schönhage,Delphine Longuet,Inductive Completion with Retracts.
