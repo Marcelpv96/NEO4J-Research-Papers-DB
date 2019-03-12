@@ -9,37 +9,44 @@ MERGE (journal_year:Year {year:journals.Year})
 MERGE (journal_paper:Scientific_Paper {name:journals.Paper})
 MERGE (journal_editor:Scientific {name:journals.Editor})
 MERGE (journal_city:City {name:journals.City})
-MERGE(journal_editon:Journal_edition {name:journals.Edition})
-
+MERGE(journal_edition:Journal_edition {name:journals.Edition, year:journals.Year})
 
 MERGE (journal_author)-[:publish]->(journal_paper)
 MERGE (journal_paper)-[:publishedON]->(journal)
-MERGE (journal_paper)-[:edition]->(journal_editon)
-MERGE (journal_edition)-[:AtYear]->(journal_year)
+MERGE (journal_paper)-[:edition]->(journal_edition)
 MERGE (journal)-[:city]->(journal_city)
 MERGE (journal)-[:edit_by]->(journal_editor)
 ;
 
-LOAD CSV WITH HEADERS FROM 'file:///conferences_10.csv' AS conferences
+MATCH (year:Year), (edition:Journal_edition)
+WHERE year.year = edition.year
+MERGE (edition)-[:AtYear]->(year)
+;
+
+
 /* Create all the nodes_related with CONFERENCE and relations*/
+LOAD CSV WITH HEADERS FROM 'file:///conferences_10.csv' AS conferences
 MERGE (conference_author:Scientific {name:conferences.Author})
 MERGE (conference:Conference {name:conferences.Conference})
 MERGE (conference_year:Year {year:conferences.Year})
 MERGE (conference_paper:Scientific_Paper {name:conferences.Paper})
 MERGE (conference_editor:Scientific {name:conferences.Editor})
 MERGE (conference_city:City {name:conferences.City})
-MERGE (conference_edition:Conference_Edition {name:conferences.Edition})
+MERGE (conference_edition:Conference_edition {name:conferences.Edition, year:conferences.Year})
 
 MERGE (conference_author)-[:publish]->(conference_paper)
 MERGE (conference_paper)-[:publishedON]->(conference)
 MERGE (conference_paper)-[:edition]->(conference_edition)
-MERGE (conference_edition)-[:AtYear]->(conference_year)
 MERGE (conference)-[:city]->(conference_city)
 MERGE (conference)-[:edits]->(conference_editor)
 ;
 
-/* Create all the nodes realted with keywords */
+MATCH (year:Year), (edition:Conference_edition)
+WHERE year.year = edition.year
+MERGE (edition)-[:AtYear]->(year)
+;
 
+/* Create all the nodes realted with keywords */
 LOAD CSV WITH HEADERS FROM 'file:///keywords_10.csv' AS keywords
 MERGE (keyword:KeyWord {name:keywords.Keyword})
 WITH keywords, keyword
@@ -48,13 +55,17 @@ WHERE paper.name = keywords.Paper
 MERGE (paper)-[:HasKeyWord]->(keyword)
 ;
 
-
-LOAD CSV WITH HEADERS FROM 'file:///reviews_10.csv' AS reviews
+/* Create all nodes related with references */
 LOAD CSV WITH HEADERS FROM 'file:///references_10.csv' AS refers
+WITH refers
+MATCH (paper:Scientific_Paper),(reference:Scientific_Paper)
+WHERE paper.name = refers.paper AND reference.name = refers.reference AND paper.name <> reference.name
+MERGE (paper)-[:refersTo]->(reference)
+;
 
-WITH refers, reviews
-MATCH (paper1:Scientific_Paper),(paper2:Scientific_Paper),(author:Scientific)-[:publish]->(author_paper:Scientific_Paper),(editor:Scientific),(paper_review:Scientific_Paper)
-WHERE paper1.name = refers.paper AND paper2.name = refers.reference AND author.name = reviews.Author AND editor.name = reviews.Editor AND paper_review.name = reviews.Paper AND author_paper.name <> paper_review.name AND paper1.name <>  paper2.name
-MERGE (paper1)-[:refersTo]->(paper2)
+/* Create all nodes related with reviews */
+LOAD CSV WITH HEADERS FROM 'file:///reviews_10.csv' AS reviews
+MATCH (author:Scientific)-[:publish]->(author_paper:Scientific_Paper),(editor:Scientific),(paper_review:Scientific_Paper)
+WHERE author.name = reviews.Author AND editor.name = reviews.Editor AND paper_review.name = reviews.Paper AND author_paper.name <> paper_review.name
 MERGE (editor)-[:Assigns_paper{name:paper_review.name}]->(author)
 ;
