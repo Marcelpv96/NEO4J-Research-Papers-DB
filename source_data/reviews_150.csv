@@ -1,0 +1,151 @@
+,Author,Editor,Paper
+0,Hans Ulrich Simon,Patrick Cousot,Parallel Integer Sorting and Simulation Amongst CRCW Models.
+1,Nathan Goodman,Isi Mitrani,Pattern Matching in Trees and Nets.
+2,Oded Shmueli,Jürgen Nehmer,NP-complete Problems Simplified on Tree Schemas.
+3,Juha Honkala,Jürgen Nehmer,On the Power of Chain Rules in Context Free Grammars.
+4,Sanjeev Saxena,Patrick Cousot,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.
+5,Norbert Blum,Isi Mitrani,A characterization of rational D0L power series.
+6,Oded Shmueli,Joseph M. Morris,The Derivation of Systolic Implementations of Programs.
+7,Oded Shmueli,Jürgen Nehmer,Fifo Nets Without Order Deadlock.
+8,Arnold Schönhage,Jürgen Nehmer,On the Complementation Rule for Multivalued Dependencies in Database Relations.
+9,Juha Honkala,Joseph M. Morris,Equational weighted tree transformations.
+10,Sanjeev Saxena,Jürgen Nehmer,Merged processes: a new condensed representation of Petri net behaviour.
+11,Sanjeev Saxena,Isi Mitrani,Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos.
+12,Nathan Goodman,Patrick Cousot,A Three-Stage Construction for Multiconnection Networks.
+13,Hans Ulrich Simon,Patrick Cousot,The Expressive Power of Delay Operators in SCCS.
+14,Sanjeev Saxena,Patrick Cousot,Calculi for Interaction.
+15,Symeon Bozapalidis,Jürgen Nehmer,A Synthesis of Several Sorting Algorithms.
+16,Sanjeev Saxena,Jürgen Nehmer,A Workload Model Representative of Static and Dynamic Characteristics.
+17,Hans Ulrich Simon,Isi Mitrani,Gray visiting Motzkins.
+18,Norbert Blum,Jürgen Nehmer,Trace- and failure-based semantics for responsiveness.
+19,Sanjeev Saxena,Patrick Cousot,Branching Processes in the Analysis of the Heights of Trees.
+20,Arnold Schönhage,Delphine Longuet,Least Upper Bound on the Cost of Optimum Binary Search Trees.
+21,Hans Ulrich Simon,Karl Meinke,The Mathematical Analysis of the Computer System Modeled as a Two Stage Cyclic Queue.
+22,Sanjeev Saxena,George Leih,"Invariants, Composition, and Substitution."
+23,Arnold Schönhage,Walter J. Savitch,Maximum Entropy and the 
+24,Norbert Blum,Karl Meinke,Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach.
+25,Juha Honkala,Karl Meinke,A theory of structural stationarity in the 
+26,Oded Shmueli,Karl Meinke,Hex ist PSPACE-vollständig.
+27,Hans Ulrich Simon,Delphine Longuet,Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells.
+28,Hans Ulrich Simon,Delphine Longuet,Disjunctivity and other properties of sets of pseudo-bordered words.
+29,Nathan Goodman,Delphine Longuet,Relational structures model of concurrency.
+30,Christian Lengauer,Delphine Longuet,On an Equivalence between Continuation and Stack Semantics.
+31,Arnold Schönhage,Karl Meinke,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.
+32,George Rahonis,Karl Meinke,A Note on the Density of Inherently Ambiguous Context-free Languages.
+33,Hans Ulrich Simon,Walter J. Savitch,Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array.
+34,Oded Shmueli,George Leih,Computational Algorithms for Networks of Queues with Rejection Blocking.
+35,Nathan Goodman,George Leih,Compositional Refinements in Multiple Blackboard Systems.
+36,Nathan Goodman,Delphine Longuet,"Special issue on ""Combining Compositionality and Concurrency"": part 1."
+37,Hans Ulrich Simon,Walter J. Savitch,Automatic verification of concurrent systems using a formula-based compositional approach.
+38,Nathan Goodman,George Leih,On Removing the Machine from the Language.
+39,Arnold Schönhage,George Leih,Complete Problems for Space Bounded Subclasses of NP.
+40,Nathan Goodman,George Leih,Efficient controller synthesis for a fragment of MTL
+41,Oded Shmueli,Walter J. Savitch,Two Notions of Correctness and Their Relation to Testing.
+42,Arnold Schönhage,Karl Meinke,Best Huffman Trees.
+43,Zoltán Fülöp 0001,Karl Meinke,Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler.
+44,Oded Shmueli,Delphine Longuet,The Parsing Problem for Affix Grammars.
+45,Hans Ulrich Simon,Karl Meinke,On Efficient Entreeings.
+46,Arnold Schönhage,Karl Meinke,Persistence of Vector Replacement Systems is Decidable.
+47,George Rahonis,Karl Meinke,Implementing Daubechies Wavelet Transform with Weighted Finite Automata.
+48,Arnold Schönhage,Delphine Longuet,Functional Behavior in Data Spaces.
+49,Arnold Schönhage,Karl Meinke,Inductive Completion with Retracts.
+50,Hans Ulrich Simon,Delphine Longuet,Sometime = Always + Recursion = Always on the Equivalence of the Intermittent and Invariant Assertions Methods for Proving Inevitability Properties of Programs.
+51,Juha Honkala,Delphine Longuet,Complete Parameterized Families of Job Scheduling Strategies.
+52,Hans Ulrich Simon,Walter J. Savitch,Modelling higher-order dual nondeterminacy.
+53,George Rahonis,Walter J. Savitch,Dispatcher Primitives for the Construction of Operating System Kernels.
+54,Arnold Schönhage,Karl Meinke,A Note on Multihead Automata and Context-Sensitive Languages
+55,Sanjeev Saxena,Delphine Longuet,A Recursive Second Order Initial Algebra Specification of Primitive Recursion.
+56,Hans Ulrich Simon,George Leih,Compositional schedulability analysis of real-time actor-based systems.
+57,Arnold Schönhage,Walter J. Savitch,Context-Free Graph Languages of Bounded Degree are Generated by Apex Graph Grammars.
+58,Hans Ulrich Simon,George Leih,Worst Case Performance of Weighted Buddy Systems.
+59,Nathan Goodman,Karl Meinke,Contextual Nets.
+60,Arnold Schönhage,Karl Meinke,COSY - A System Specification Language Based on Paths and Processes.
+61,Norbert Blum,Karl Meinke,Applying relation algebra and Rel View to solve problems on orders and lattices.
+62,Hans Ulrich Simon,George Leih,Eliminating Unit Productions from LR Parsers.
+63,Oded Shmueli,Walter J. Savitch,Attribute (Re)evaluation in OPTRAN.
+64,Juha Honkala,Walter J. Savitch,On Parallel Integer Sorting.
+65,Arnold Schönhage,George Leih,Domain Independence and the Relational Calculus.
+66,Nathan Goodman,Karl Meinke,Multi-Granularity Locking for Nested Transactions: A Proof Using a Possibilities Mapping.
+67,Norbert Blum,Karl Meinke,Bounded Quantification and Relations Recognizable by Finite Automata.
+68,Juha Honkala,Delphine Longuet,A Complete Algebraic Characterization of Behavioral Subtyping.
+69,Juha Honkala,Delphine Longuet,Efficient execution of dynamically controllable simple temporal networks with uncertainty.
+70,Hans Ulrich Simon,Walter J. Savitch,Minimum Feedback Vertex Sets in Cocomparability Graphs and Convex Bipartite Graphs.
+71,Sanjeev Saxena,Delphine Longuet,Behavioural Approaches to Algebraic Specifications: A Comparative Study.
+72,Oded Shmueli,George Leih,Instruction sequence processing operators.
+73,Norbert Blum,George Leih,What is Failure? An Approach to Constructive Negation.
+74,Hans Ulrich Simon,Karl Meinke,STG decomposition strategies in combination with unfolding.
+75,Oded Shmueli,Delphine Longuet,Quad Trees: A Data Structure for Retrieval on Composite Keys.
+76,Sanjeev Saxena,Delphine Longuet,On the Number of Relational Operators Necessary to Compute Certain Functions of Real Variables.
+77,Norbert Blum,Karl Meinke,A Study of Queueing Networks with Deterministic Service and Application to Computer Networks.
+78,Norbert Blum,Walter J. Savitch,Probabilistic bisimulation for realistic schedulers.
+79,Arnold Schönhage,George Leih,Explaining the Wheel Sieve.
+80,Juha Honkala,Karl Meinke,Another Polynomial Homomorphism.
+81,Nathan Goodman,Karl Meinke,Variance Reduction Techniques for the Simulation of Markov Process.
+82,Norbert Blum,Delphine Longuet,State complexity of deletion and bipolar deletion.
+83,Norbert Blum,George Leih,Decomposition of Graphs and Monotone Formula Size of Homogeneous Functions.
+84,Juha Honkala,Walter J. Savitch,Symbolic checking of Fuzzy CTL on Fuzzy Program Graph.
+85,Juha Honkala,George Leih,Regular and context-free nominal traces.
+86,Arnold Schönhage,George Leih,Deterministic pushdown-CD-systems of stateless deterministic R(1)-automata.
+87,Oded Shmueli,Delphine Longuet,Special issue: Synthesis and SYNT 2014.
+88,Juha Honkala,George Leih,On the Synchronization in Parallel Communicating Grammar Systems.
+89,Arnold Schönhage,Walter J. Savitch,Weakly Context-Sensitive Languages as Model for Programming Languages.
+90,Hans Ulrich Simon,Karl Meinke,Rules of Inference for Procedure Calls.
+91,Sanjeev Saxena,George Leih,The Construction of Operator Interfaces Based on Logical Input Devices.
+92,Oded Shmueli,Walter J. Savitch,High Level Tree Transducers and Iterated Pushdown Tree Transducers.
+93,Nathan Goodman,Karl Meinke,Gobang ist PSPACE-vollständig.
+94,Nathan Goodman,Delphine Longuet,A note on autodense related languages.
+95,Sanjeev Saxena,Karl Meinke,Solving HPP and SAT by P Systems with Active Membranes and Separation Rules.
+96,Symeon Bozapalidis,Karl Meinke,Optimizing the Costs of Hierarchical Quorum Consensus.
+97,Hans Ulrich Simon,George Leih,Recursive Petri nets.
+98,Sanjeev Saxena,Karl Meinke,Multitype Multiprogramming Models.
+99,Norbert Blum,George Leih,Automatic Correction of Syntax-Errors in Programming Languages.
+100,Arnold Schönhage,George Leih,Representation and uniformization of algebraic transductions.
+101,Nathan Goodman,Walter J. Savitch,Concurrent Bisimulations in Petri Nets.
+102,Hans Ulrich Simon,Karl Meinke,Enhanced prefetching and caching strategies for single- and multi-disk systems.
+103,Nathan Goodman,Karl Meinke,Recording the Use of Memory in Right-Boundary Grammars and Push-Down Automata.
+104,Nathan Goodman,Walter J. Savitch,State space axioms for T-systems.
+105,Sanjeev Saxena,Karl Meinke,Extended multi bottom-up tree transducers.
+106,Juha Honkala,Delphine Longuet,The Clean Termination of Iterative Programs.
+107,Juha Honkala,Delphine Longuet,Infinite Proof Rules for Loops.
+108,Hans Ulrich Simon,Delphine Longuet,Nonfinite Axiomatizability of the Equational Theory of Shuffle.
+109,Oded Shmueli,Walter J. Savitch,"Running a job on a collection of partly available machines, with on-line restarts."
+110,Hans Ulrich Simon,Walter J. Savitch,Data Refinement by Calculation.
+111,Hans Ulrich Simon,Delphine Longuet,Program Refinement in Fair Transition Systems.
+112,Hans Ulrich Simon,Karl Meinke,A Functional Model for Describing and Reasoning About Time Behaviour of Computing Systems.
+113,Sanjeev Saxena,Karl Meinke,"M-Nets: An Algebra of High-Level Petri Nets, with an Application to the Semantics of Concurrent Programming Languages."
+114,Juha Honkala,Walter J. Savitch,On the Look-Ahead Problem in Lexical Analysis.
+115,Arnold Schönhage,Walter J. Savitch,A theory of formal synthesis via inductive learning.
+116,Norbert Blum,Walter J. Savitch,The maximum gain of increasing the number of preemptions in multiprocessor scheduling.
+117,Hans Ulrich Simon,Karl Meinke,Data Encodings and Their Costs.
+118,Annie Choquet,George Leih,Hierarchies of Complete Problems.
+119,Hans Ulrich Simon,Delphine Longuet,Ein Vollständigkeitssatz für Programme und Schaltkreise.
+120,Hans Ulrich Simon,George Leih,Type-based information flow analysis for the pi-calculus.
+121,Nathan Goodman,Delphine Longuet,Sur une Conjecture de S. Greibach.
+122,Norbert Blum,Delphine Longuet,A Conservation Law for G/G/m Queueing Systems.
+123,Nathan Goodman,Walter J. Savitch,Applications of Efficient Mergeable Heaps for Optimization Problems on Trees.
+124,Hans Ulrich Simon,Delphine Longuet,Context-Free Graph Grammars and Concatenation of Graphs.
+125,Hans Ulrich Simon,George Leih,On a Class of Recursive Procedures and Equivalent Iterative Ones.
+126,Arnold Schönhage,Walter J. Savitch,Algorithms for Fast Evaluation of Boolean Expressions.
+127,Juha Honkala,Walter J. Savitch,A general account of coinduction up-to.
+128,Arnold Schönhage,Delphine Longuet,A Comparison of Two Synchronizing Concepts.
+129,Sanjeev Saxena,Karl Meinke,How to Calculate Symmetries of Petri Nets.
+130,Juha Honkala,Karl Meinke,"Nonterminals, Homomorphisms and Codings in Different Variations of OL-Systems. I. Deterministic Systems."
+131,Nathan Goodman,Karl Meinke,Recognizability of graph and pattern languages.
+132,Hans Ulrich Simon,George Leih,The Synthesis Problem of Petri Nets.
+133,Hans Ulrich Simon,Karl Meinke,A Binary Operation on Trees and an Initial Algebra Characterization for Finite Tree Types.
+134,Norbert Blum,Karl Meinke,On weighted first-order logics with discounting.
+135,Oded Shmueli,Delphine Longuet,A Characterization of Context-free String Languages by Directed Node-label Controlled Graph Grammars.
+136,Nathan Goodman,Karl Meinke,"Demonic, angelic and unbounded probabilistic choices in sequential programs."
+137,Arnold Schönhage,Delphine Longuet,An Efficiency Preorder for Processes.
+138,Sanjeev Saxena,George Leih,On the Generalization of Higman and Kruskal's Theorems to Regular Languages and Rational Trees.
+139,Oded Shmueli,George Leih,Modeling Splits in File Structures.
+140,Hans Ulrich Simon,Karl Meinke,Languages Accepted by Systolic Y-Tree Automata: Structural Characterizations.
+141,Nathan Goodman,Karl Meinke,Synchronized regular expressions.
+142,Sanjeev Saxena,Delphine Longuet,On regular tree languages and deterministic pushdown automata.
+143,Hans Ulrich Simon,Walter J. Savitch,A Modal Logic for Message Passing Processes.
+144,Hans Ulrich Simon,Karl Meinke,Maintaining Range Trees in Secondary Memory. Part I: Partitions.
+145,Oded Shmueli,Walter J. Savitch,Does indirect addressing matter? - A note.
+146,Chua-Huang Huang,Walter J. Savitch,Reasoning Algebraically about Loops.
+147,Arnold Schönhage,Walter J. Savitch,A Model of a Time Sharing Virtual Memory System Solved Using Equivalence and Decomposition Methods.
+148,Oded Shmueli,George Leih,Trace Nets and Process Automata.
+149,Nathan Goodman,Walter J. Savitch,Metric propositional neighborhood logic with an equivalence relation.
