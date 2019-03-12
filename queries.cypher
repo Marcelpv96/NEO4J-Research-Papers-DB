@@ -19,7 +19,7 @@ MATCH (person:Scientific)->[:publishes]->(paper:Scientific_Paper)->[:publishedON
 WHERE (n2:Scientific_Paper)->[e2:publishedIN]->()
 RETURN n3,n1
 
-
+/*Single Source Shortest Path--  This should give the shortest path to all nddes from the node in the match statement*/
 MATCH (paper:Scientific_Paper {name:'nnnnn'})
 CALL algo.shortestPath.deltaStepping.stream(n)
 YIELD nodeId, distance
