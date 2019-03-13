@@ -41,7 +41,7 @@ MERGE (conference_author)-[:writes]->(conference_paper)
 MERGE (conference_paper)-[:edition]->(conference_edition)
 MERGE (conference_edition)-[:city]->(conference_city)
 MERGE (conference)-[:edits]->(conference_editor)
-MERGE (conference)<-[:isEdition]->(conference_edition)
+MERGE (conference)<-[:isEdition]-(conference_edition)
 
 WITH count(*) as dummy
 
