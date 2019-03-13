@@ -1,0 +1,19 @@
+,Author,Conference,Year,Paper,Editor,City,Edition,Isbn,Dni,Age,Pages
+0,Nathan Goodman,MAXsat conference,2019,The Derivation of Systolic Implementations of Programs.,Walter J. Savitch,Madrid,edition 2019 MAXsat conference,153235539,75035292,49,13
+1,Oded Shmueli,MAXsat conference,2019,The Derivation of Systolic Implementations of Programs.,Walter J. Savitch,Madrid,edition 2019 MAXsat conference,153235539,61285105,73,13
+2,Sanjeev Saxena,MAXsat conference,2015,Fifo Nets Without Order Deadlock.,Karl Meinke,London,edition 2015 MAXsat conference,69620705,96551868,37,15
+3,Nathan Goodman,UDL conference,2018,On the Complementation Rule for Multivalued Dependencies in Database Relations.,Karl Meinke,Barcelona,edition 2018 UDL conference,67959291,75035292,49,16
+4,Oded Shmueli,UDL conference,2018,On the Complementation Rule for Multivalued Dependencies in Database Relations.,Karl Meinke,Barcelona,edition 2018 UDL conference,67959291,61285105,73,16
+5,Arnold Schönhage,MAXsat conference,2017,Equational weighted tree transformations.,George Leih,London,edition 2017 MAXsat conference,121072331,82282372,51,20
+6,Norbert Blum,MAXsat conference,2017,Merged processes: a new condensed representation of Petri net behaviour.,Karl Meinke,Barcelona,edition 2017 MAXsat conference,176509576,84387125,26,12
+7,Arnold Schönhage,MAXsat conference,2018,Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos.,George Leih,Madrid,edition 2018 MAXsat conference,166386506,82282372,51,13
+8,Norbert Blum,UDL conference,2021,A Three-Stage Construction for Multiconnection Networks.,Walter J. Savitch,London,edition 2021 UDL conference,178555578,84387125,26,16
+9,Nathan Goodman,MAXsat conference,2021,The Expressive Power of Delay Operators in SCCS.,Delphine Longuet,Lleida,edition 2021 MAXsat conference,125210804,75035292,49,6
+10,Oded Shmueli,MAXsat conference,2021,The Expressive Power of Delay Operators in SCCS.,Delphine Longuet,Lleida,edition 2021 MAXsat conference,125210804,61285105,73,6
+11,Nathan Goodman,MAXsat conference,2020,Calculi for Interaction.,George Leih,London,edition 2020 MAXsat conference,68329462,75035292,49,12
+12,Oded Shmueli,MAXsat conference,2020,Calculi for Interaction.,George Leih,London,edition 2020 MAXsat conference,68329462,61285105,73,12
+13,Sanjeev Saxena,MAXsat conference,2016,A Synthesis of Several Sorting Algorithms.,Walter J. Savitch,Lleida,edition 2016 MAXsat conference,195278268,96551868,37,10
+14,Norbert Blum,UDL conference,2017,A Workload Model Representative of Static and Dynamic Characteristics.,Delphine Longuet,London,edition 2017 UDL conference,51044045,84387125,26,4
+15,Arnold Schönhage,UDL conference,2019,Gray visiting Motzkins.,Delphine Longuet,Madrid,edition 2019 UDL conference,136868153,82282372,51,19
+16,Sanjeev Saxena,UDL conference,2020,Trace- and failure-based semantics for responsiveness.,Delphine Longuet,London,edition 2020 UDL conference,75167715,96551868,37,16
+17,Arnold Schönhage,UDL conference,2018,Branching Processes in the Analysis of the Heights of Trees.,Karl Meinke,Madrid,edition 2018 UDL conference,73371033,82282372,51,10

@@ -12,7 +12,7 @@ MATCH (citing_paper:Scientific_Paper)-[:refersTo]->
 WITH conference, cited_paper, count(citing_paper) as references
 ORDER BY references DESC
 WITH conference, collect(cited_paper) as cited_papers
-RETURN conference, cited_papers[..3] 
+RETURN conference, cited_papers[..3]
 
 
 /*  For each conference, find its community MIGHT BE DONE*/
@@ -27,7 +27,7 @@ WHERE year.year = "2019"
 WITH collect(paper) as papers_2019
 MATCH (paper:Scientific_Paper)-[:edition]->(edition:Journal_edition)-[:AtYear]->(year:Year)
 WHERE year.year = "2018" OR year.year = "2017"
-MATCH (paper)-[:refersTo]->(cited_paper:Scientific_Paper)
+MATCH (cited_paper:Scientific_Paper)-[:refersTo]->(paper)
 WHERE cited_paper IN papers_2019
 MATCH (journal:Journal)-[:hasEdition]->(edition)
 WITH count(cited_paper) as no_citings, paper, journal

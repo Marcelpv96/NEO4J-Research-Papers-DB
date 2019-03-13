@@ -12,11 +12,10 @@ MERGE (journal_city:City {name:journals.City})
 MERGE(journal_edition:Journal_edition {name:journals.Edition, year:journals.Year})
 
 MERGE (journal_author)-[:writes]->(journal_paper)
-MERGE (journal_paper)-[:publishedON]->(journal)
 MERGE (journal_paper)-[:edition]->(journal_edition)
 MERGE (journal)-[:city]->(journal_city)
 MERGE (journal)-[:edit_by]->(journal_editor)
-MERGE (journal)-[:hasEdition]->(journal_edition)
+MERGE (journal)<-[:isEdition]-(journal_edition)
 
 WITH count(*) as dummy
 

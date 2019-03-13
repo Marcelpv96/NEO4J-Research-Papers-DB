@@ -1,0 +1,112 @@
+,Author,Editor,Paper,Affiliation,CompanyUniversity,Decision,Opinion,Age,Dni
+0,Oded Shmueli,Joseph M. Morris,Parallel Integer Sorting and Simulation Amongst CRCW Models.,Microsoft,Company,Denied,"Nice paper, but not too much interesting.",57,55958777
+1,Arnold Schönhage,Joseph M. Morris,Parallel Integer Sorting and Simulation Amongst CRCW Models.,UDL,University,Accepted,Too much boring.,57,55958777
+2,Sanjeev Saxena,Joseph M. Morris,Parallel Integer Sorting and Simulation Amongst CRCW Models.,UDL,University,Denied,Really good.,57,55958777
+3,Norbert Blum,Joseph M. Morris,Parallel Integer Sorting and Simulation Amongst CRCW Models.,Intel,Company,Denied,"Nice paper, but not too much interesting.",57,55958777
+4,Arnold Schönhage,Joseph M. Morris,Parallel Integer Sorting and Simulation Amongst CRCW Models.,Intel,Company,Denied,Nice to know.,57,55958777
+5,Nathan Goodman,Jürgen Nehmer,Pattern Matching in Trees and Nets.,UDL,University,Denied,Really good.,23,85069212
+6,Oded Shmueli,Jürgen Nehmer,Pattern Matching in Trees and Nets.,Microsoft,Company,Denied,Too much boring.,23,85069212
+7,Sanjeev Saxena,Jürgen Nehmer,Pattern Matching in Trees and Nets.,Intel,Company,Denied,Too much boring.,23,85069212
+8,Arnold Schönhage,Patrick Cousot,NP-complete Problems Simplified on Tree Schemas.,UPC,University,Denied,Really good.,53,88244671
+9,Norbert Blum,Patrick Cousot,NP-complete Problems Simplified on Tree Schemas.,UDL,University,Denied,Really good.,53,88244671
+10,Norbert Blum,Joseph M. Morris,On the Power of Chain Rules in Context Free Grammars.,UPC,University,Denied,Really good.,57,55958777
+11,Nathan Goodman,Joseph M. Morris,On the Power of Chain Rules in Context Free Grammars.,Intel,Company,Accepted,"Nice paper, but not too much interesting.",57,55958777
+12,Norbert Blum,Joseph M. Morris,On the Power of Chain Rules in Context Free Grammars.,UDL,University,Accepted,"Nice paper, but not too much interesting.",57,55958777
+13,Nathan Goodman,Joseph M. Morris,On the Power of Chain Rules in Context Free Grammars.,UPC,University,Accepted,Too much boring.,57,55958777
+14,Arnold Schönhage,Isi Mitrani,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,Intel,Company,Accepted,Really good.,79,49961445
+15,Nathan Goodman,Isi Mitrani,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting.",79,49961445
+16,Oded Shmueli,Joseph M. Morris,A characterization of rational D0L power series.,Microsoft,Company,Accepted,Nice to know.,57,55958777
+17,Sanjeev Saxena,Joseph M. Morris,A characterization of rational D0L power series.,Intel,Company,Denied,Really good.,57,55958777
+18,Oded Shmueli,Joseph M. Morris,A characterization of rational D0L power series.,Microsoft,Company,Accepted,Really good.,57,55958777
+19,Nathan Goodman,Joseph M. Morris,A characterization of rational D0L power series.,Microsoft,Company,Accepted,Really good.,57,55958777
+20,Sanjeev Saxena,Joseph M. Morris,A characterization of rational D0L power series.,UDL,University,Denied,"Nice paper, but not too much interesting.",57,55958777
+21,Norbert Blum,Joseph M. Morris,A characterization of rational D0L power series.,Intel,Company,Accepted,Really good.,57,55958777
+22,Oded Shmueli,Isi Mitrani,Parallel Integer Sorting and Simulation Amongst CRCW Models.,UPC,University,Accepted,Nice to know.,79,49961445
+23,Sanjeev Saxena,Isi Mitrani,Parallel Integer Sorting and Simulation Amongst CRCW Models.,Intel,Company,Denied,"Nice paper, but not too much interesting.",79,49961445
+24,Nathan Goodman,Isi Mitrani,Parallel Integer Sorting and Simulation Amongst CRCW Models.,UPC,University,Denied,Really good.,79,49961445
+25,Norbert Blum,Isi Mitrani,Parallel Integer Sorting and Simulation Amongst CRCW Models.,Microsoft,Company,Denied,"Nice paper, but not too much interesting.",79,49961445
+26,Juha Honkala,Patrick Cousot,Pattern Matching in Trees and Nets.,UDL,University,Accepted,"Nice paper, but not too much interesting.",53,88244671
+27,Oded Shmueli,Patrick Cousot,Pattern Matching in Trees and Nets.,UDL,University,Accepted,"Nice paper, but not too much interesting.",53,88244671
+28,Nathan Goodman,Patrick Cousot,Pattern Matching in Trees and Nets.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting.",53,88244671
+29,Norbert Blum,Patrick Cousot,Pattern Matching in Trees and Nets.,UDL,University,Denied,Nice to know.,53,88244671
+30,Norbert Blum,Jürgen Nehmer,NP-complete Problems Simplified on Tree Schemas.,UPC,University,Accepted,Nice to know.,23,85069212
+31,Juha Honkala,Jürgen Nehmer,NP-complete Problems Simplified on Tree Schemas.,Intel,Company,Denied,Really good.,23,85069212
+32,Sanjeev Saxena,Jürgen Nehmer,NP-complete Problems Simplified on Tree Schemas.,UPC,University,Denied,Nice to know.,23,85069212
+33,Oded Shmueli,Jürgen Nehmer,NP-complete Problems Simplified on Tree Schemas.,Intel,Company,Accepted,Too much boring.,23,85069212
+34,Norbert Blum,Jürgen Nehmer,NP-complete Problems Simplified on Tree Schemas.,Intel,Company,Denied,Too much boring.,23,85069212
+35,Nathan Goodman,Jürgen Nehmer,NP-complete Problems Simplified on Tree Schemas.,Microsoft,Company,Denied,"Nice paper, but not too much interesting.",23,85069212
+36,Arnold Schönhage,Jürgen Nehmer,NP-complete Problems Simplified on Tree Schemas.,Microsoft,Company,Accepted,Nice to know.,23,85069212
+37,Sanjeev Saxena,Jürgen Nehmer,NP-complete Problems Simplified on Tree Schemas.,UPC,University,Accepted,Nice to know.,23,85069212
+38,Sanjeev Saxena,Patrick Cousot,On the Power of Chain Rules in Context Free Grammars.,UDL,University,Accepted,Too much boring.,53,88244671
+39,Nathan Goodman,Patrick Cousot,On the Power of Chain Rules in Context Free Grammars.,UDL,University,Denied,"Nice paper, but not too much interesting.",53,88244671
+40,Sanjeev Saxena,Patrick Cousot,On the Power of Chain Rules in Context Free Grammars.,UDL,University,Accepted,"Nice paper, but not too much interesting.",53,88244671
+41,Nathan Goodman,Patrick Cousot,On the Power of Chain Rules in Context Free Grammars.,Microsoft,Company,Denied,Too much boring.,53,88244671
+42,Sanjeev Saxena,Patrick Cousot,On the Power of Chain Rules in Context Free Grammars.,Intel,Company,Accepted,"Nice paper, but not too much interesting.",53,88244671
+43,Juha Honkala,Patrick Cousot,On the Power of Chain Rules in Context Free Grammars.,UPC,University,Accepted,"Nice paper, but not too much interesting.",53,88244671
+44,Norbert Blum,Patrick Cousot,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,Intel,Company,Accepted,"Nice paper, but not too much interesting.",53,88244671
+45,Juha Honkala,Patrick Cousot,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,Intel,Company,Accepted,"Nice paper, but not too much interesting.",53,88244671
+46,Oded Shmueli,Patrick Cousot,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,Microsoft,Company,Accepted,Too much boring.,53,88244671
+47,Nathan Goodman,Patrick Cousot,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,UDL,University,Accepted,"Nice paper, but not too much interesting.",53,88244671
+48,Oded Shmueli,Patrick Cousot,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,UPC,University,Denied,"Nice paper, but not too much interesting.",53,88244671
+49,Arnold Schönhage,Patrick Cousot,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,Microsoft,Company,Accepted,Really good.,53,88244671
+50,Sanjeev Saxena,Patrick Cousot,A characterization of rational D0L power series.,UDL,University,Accepted,Nice to know.,53,88244671
+51,Nathan Goodman,Patrick Cousot,A characterization of rational D0L power series.,Intel,Company,Denied,Too much boring.,53,88244671
+52,Oded Shmueli,Patrick Cousot,A characterization of rational D0L power series.,UDL,University,Accepted,Really good.,53,88244671
+53,Norbert Blum,Patrick Cousot,A characterization of rational D0L power series.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting.",53,88244671
+54,Arnold Schönhage,Walter J. Savitch,The Derivation of Systolic Implementations of Programs.,UDL,University,Denied,Nice to know.,60,50074145
+55,Juha Honkala,Walter J. Savitch,The Derivation of Systolic Implementations of Programs.,Intel,Company,Accepted,"Nice paper, but not too much interesting.",60,50074145
+56,Oded Shmueli,Walter J. Savitch,The Derivation of Systolic Implementations of Programs.,UDL,University,Accepted,Really good.,60,50074145
+57,Oded Shmueli,Walter J. Savitch,The Derivation of Systolic Implementations of Programs.,UPC,University,Denied,Too much boring.,60,50074145
+58,Juha Honkala,Walter J. Savitch,The Derivation of Systolic Implementations of Programs.,Microsoft,Company,Denied,Too much boring.,60,50074145
+59,Nathan Goodman,Walter J. Savitch,The Derivation of Systolic Implementations of Programs.,UDL,University,Denied,"Nice paper, but not too much interesting.",60,50074145
+60,Nathan Goodman,Karl Meinke,Fifo Nets Without Order Deadlock.,Intel,Company,Denied,Too much boring.,86,80137718
+61,Oded Shmueli,Karl Meinke,Fifo Nets Without Order Deadlock.,Intel,Company,Denied,"Nice paper, but not too much interesting.",86,80137718
+62,Norbert Blum,Karl Meinke,Fifo Nets Without Order Deadlock.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting.",86,80137718
+63,Nathan Goodman,Karl Meinke,On the Complementation Rule for Multivalued Dependencies in Database Relations.,UDL,University,Denied,Nice to know.,86,80137718
+64,Oded Shmueli,Karl Meinke,On the Complementation Rule for Multivalued Dependencies in Database Relations.,UPC,University,Accepted,"Nice paper, but not too much interesting.",86,80137718
+65,Norbert Blum,Karl Meinke,On the Complementation Rule for Multivalued Dependencies in Database Relations.,Microsoft,Company,Denied,Too much boring.,86,80137718
+66,Nathan Goodman,Karl Meinke,On the Complementation Rule for Multivalued Dependencies in Database Relations.,UDL,University,Accepted,Too much boring.,86,80137718
+67,Juha Honkala,Karl Meinke,On the Complementation Rule for Multivalued Dependencies in Database Relations.,Microsoft,Company,Denied,Nice to know.,86,80137718
+68,Oded Shmueli,Karl Meinke,On the Complementation Rule for Multivalued Dependencies in Database Relations.,Microsoft,Company,Accepted,Too much boring.,86,80137718
+69,Sanjeev Saxena,Karl Meinke,On the Complementation Rule for Multivalued Dependencies in Database Relations.,UDL,University,Denied,Really good.,86,80137718
+70,Sanjeev Saxena,George Leih,Equational weighted tree transformations.,Intel,Company,Denied,Too much boring.,53,80636912
+71,Oded Shmueli,George Leih,Equational weighted tree transformations.,UDL,University,Accepted,Really good.,53,80636912
+72,Nathan Goodman,George Leih,Equational weighted tree transformations.,UPC,University,Accepted,Too much boring.,53,80636912
+73,Oded Shmueli,Karl Meinke,Merged processes: a new condensed representation of Petri net behaviour.,UDL,University,Denied,Nice to know.,86,80137718
+74,Sanjeev Saxena,Karl Meinke,Merged processes: a new condensed representation of Petri net behaviour.,Intel,Company,Denied,Nice to know.,86,80137718
+75,Nathan Goodman,George Leih,Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos.,Intel,Company,Denied,"Nice paper, but not too much interesting.",53,80636912
+76,Oded Shmueli,George Leih,Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos.,UDL,University,Accepted,Too much boring.,53,80636912
+77,Nathan Goodman,George Leih,Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos.,UDL,University,Denied,"Nice paper, but not too much interesting.",53,80636912
+78,Oded Shmueli,George Leih,Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos.,UDL,University,Denied,Really good.,53,80636912
+79,Nathan Goodman,Walter J. Savitch,A Three-Stage Construction for Multiconnection Networks.,Microsoft,Company,Denied,Nice to know.,60,50074145
+80,Norbert Blum,Walter J. Savitch,A Three-Stage Construction for Multiconnection Networks.,Microsoft,Company,Denied,Nice to know.,60,50074145
+81,Oded Shmueli,Walter J. Savitch,A Three-Stage Construction for Multiconnection Networks.,Intel,Company,Denied,Nice to know.,60,50074145
+82,Nathan Goodman,Delphine Longuet,The Expressive Power of Delay Operators in SCCS.,UDL,University,Denied,"Nice paper, but not too much interesting.",27,51136566
+83,Oded Shmueli,Delphine Longuet,The Expressive Power of Delay Operators in SCCS.,Intel,Company,Denied,Nice to know.,27,51136566
+84,Nathan Goodman,Delphine Longuet,The Expressive Power of Delay Operators in SCCS.,Microsoft,Company,Denied,Really good.,27,51136566
+85,Oded Shmueli,Delphine Longuet,The Expressive Power of Delay Operators in SCCS.,UPC,University,Accepted,Really good.,27,51136566
+86,Sanjeev Saxena,Delphine Longuet,The Expressive Power of Delay Operators in SCCS.,UPC,University,Accepted,Nice to know.,27,51136566
+87,Norbert Blum,George Leih,Calculi for Interaction.,UPC,University,Denied,Really good.,53,80636912
+88,Nathan Goodman,George Leih,Calculi for Interaction.,Microsoft,Company,Accepted,Really good.,53,80636912
+89,Arnold Schönhage,George Leih,Calculi for Interaction.,UDL,University,Denied,Nice to know.,53,80636912
+90,Nathan Goodman,George Leih,Calculi for Interaction.,UPC,University,Accepted,Nice to know.,53,80636912
+91,Oded Shmueli,George Leih,Calculi for Interaction.,UDL,University,Accepted,Nice to know.,53,80636912
+92,Nathan Goodman,George Leih,Calculi for Interaction.,Intel,Company,Accepted,Really good.,53,80636912
+93,Arnold Schönhage,George Leih,Calculi for Interaction.,Intel,Company,Denied,"Nice paper, but not too much interesting.",53,80636912
+94,Nathan Goodman,Walter J. Savitch,A Synthesis of Several Sorting Algorithms.,UPC,University,Accepted,Really good.,60,50074145
+95,Oded Shmueli,Walter J. Savitch,A Synthesis of Several Sorting Algorithms.,Intel,Company,Accepted,Too much boring.,60,50074145
+96,Sanjeev Saxena,Walter J. Savitch,A Synthesis of Several Sorting Algorithms.,Intel,Company,Accepted,Too much boring.,60,50074145
+97,Norbert Blum,Delphine Longuet,A Workload Model Representative of Static and Dynamic Characteristics.,Intel,Company,Accepted,"Nice paper, but not too much interesting.",27,51136566
+98,Nathan Goodman,Delphine Longuet,A Workload Model Representative of Static and Dynamic Characteristics.,Intel,Company,Accepted,Really good.,27,51136566
+99,Sanjeev Saxena,Delphine Longuet,A Workload Model Representative of Static and Dynamic Characteristics.,UDL,University,Accepted,Nice to know.,27,51136566
+100,Arnold Schönhage,Delphine Longuet,A Workload Model Representative of Static and Dynamic Characteristics.,UDL,University,Accepted,Too much boring.,27,51136566
+101,Arnold Schönhage,Delphine Longuet,Gray visiting Motzkins.,Microsoft,Company,Denied,"Nice paper, but not too much interesting.",27,51136566
+102,Nathan Goodman,Delphine Longuet,Gray visiting Motzkins.,UPC,University,Denied,Really good.,27,51136566
+103,Sanjeev Saxena,Delphine Longuet,Gray visiting Motzkins.,UDL,University,Accepted,Nice to know.,27,51136566
+104,Arnold Schönhage,Delphine Longuet,Gray visiting Motzkins.,UPC,University,Accepted,"Nice paper, but not too much interesting.",27,51136566
+105,Oded Shmueli,Delphine Longuet,Trace- and failure-based semantics for responsiveness.,Microsoft,Company,Accepted,Really good.,27,51136566
+106,Nathan Goodman,Delphine Longuet,Trace- and failure-based semantics for responsiveness.,UDL,University,Denied,Nice to know.,27,51136566
+107,Juha Honkala,Karl Meinke,Branching Processes in the Analysis of the Heights of Trees.,UPC,University,Accepted,"Nice paper, but not too much interesting.",86,80137718
+108,Oded Shmueli,Karl Meinke,Branching Processes in the Analysis of the Heights of Trees.,Intel,Company,Denied,Really good.,86,80137718
+109,Arnold Schönhage,Karl Meinke,Branching Processes in the Analysis of the Heights of Trees.,UPC,University,Denied,Nice to know.,86,80137718
+110,Oded Shmueli,Karl Meinke,Branching Processes in the Analysis of the Heights of Trees.,UDL,University,Denied,Too much boring.,86,80137718
