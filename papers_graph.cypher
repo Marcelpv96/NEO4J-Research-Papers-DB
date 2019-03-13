@@ -33,7 +33,7 @@ MERGE (conference_author:Scientific {name:conferences.Author, age:conferences.Ag
 MERGE (conference:Conference {name:conferences.Conference})
 MERGE (conference_year:Year {year:conferences.Year})
 MERGE (conference_paper:Scientific_Paper {name:conferences.Paper, ISBN:conferences.Isbn ,pages:conferences.Pages})
-MERGE (conference_editor:Scientific {name:conferences.Editor})
+MERGE (conference_editor:Scientific {name:conferences.Editor, age:conferences.EditorAge, dni:conferences.EditorDni})
 MERGE (conference_city:City {name:conferences.City})
 MERGE (conference_edition:Conference_edition {name:conferences.Edition, year:conferences.Year})
 
