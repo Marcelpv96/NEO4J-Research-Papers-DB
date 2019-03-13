@@ -1,0 +1,158 @@
+,Author,Conference,Year,Paper,Editor,City,Edition
+0,Arnold Schönhage,UDL conference,2020,Multi-Granularity Locking for Nested Transactions: A Proof Using a Possibilities Mapping.,George Leih,London,edition 2020 UDL conference
+1,Arnold Schönhage,MAXsat conference,2016,Bounded Quantification and Relations Recognizable by Finite Automata.,Delphine Longuet,London,edition 2016 MAXsat conference
+2,Sanjeev Saxena,MAXsat conference,2019,A Complete Algebraic Characterization of Behavioral Subtyping.,Karl Meinke,Balaguer,edition 2019 MAXsat conference
+3,Arnold Schönhage,UDL conference,2015,Efficient execution of dynamically controllable simple temporal networks with uncertainty.,George Leih,London,edition 2015 UDL conference
+4,Nathan Goodman,UDL conference,2018,Minimum Feedback Vertex Sets in Cocomparability Graphs and Convex Bipartite Graphs.,George Leih,Balaguer,edition 2018 UDL conference
+5,Oded Shmueli,UDL conference,2018,Minimum Feedback Vertex Sets in Cocomparability Graphs and Convex Bipartite Graphs.,George Leih,Balaguer,edition 2018 UDL conference
+6,Nathan Goodman,MAXsat conference,2021,Behavioural Approaches to Algebraic Specifications: A Comparative Study.,Delphine Longuet,Madrid,edition 2021 MAXsat conference
+7,Oded Shmueli,MAXsat conference,2021,Behavioural Approaches to Algebraic Specifications: A Comparative Study.,Delphine Longuet,Madrid,edition 2021 MAXsat conference
+8,Nathan Goodman,UDL conference,2019,Instruction sequence processing operators.,Karl Meinke,Lleida,edition 2019 UDL conference
+9,Oded Shmueli,UDL conference,2019,Instruction sequence processing operators.,Karl Meinke,Lleida,edition 2019 UDL conference
+10,Sanjeev Saxena,UDL conference,2018,What is Failure? An Approach to Constructive Negation.,George Leih,Barcelona,edition 2018 UDL conference
+11,Hans Ulrich Simon,MAXsat conference,2021,STG decomposition strategies in combination with unfolding.,George Leih,Lleida,edition 2021 MAXsat conference
+12,Arnold Schönhage,UDL conference,2016,Quad Trees: A Data Structure for Retrieval on Composite Keys.,Walter J. Savitch,Barcelona,edition 2016 UDL conference
+13,Nathan Goodman,MAXsat conference,2016,On the Number of Relational Operators Necessary to Compute Certain Functions of Real Variables.,Walter J. Savitch,London,edition 2016 MAXsat conference
+14,Oded Shmueli,MAXsat conference,2016,On the Number of Relational Operators Necessary to Compute Certain Functions of Real Variables.,Walter J. Savitch,London,edition 2016 MAXsat conference
+15,Sanjeev Saxena,UDL conference,2019,A Study of Queueing Networks with Deterministic Service and Application to Computer Networks.,Karl Meinke,Lleida,edition 2019 UDL conference
+16,Nathan Goodman,MAXsat conference,2016,Probabilistic bisimulation for realistic schedulers.,Karl Meinke,Barcelona,edition 2016 MAXsat conference
+17,Oded Shmueli,MAXsat conference,2016,Probabilistic bisimulation for realistic schedulers.,Karl Meinke,Barcelona,edition 2016 MAXsat conference
+18,Hans Ulrich Simon,UDL conference,2017,Explaining the Wheel Sieve.,Walter J. Savitch,London,edition 2017 UDL conference
+19,Nathan Goodman,MAXsat conference,2017,Another Polynomial Homomorphism.,George Leih,Lleida,edition 2017 MAXsat conference
+20,Oded Shmueli,MAXsat conference,2017,Another Polynomial Homomorphism.,George Leih,Lleida,edition 2017 MAXsat conference
+21,Arnold Schönhage,UDL conference,2020,Variance Reduction Techniques for the Simulation of Markov Process.,Karl Meinke,Madrid,edition 2020 UDL conference
+22,Nathan Goodman,MAXsat conference,2021,State complexity of deletion and bipolar deletion.,Delphine Longuet,Madrid,edition 2021 MAXsat conference
+23,Oded Shmueli,MAXsat conference,2021,State complexity of deletion and bipolar deletion.,Delphine Longuet,Madrid,edition 2021 MAXsat conference
+24,Juha Honkala,MAXsat conference,2015,Decomposition of Graphs and Monotone Formula Size of Homogeneous Functions.,Delphine Longuet,Lleida,edition 2015 MAXsat conference
+25,Arnold Schönhage,MAXsat conference,2017,Symbolic checking of Fuzzy CTL on Fuzzy Program Graph.,Walter J. Savitch,Balaguer,edition 2017 MAXsat conference
+26,Arnold Schönhage,MAXsat conference,2017,Regular and context-free nominal traces.,Walter J. Savitch,London,edition 2017 MAXsat conference
+27,Norbert Blum,MAXsat conference,2020,Deterministic pushdown-CD-systems of stateless deterministic R(1)-automata.,George Leih,London,edition 2020 MAXsat conference
+28,Juha Honkala,MAXsat conference,2019,Special issue: Synthesis and SYNT 2014.,Walter J. Savitch,Madrid,edition 2019 MAXsat conference
+29,Nathan Goodman,MAXsat conference,2017,On the Synchronization in Parallel Communicating Grammar Systems.,Walter J. Savitch,Madrid,edition 2017 MAXsat conference
+30,Oded Shmueli,MAXsat conference,2017,On the Synchronization in Parallel Communicating Grammar Systems.,Walter J. Savitch,Madrid,edition 2017 MAXsat conference
+31,Juha Honkala,UDL conference,2017,Weakly Context-Sensitive Languages as Model for Programming Languages.,Karl Meinke,Madrid,edition 2017 UDL conference
+32,Juha Honkala,UDL conference,2017,Rules of Inference for Procedure Calls.,George Leih,Lleida,edition 2017 UDL conference
+33,Hans Ulrich Simon,MAXsat conference,2017,The Construction of Operator Interfaces Based on Logical Input Devices.,Walter J. Savitch,Balaguer,edition 2017 MAXsat conference
+34,Arnold Schönhage,MAXsat conference,2015,High Level Tree Transducers and Iterated Pushdown Tree Transducers.,Karl Meinke,Barcelona,edition 2015 MAXsat conference
+35,Norbert Blum,UDL conference,2015,Gobang ist PSPACE-vollständig.,Walter J. Savitch,Lleida,edition 2015 UDL conference
+36,Sanjeev Saxena,UDL conference,2017,A note on autodense related languages.,Delphine Longuet,London,edition 2017 UDL conference
+37,Arnold Schönhage,MAXsat conference,2015,Solving HPP and SAT by P Systems with Active Membranes and Separation Rules.,Delphine Longuet,Madrid,edition 2015 MAXsat conference
+38,Juha Honkala,UDL conference,2015,Optimizing the Costs of Hierarchical Quorum Consensus.,George Leih,Lleida,edition 2015 UDL conference
+39,Arnold Schönhage,UDL conference,2019,Recursive Petri nets.,Karl Meinke,Lleida,edition 2019 UDL conference
+40,Norbert Blum,MAXsat conference,2016,Multitype Multiprogramming Models.,Walter J. Savitch,Barcelona,edition 2016 MAXsat conference
+41,Sanjeev Saxena,UDL conference,2017,Automatic Correction of Syntax-Errors in Programming Languages.,Delphine Longuet,Madrid,edition 2017 UDL conference
+42,Nathan Goodman,UDL conference,2017,Representation and uniformization of algebraic transductions.,Delphine Longuet,Lleida,edition 2017 UDL conference
+43,Oded Shmueli,UDL conference,2017,Representation and uniformization of algebraic transductions.,Delphine Longuet,Lleida,edition 2017 UDL conference
+44,Hans Ulrich Simon,MAXsat conference,2019,Concurrent Bisimulations in Petri Nets.,Karl Meinke,Balaguer,edition 2019 MAXsat conference
+45,Juha Honkala,UDL conference,2019,Enhanced prefetching and caching strategies for single- and multi-disk systems.,Walter J. Savitch,Lleida,edition 2019 UDL conference
+46,Sanjeev Saxena,UDL conference,2016,Recording the Use of Memory in Right-Boundary Grammars and Push-Down Automata.,Delphine Longuet,London,edition 2016 UDL conference
+47,Sanjeev Saxena,UDL conference,2020,State space axioms for T-systems.,George Leih,Lleida,edition 2020 UDL conference
+48,Juha Honkala,UDL conference,2018,Extended multi bottom-up tree transducers.,Walter J. Savitch,Balaguer,edition 2018 UDL conference
+49,Arnold Schönhage,UDL conference,2018,The Clean Termination of Iterative Programs.,Walter J. Savitch,Lleida,edition 2018 UDL conference
+50,Sanjeev Saxena,UDL conference,2017,Infinite Proof Rules for Loops.,Walter J. Savitch,Balaguer,edition 2017 UDL conference
+51,Juha Honkala,MAXsat conference,2015,Nonfinite Axiomatizability of the Equational Theory of Shuffle.,Walter J. Savitch,Lleida,edition 2015 MAXsat conference
+52,Norbert Blum,MAXsat conference,2017,"Running a job on a collection of partly available machines, with on-line restarts.",Karl Meinke,Lleida,edition 2017 MAXsat conference
+53,Sanjeev Saxena,UDL conference,2021,Data Refinement by Calculation.,George Leih,London,edition 2021 UDL conference
+54,Juha Honkala,UDL conference,2019,Program Refinement in Fair Transition Systems.,George Leih,Balaguer,edition 2019 UDL conference
+55,Nathan Goodman,UDL conference,2020,A Functional Model for Describing and Reasoning About Time Behaviour of Computing Systems.,Karl Meinke,Lleida,edition 2020 UDL conference
+56,Oded Shmueli,UDL conference,2020,A Functional Model for Describing and Reasoning About Time Behaviour of Computing Systems.,Karl Meinke,Lleida,edition 2020 UDL conference
+57,Norbert Blum,MAXsat conference,2019,"M-Nets: An Algebra of High-Level Petri Nets, with an Application to the Semantics of Concurrent Programming Languages.",Delphine Longuet,Madrid,edition 2019 MAXsat conference
+58,Norbert Blum,MAXsat conference,2019,On the Look-Ahead Problem in Lexical Analysis.,Karl Meinke,Balaguer,edition 2019 MAXsat conference
+59,Juha Honkala,UDL conference,2019,A theory of formal synthesis via inductive learning.,Walter J. Savitch,London,edition 2019 UDL conference
+60,Nathan Goodman,MAXsat conference,2020,The maximum gain of increasing the number of preemptions in multiprocessor scheduling.,George Leih,Lleida,edition 2020 MAXsat conference
+61,Oded Shmueli,MAXsat conference,2020,The maximum gain of increasing the number of preemptions in multiprocessor scheduling.,George Leih,Lleida,edition 2020 MAXsat conference
+62,Juha Honkala,UDL conference,2020,Data Encodings and Their Costs.,Karl Meinke,Lleida,edition 2020 UDL conference
+63,Sanjeev Saxena,MAXsat conference,2019,Hierarchies of Complete Problems.,George Leih,Lleida,edition 2019 MAXsat conference
+64,Nathan Goodman,UDL conference,2019,Ein Vollständigkeitssatz für Programme und Schaltkreise.,Delphine Longuet,Balaguer,edition 2019 UDL conference
+65,Oded Shmueli,UDL conference,2019,Ein Vollständigkeitssatz für Programme und Schaltkreise.,Delphine Longuet,Balaguer,edition 2019 UDL conference
+66,Juha Honkala,MAXsat conference,2020,Type-based information flow analysis for the pi-calculus.,Delphine Longuet,Madrid,edition 2020 MAXsat conference
+67,Hans Ulrich Simon,UDL conference,2021,Sur une Conjecture de S. Greibach.,George Leih,Lleida,edition 2021 UDL conference
+68,Nathan Goodman,MAXsat conference,2019,A Conservation Law for G/G/m Queueing Systems.,Walter J. Savitch,Lleida,edition 2019 MAXsat conference
+69,Oded Shmueli,MAXsat conference,2019,A Conservation Law for G/G/m Queueing Systems.,Walter J. Savitch,Lleida,edition 2019 MAXsat conference
+70,Hans Ulrich Simon,UDL conference,2020,Applications of Efficient Mergeable Heaps for Optimization Problems on Trees.,Delphine Longuet,London,edition 2020 UDL conference
+71,Hans Ulrich Simon,MAXsat conference,2016,Context-Free Graph Grammars and Concatenation of Graphs.,George Leih,London,edition 2016 MAXsat conference
+72,Hans Ulrich Simon,UDL conference,2021,On a Class of Recursive Procedures and Equivalent Iterative Ones.,Delphine Longuet,Balaguer,edition 2021 UDL conference
+73,Hans Ulrich Simon,UDL conference,2018,Algorithms for Fast Evaluation of Boolean Expressions.,Delphine Longuet,Lleida,edition 2018 UDL conference
+74,Sanjeev Saxena,MAXsat conference,2019,A general account of coinduction up-to.,Delphine Longuet,Balaguer,edition 2019 MAXsat conference
+75,Juha Honkala,MAXsat conference,2017,A Comparison of Two Synchronizing Concepts.,Walter J. Savitch,London,edition 2017 MAXsat conference
+76,Nathan Goodman,UDL conference,2017,How to Calculate Symmetries of Petri Nets.,Delphine Longuet,Balaguer,edition 2017 UDL conference
+77,Oded Shmueli,UDL conference,2017,How to Calculate Symmetries of Petri Nets.,Delphine Longuet,Balaguer,edition 2017 UDL conference
+78,Sanjeev Saxena,MAXsat conference,2015,"Nonterminals, Homomorphisms and Codings in Different Variations of OL-Systems. I. Deterministic Systems.",Karl Meinke,Barcelona,edition 2015 MAXsat conference
+79,Norbert Blum,MAXsat conference,2019,Recognizability of graph and pattern languages.,Delphine Longuet,Barcelona,edition 2019 MAXsat conference
+80,Norbert Blum,MAXsat conference,2021,The Synthesis Problem of Petri Nets.,Delphine Longuet,Barcelona,edition 2021 MAXsat conference
+81,Norbert Blum,MAXsat conference,2015,A Binary Operation on Trees and an Initial Algebra Characterization for Finite Tree Types.,Walter J. Savitch,Lleida,edition 2015 MAXsat conference
+82,Sanjeev Saxena,UDL conference,2017,On weighted first-order logics with discounting.,Karl Meinke,London,edition 2017 UDL conference
+83,Juha Honkala,MAXsat conference,2015,A Characterization of Context-free String Languages by Directed Node-label Controlled Graph Grammars.,George Leih,London,edition 2015 MAXsat conference
+84,Sanjeev Saxena,UDL conference,2021,"Demonic, angelic and unbounded probabilistic choices in sequential programs.",Walter J. Savitch,Madrid,edition 2021 UDL conference
+85,Norbert Blum,UDL conference,2016,An Efficiency Preorder for Processes.,Delphine Longuet,London,edition 2016 UDL conference
+86,Sanjeev Saxena,MAXsat conference,2021,On the Generalization of Higman and Kruskal's Theorems to Regular Languages and Rational Trees.,Karl Meinke,London,edition 2021 MAXsat conference
+87,Arnold Schönhage,MAXsat conference,2021,Modeling Splits in File Structures.,Delphine Longuet,Madrid,edition 2021 MAXsat conference
+88,Sanjeev Saxena,UDL conference,2019,Languages Accepted by Systolic Y-Tree Automata: Structural Characterizations.,George Leih,London,edition 2019 UDL conference
+89,Sanjeev Saxena,UDL conference,2020,Synchronized regular expressions.,Delphine Longuet,Barcelona,edition 2020 UDL conference
+90,Norbert Blum,UDL conference,2015,On regular tree languages and deterministic pushdown automata.,Karl Meinke,Madrid,edition 2015 UDL conference
+91,Nathan Goodman,UDL conference,2021,A Modal Logic for Message Passing Processes.,Karl Meinke,Madrid,edition 2021 UDL conference
+92,Oded Shmueli,UDL conference,2021,A Modal Logic for Message Passing Processes.,Karl Meinke,Madrid,edition 2021 UDL conference
+93,Nathan Goodman,UDL conference,2018,Maintaining Range Trees in Secondary Memory. Part I: Partitions.,Karl Meinke,London,edition 2018 UDL conference
+94,Oded Shmueli,UDL conference,2018,Maintaining Range Trees in Secondary Memory. Part I: Partitions.,Karl Meinke,London,edition 2018 UDL conference
+95,Sanjeev Saxena,MAXsat conference,2015,Does indirect addressing matter? - A note.,Delphine Longuet,London,edition 2015 MAXsat conference
+96,Sanjeev Saxena,MAXsat conference,2018,Reasoning Algebraically about Loops.,George Leih,Barcelona,edition 2018 MAXsat conference
+97,Sanjeev Saxena,MAXsat conference,2015,A Model of a Time Sharing Virtual Memory System Solved Using Equivalence and Decomposition Methods.,George Leih,Lleida,edition 2015 MAXsat conference
+98,Arnold Schönhage,UDL conference,2016,Trace Nets and Process Automata.,George Leih,Balaguer,edition 2016 UDL conference
+99,Arnold Schönhage,MAXsat conference,2020,Metric propositional neighborhood logic with an equivalence relation.,Karl Meinke,Barcelona,edition 2020 MAXsat conference
+100,Arnold Schönhage,UDL conference,2017,A Principle of Independence for Binary Tree Searching.,George Leih,Balaguer,edition 2017 UDL conference
+101,Juha Honkala,MAXsat conference,2015,Optimal Divide-and-Conquer to Compute Measure and Contour for a Set of Iso-Rectangles.,Delphine Longuet,London,edition 2015 MAXsat conference
+102,Juha Honkala,UDL conference,2019,The Paging Drum Queue: A Uniform Perspective and Further Results.,George Leih,Madrid,edition 2019 UDL conference
+103,Juha Honkala,UDL conference,2020,The Undecidability of the Unification and Matching Problem for Canonical Theories.,George Leih,Madrid,edition 2020 UDL conference
+104,Sanjeev Saxena,MAXsat conference,2018,The Programming Language Pascal.,Walter J. Savitch,London,edition 2018 MAXsat conference
+105,Arnold Schönhage,UDL conference,2016,"Semantics, calculi, and analysis for object-oriented specifications.",George Leih,London,edition 2016 UDL conference
+106,Norbert Blum,MAXsat conference,2020,Inhibitionsfelder.,Karl Meinke,Balaguer,edition 2020 MAXsat conference
+107,Nathan Goodman,MAXsat conference,2019,Head and state hierarchies for unary multi-head finite automata.,Walter J. Savitch,Lleida,edition 2019 MAXsat conference
+108,Oded Shmueli,MAXsat conference,2019,Head and state hierarchies for unary multi-head finite automata.,Walter J. Savitch,Lleida,edition 2019 MAXsat conference
+109,Nathan Goodman,MAXsat conference,2015,On the Number of Active-Operations Needed to Compute the Discrete Fourier Transform.,Karl Meinke,Barcelona,edition 2015 MAXsat conference
+110,Oded Shmueli,MAXsat conference,2015,On the Number of Active-Operations Needed to Compute the Discrete Fourier Transform.,Karl Meinke,Barcelona,edition 2015 MAXsat conference
+111,Juha Honkala,UDL conference,2016,The stuttering principle revisited.,Karl Meinke,Barcelona,edition 2016 UDL conference
+112,Hans Ulrich Simon,MAXsat conference,2017,Redundant Proofs of Non-Interference in Levin-Gries CSP Program Proofs.,Karl Meinke,London,edition 2017 MAXsat conference
+113,Norbert Blum,MAXsat conference,2019,Lazy Structure Sharing for Query Optimization.,Karl Meinke,Lleida,edition 2019 MAXsat conference
+114,Juha Honkala,MAXsat conference,2021,Fair ambients.,Karl Meinke,Madrid,edition 2021 MAXsat conference
+115,Arnold Schönhage,MAXsat conference,2021,Concurrent Access to Data.,Walter J. Savitch,Barcelona,edition 2021 MAXsat conference
+116,Nathan Goodman,MAXsat conference,2018,Relaxed red-black trees with group updates.,George Leih,Balaguer,edition 2018 MAXsat conference
+117,Oded Shmueli,MAXsat conference,2018,Relaxed red-black trees with group updates.,George Leih,Balaguer,edition 2018 MAXsat conference
+118,Arnold Schönhage,UDL conference,2019,Generation of Efficient ,Walter J. Savitch,Madrid,edition 2019 UDL conference
+119,Arnold Schönhage,MAXsat conference,2018,A Markovian queue with varying number of servers and applications to the performance comparison of HSDPA user equipment.,Delphine Longuet,Lleida,edition 2018 MAXsat conference
+120,Juha Honkala,UDL conference,2020,Priority Conflict-Free Petri Nets.,Delphine Longuet,London,edition 2020 UDL conference
+121,Arnold Schönhage,MAXsat conference,2016,Optimum Multiway Search Trees.,Walter J. Savitch,Balaguer,edition 2016 MAXsat conference
+122,Juha Honkala,MAXsat conference,2016,Characterization of all Optimal Networks for a Simultaneous Computation of AND and NOR.,Delphine Longuet,London,edition 2016 MAXsat conference
+123,Sanjeev Saxena,MAXsat conference,2016,Parallel Integer Sorting Using Small Operations.,Delphine Longuet,Madrid,edition 2016 MAXsat conference
+124,Norbert Blum,UDL conference,2017,Stochastic cooperative distributed grammar systems and random graphs.,Delphine Longuet,Barcelona,edition 2017 UDL conference
+125,Juha Honkala,MAXsat conference,2016,Performance Evaluation of Fork and Join Synchronization Primitives.,George Leih,Madrid,edition 2016 MAXsat conference
+126,Sanjeev Saxena,UDL conference,2020,Some properties of the disjunctive languages contained in ,George Leih,Lleida,edition 2020 UDL conference
+127,Sanjeev Saxena,MAXsat conference,2021,Systolic Automata for VLSI on Balanced Trees.,George Leih,Balaguer,edition 2021 MAXsat conference
+128,Sanjeev Saxena,UDL conference,2021,A new natural structural congruence in the pi-calculus with replication.,George Leih,Balaguer,edition 2021 UDL conference
+129,Nathan Goodman,MAXsat conference,2019,Optimal Multiprogramming.,Delphine Longuet,Balaguer,edition 2019 MAXsat conference
+130,Oded Shmueli,MAXsat conference,2019,Optimal Multiprogramming.,Delphine Longuet,Balaguer,edition 2019 MAXsat conference
+131,Nathan Goodman,MAXsat conference,2015,Classes of Systolic Y-Tree Automata and a Comparison with Systolic Trellis Automata.,Karl Meinke,Balaguer,edition 2015 MAXsat conference
+132,Oded Shmueli,MAXsat conference,2015,Classes of Systolic Y-Tree Automata and a Comparison with Systolic Trellis Automata.,Karl Meinke,Balaguer,edition 2015 MAXsat conference
+133,Hans Ulrich Simon,UDL conference,2017,On Real-Time Cellular Automata and Trellis Automata.,Walter J. Savitch,Madrid,edition 2017 UDL conference
+134,Hans Ulrich Simon,UDL conference,2021,Transformational Design of Real-Time Systems Part I: From Requirements to Program Specifications.,Walter J. Savitch,Barcelona,edition 2021 UDL conference
+135,Norbert Blum,UDL conference,2017,Performance Preorder and Competitive Equivalence.,Walter J. Savitch,Balaguer,edition 2017 UDL conference
+136,Juha Honkala,MAXsat conference,2020,A Survey of Normal Form Covers for Context Free Grammars.,Delphine Longuet,Madrid,edition 2020 MAXsat conference
+137,Nathan Goodman,UDL conference,2016,A Note on Synthesis and Classification of Sorting Algorithms.,Delphine Longuet,Lleida,edition 2016 UDL conference
+138,Oded Shmueli,UDL conference,2016,A Note on Synthesis and Classification of Sorting Algorithms.,Delphine Longuet,Lleida,edition 2016 UDL conference
+139,Norbert Blum,MAXsat conference,2019,Liveness of a mutex algorithm in a fair process algebra.,George Leih,London,edition 2019 MAXsat conference
+140,Juha Honkala,UDL conference,2019,"Another Look at the ""Longest Ascending Subsequence"" Problem.",Delphine Longuet,Balaguer,edition 2019 UDL conference
+141,Arnold Schönhage,UDL conference,2019,Complexity Theory and the Operational Structure of Algebraic Programming Systems.,George Leih,London,edition 2019 UDL conference
+142,Juha Honkala,MAXsat conference,2017,Models for Reactivity.,George Leih,London,edition 2017 MAXsat conference
+143,Hans Ulrich Simon,MAXsat conference,2019,"Axioms for Generalized Graphs, Illustrated by a Cantor-Bernstein Proposition.",Karl Meinke,Balaguer,edition 2019 MAXsat conference
+144,Norbert Blum,MAXsat conference,2021,A Proof System for Distributed Processes.,George Leih,Barcelona,edition 2021 MAXsat conference
+145,Nathan Goodman,MAXsat conference,2021,Finite State Relational Programs.,Delphine Longuet,Barcelona,edition 2021 MAXsat conference
+146,Oded Shmueli,MAXsat conference,2021,Finite State Relational Programs.,Delphine Longuet,Barcelona,edition 2021 MAXsat conference
+147,Juha Honkala,UDL conference,2016,A Gap Between the Actual Complexity of Permutations and Their Entropy Defined by Stoß.,George Leih,London,edition 2016 UDL conference
+148,Arnold Schönhage,UDL conference,2020,MAT learners for tree series: an abstract data type and two realizations.,Karl Meinke,Barcelona,edition 2020 UDL conference
+149,Hans Ulrich Simon,MAXsat conference,2019,Exponentially decreasing number of operations in balanced trees.,George Leih,Balaguer,edition 2019 MAXsat conference
+150,Hans Ulrich Simon,MAXsat conference,2015,Correctness of the Compiling Process Based on Axiomatic Semantics.,Walter J. Savitch,Lleida,edition 2015 MAXsat conference
+151,Hans Ulrich Simon,UDL conference,2016,Paramodulated Connection Graphs.,George Leih,London,edition 2016 UDL conference
+152,Hans Ulrich Simon,UDL conference,2020,The Lattice of Data Refinement.,Walter J. Savitch,Balaguer,edition 2020 UDL conference
+153,Norbert Blum,UDL conference,2017,Backtracking in Recursive Computations.,Delphine Longuet,Balaguer,edition 2017 UDL conference
+154,Juha Honkala,UDL conference,2018,A first step in characterizing three-element codes.,Karl Meinke,Lleida,edition 2018 UDL conference
+155,Sanjeev Saxena,UDL conference,2019,Efficient LL(1) Error Correction and Recovery Using Only Insertions.,George Leih,London,edition 2019 UDL conference
+156,Sanjeev Saxena,MAXsat conference,2020,Formal Derivation of Strongly Correct Concurrent Programs.,Delphine Longuet,Madrid,edition 2020 MAXsat conference

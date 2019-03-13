@@ -1,0 +1,814 @@
+,Author,Editor,Paper,Affiliation,CompanyUniversity,Decision,Opinion
+0,Sanjeev Saxena,Patrick Cousot,Parallel Integer Sorting and Simulation Amongst CRCW Models.,UPC,University,Accepted,Too much boring.
+1,Nathan Goodman,Patrick Cousot,Parallel Integer Sorting and Simulation Amongst CRCW Models.,Microsoft,Company,Denied,Too much boring.
+2,Norbert Blum,Patrick Cousot,Parallel Integer Sorting and Simulation Amongst CRCW Models.,UDL,University,Denied,Nice to know.
+3,Norbert Blum,Patrick Cousot,Pattern Matching in Trees and Nets.,Microsoft,Company,Accepted,Really good.
+4,Walter Vogler,Patrick Cousot,Pattern Matching in Trees and Nets.,Intel,Company,Accepted,Too much boring.
+5,Victor Khomenko,Patrick Cousot,Pattern Matching in Trees and Nets.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+6,Norbert Blum,Patrick Cousot,Pattern Matching in Trees and Nets.,Microsoft,Company,Denied,Too much boring.
+7,Oded Shmueli,Patrick Cousot,Pattern Matching in Trees and Nets.,Intel,Company,Denied,"Nice paper, but not too much interesting."
+8,Oded Shmueli,Patrick Cousot,Pattern Matching in Trees and Nets.,Intel,Company,Denied,Nice to know.
+9,Arnold Schönhage,Patrick Cousot,Pattern Matching in Trees and Nets.,UPC,University,Accepted,Too much boring.
+10,Alex Kondratyev,Patrick Cousot,Pattern Matching in Trees and Nets.,UDL,University,Accepted,Too much boring.
+11,Maciej Koutny,Patrick Cousot,Pattern Matching in Trees and Nets.,UDL,University,Denied,"Nice paper, but not too much interesting."
+12,Norbert Blum,Patrick Cousot,Pattern Matching in Trees and Nets.,UPC,University,Accepted,Really good.
+13,Nathan Goodman,Patrick Cousot,Pattern Matching in Trees and Nets.,Intel,Company,Denied,Nice to know.
+14,George Rahonis,Joseph M. Morris,NP-complete Problems Simplified on Tree Schemas.,Microsoft,Company,Accepted,Nice to know.
+15,Arnold Schönhage,Joseph M. Morris,NP-complete Problems Simplified on Tree Schemas.,UPC,University,Denied,"Nice paper, but not too much interesting."
+16,Hans Ulrich Simon,Joseph M. Morris,On the Power of Chain Rules in Context Free Grammars.,Microsoft,Company,Accepted,Nice to know.
+17,Arnold Schönhage,Joseph M. Morris,On the Power of Chain Rules in Context Free Grammars.,Microsoft,Company,Denied,"Nice paper, but not too much interesting."
+18,Nathan Goodman,Joseph M. Morris,On the Power of Chain Rules in Context Free Grammars.,UDL,University,Denied,Really good.
+19,Sanjeev Saxena,Joseph M. Morris,On the Power of Chain Rules in Context Free Grammars.,Microsoft,Company,Denied,Really good.
+20,Sanjeev Saxena,Joseph M. Morris,On the Power of Chain Rules in Context Free Grammars.,UPC,University,Denied,"Nice paper, but not too much interesting."
+21,Nathan Goodman,Joseph M. Morris,On the Power of Chain Rules in Context Free Grammars.,UDL,University,Denied,Nice to know.
+22,Joachim Biskup,Joseph M. Morris,On the Power of Chain Rules in Context Free Grammars.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+23,Chua-Huang Huang,Jürgen Nehmer,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,Microsoft,Company,Accepted,Nice to know.
+24,Hans Ulrich Simon,Jürgen Nehmer,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,Intel,Company,Accepted,Too much boring.
+25,Alex Kondratyev,Jürgen Nehmer,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,Intel,Company,Denied,Nice to know.
+26,Arnold Schönhage,Jürgen Nehmer,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,Intel,Company,Accepted,Too much boring.
+27,Alex Kondratyev,Jürgen Nehmer,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,UPC,University,Denied,"Nice paper, but not too much interesting."
+28,Alain Finkel,Jürgen Nehmer,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,Microsoft,Company,Denied,Nice to know.
+29,Arnold Schönhage,Jürgen Nehmer,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,UPC,University,Accepted,Too much boring.
+30,Arnold Schönhage,Patrick Cousot,A characterization of rational D0L power series.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+31,Annie Choquet,Patrick Cousot,A characterization of rational D0L power series.,Microsoft,Company,Accepted,Too much boring.
+32,Victor Khomenko,Patrick Cousot,A characterization of rational D0L power series.,Intel,Company,Accepted,Really good.
+33,Norbert Blum,Jürgen Nehmer,The Derivation of Systolic Implementations of Programs.,Intel,Company,Denied,"Nice paper, but not too much interesting."
+34,Sanjeev Saxena,Jürgen Nehmer,The Derivation of Systolic Implementations of Programs.,Microsoft,Company,Accepted,Nice to know.
+35,Nathan Goodman,Jürgen Nehmer,The Derivation of Systolic Implementations of Programs.,Intel,Company,Accepted,Really good.
+36,Hans Ulrich Simon,Jürgen Nehmer,The Derivation of Systolic Implementations of Programs.,UPC,University,Accepted,Too much boring.
+37,Oded Shmueli,Jürgen Nehmer,The Derivation of Systolic Implementations of Programs.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+38,Hans Ulrich Simon,Jürgen Nehmer,The Derivation of Systolic Implementations of Programs.,Microsoft,Company,Accepted,Really good.
+39,Nathan Goodman,Jürgen Nehmer,The Derivation of Systolic Implementations of Programs.,UPC,University,Accepted,"Nice paper, but not too much interesting."
+40,Walter Vogler,Jürgen Nehmer,The Derivation of Systolic Implementations of Programs.,Intel,Company,Accepted,"Nice paper, but not too much interesting."
+41,Sanjeev Saxena,Jürgen Nehmer,The Derivation of Systolic Implementations of Programs.,Intel,Company,Denied,Too much boring.
+42,Oded Shmueli,Jürgen Nehmer,The Derivation of Systolic Implementations of Programs.,UDL,University,Accepted,Nice to know.
+43,Zoltán Fülöp 0001,Jürgen Nehmer,The Derivation of Systolic Implementations of Programs.,Intel,Company,Denied,Really good.
+44,Symeon Bozapalidis,Joseph M. Morris,Fifo Nets Without Order Deadlock.,Intel,Company,Accepted,"Nice paper, but not too much interesting."
+45,Joachim Biskup,Joseph M. Morris,Fifo Nets Without Order Deadlock.,UPC,University,Denied,Nice to know.
+46,Arnold Schönhage,Joseph M. Morris,Fifo Nets Without Order Deadlock.,UDL,University,Denied,Really good.
+47,Oded Shmueli,Joseph M. Morris,Fifo Nets Without Order Deadlock.,Microsoft,Company,Denied,"Nice paper, but not too much interesting."
+48,George Rahonis,Joseph M. Morris,Fifo Nets Without Order Deadlock.,Intel,Company,Denied,Too much boring.
+49,Hans Ulrich Simon,Joseph M. Morris,On the Complementation Rule for Multivalued Dependencies in Database Relations.,UPC,University,Accepted,Too much boring.
+50,Alain Finkel,Joseph M. Morris,On the Complementation Rule for Multivalued Dependencies in Database Relations.,UPC,University,Denied,"Nice paper, but not too much interesting."
+51,Juha Honkala,Joseph M. Morris,On the Complementation Rule for Multivalued Dependencies in Database Relations.,Microsoft,Company,Denied,Nice to know.
+52,Chua-Huang Huang,Patrick Cousot,Equational weighted tree transformations.,Intel,Company,Accepted,Nice to know.
+53,Arnold Schönhage,Patrick Cousot,Equational weighted tree transformations.,Intel,Company,Accepted,Too much boring.
+54,George Rahonis,Patrick Cousot,Equational weighted tree transformations.,Intel,Company,Accepted,Nice to know.
+55,Sanjeev Saxena,Patrick Cousot,Equational weighted tree transformations.,UDL,University,Accepted,Too much boring.
+56,Norbert Blum,Patrick Cousot,Merged processes: a new condensed representation of Petri net behaviour.,UPC,University,Accepted,Nice to know.
+57,Juha Honkala,Patrick Cousot,Merged processes: a new condensed representation of Petri net behaviour.,Intel,Company,Accepted,Too much boring.
+58,Chua-Huang Huang,Patrick Cousot,Merged processes: a new condensed representation of Petri net behaviour.,UDL,University,Denied,Really good.
+59,Hans Ulrich Simon,Patrick Cousot,Merged processes: a new condensed representation of Petri net behaviour.,Intel,Company,Accepted,Really good.
+60,Sanjeev Saxena,Patrick Cousot,Merged processes: a new condensed representation of Petri net behaviour.,UPC,University,Denied,Really good.
+61,Nathan Goodman,Joseph M. Morris,Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos.,Intel,Company,Denied,Too much boring.
+62,Victor Khomenko,Joseph M. Morris,Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos.,UPC,University,Accepted,Nice to know.
+63,Chua-Huang Huang,Patrick Cousot,A Three-Stage Construction for Multiconnection Networks.,UPC,University,Accepted,"Nice paper, but not too much interesting."
+64,Oded Shmueli,Patrick Cousot,A Three-Stage Construction for Multiconnection Networks.,Intel,Company,Accepted,Too much boring.
+65,Sanjeev Saxena,Patrick Cousot,The Expressive Power of Delay Operators in SCCS.,UDL,University,Accepted,Too much boring.
+66,Oded Shmueli,Patrick Cousot,The Expressive Power of Delay Operators in SCCS.,UPC,University,Denied,Too much boring.
+67,Hans Ulrich Simon,Patrick Cousot,The Expressive Power of Delay Operators in SCCS.,UDL,University,Denied,Too much boring.
+68,Maciej Koutny,Patrick Cousot,The Expressive Power of Delay Operators in SCCS.,Intel,Company,Denied,Really good.
+69,Oded Shmueli,Patrick Cousot,The Expressive Power of Delay Operators in SCCS.,UPC,University,Accepted,"Nice paper, but not too much interesting."
+70,Alex Kondratyev,Patrick Cousot,The Expressive Power of Delay Operators in SCCS.,UDL,University,Accepted,Really good.
+71,Victor Khomenko,Patrick Cousot,Calculi for Interaction.,UDL,University,Accepted,Really good.
+72,Oded Shmueli,Patrick Cousot,Calculi for Interaction.,UDL,University,Denied,Really good.
+73,Arnold Schönhage,Patrick Cousot,Calculi for Interaction.,UPC,University,Denied,Too much boring.
+74,Symeon Bozapalidis,Patrick Cousot,Calculi for Interaction.,UDL,University,Denied,"Nice paper, but not too much interesting."
+75,Nathan Goodman,Isi Mitrani,A Synthesis of Several Sorting Algorithms.,Microsoft,Company,Denied,Really good.
+76,Sanjeev Saxena,Isi Mitrani,A Synthesis of Several Sorting Algorithms.,UPC,University,Accepted,Nice to know.
+77,Oded Shmueli,Isi Mitrani,A Synthesis of Several Sorting Algorithms.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+78,Norbert Blum,Patrick Cousot,A Workload Model Representative of Static and Dynamic Characteristics.,Intel,Company,Denied,Nice to know.
+79,Walter Vogler,Patrick Cousot,A Workload Model Representative of Static and Dynamic Characteristics.,UDL,University,Accepted,Nice to know.
+80,Alex Kondratyev,Patrick Cousot,A Workload Model Representative of Static and Dynamic Characteristics.,Microsoft,Company,Denied,Really good.
+81,Hans Ulrich Simon,Patrick Cousot,A Workload Model Representative of Static and Dynamic Characteristics.,Intel,Company,Accepted,Really good.
+82,Alain Finkel,Jürgen Nehmer,Gray visiting Motzkins.,Intel,Company,Accepted,Nice to know.
+83,Sanjeev Saxena,Jürgen Nehmer,Gray visiting Motzkins.,Intel,Company,Accepted,Too much boring.
+84,Chua-Huang Huang,Jürgen Nehmer,Gray visiting Motzkins.,UPC,University,Accepted,Really good.
+85,Arnold Schönhage,Jürgen Nehmer,Trace- and failure-based semantics for responsiveness.,Microsoft,Company,Denied,Too much boring.
+86,Oded Shmueli,Jürgen Nehmer,Trace- and failure-based semantics for responsiveness.,UDL,University,Denied,"Nice paper, but not too much interesting."
+87,Juha Honkala,Joseph M. Morris,Branching Processes in the Analysis of the Heights of Trees.,UPC,University,Denied,Nice to know.
+88,Symeon Bozapalidis,Joseph M. Morris,Branching Processes in the Analysis of the Heights of Trees.,UDL,University,Denied,Too much boring.
+89,Hans Ulrich Simon,Joseph M. Morris,Branching Processes in the Analysis of the Heights of Trees.,UPC,University,Accepted,Nice to know.
+90,Arnold Schönhage,Joseph M. Morris,Branching Processes in the Analysis of the Heights of Trees.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+91,Hans Ulrich Simon,Jürgen Nehmer,Least Upper Bound on the Cost of Optimum Binary Search Trees.,Intel,Company,Accepted,Too much boring.
+92,Maciej Koutny,Jürgen Nehmer,Least Upper Bound on the Cost of Optimum Binary Search Trees.,UDL,University,Accepted,Nice to know.
+93,Victor Khomenko,Isi Mitrani,The Mathematical Analysis of the Computer System Modeled as a Two Stage Cyclic Queue.,Intel,Company,Accepted,"Nice paper, but not too much interesting."
+94,Nathan Goodman,Isi Mitrani,The Mathematical Analysis of the Computer System Modeled as a Two Stage Cyclic Queue.,Intel,Company,Accepted,Nice to know.
+95,Sanjeev Saxena,Isi Mitrani,The Mathematical Analysis of the Computer System Modeled as a Two Stage Cyclic Queue.,Microsoft,Company,Denied,Nice to know.
+96,Hans Ulrich Simon,Isi Mitrani,The Mathematical Analysis of the Computer System Modeled as a Two Stage Cyclic Queue.,Microsoft,Company,Denied,Too much boring.
+97,Oded Shmueli,Isi Mitrani,The Mathematical Analysis of the Computer System Modeled as a Two Stage Cyclic Queue.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+98,Hans Ulrich Simon,Isi Mitrani,The Mathematical Analysis of the Computer System Modeled as a Two Stage Cyclic Queue.,Microsoft,Company,Denied,Really good.
+99,Arnold Schönhage,Isi Mitrani,The Mathematical Analysis of the Computer System Modeled as a Two Stage Cyclic Queue.,Intel,Company,Denied,Too much boring.
+100,Oded Shmueli,Joseph M. Morris,"Invariants, Composition, and Substitution.",UDL,University,Denied,Really good.
+101,Sanjeev Saxena,Joseph M. Morris,"Invariants, Composition, and Substitution.",Microsoft,Company,Accepted,Too much boring.
+102,Alex Kondratyev,Joseph M. Morris,"Invariants, Composition, and Substitution.",Microsoft,Company,Denied,Too much boring.
+103,Nathan Goodman,Joseph M. Morris,"Invariants, Composition, and Substitution.",UDL,University,Accepted,"Nice paper, but not too much interesting."
+104,Juha Honkala,Joseph M. Morris,"Invariants, Composition, and Substitution.",UDL,University,Accepted,Too much boring.
+105,Maciej Koutny,Joseph M. Morris,"Invariants, Composition, and Substitution.",UPC,University,Accepted,"Nice paper, but not too much interesting."
+106,Sanjeev Saxena,Jürgen Nehmer,Maximum Entropy and the ,UPC,University,Accepted,"Nice paper, but not too much interesting."
+107,Nathan Goodman,Jürgen Nehmer,Maximum Entropy and the ,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+108,Oded Shmueli,Jürgen Nehmer,Maximum Entropy and the ,UPC,University,Denied,Nice to know.
+109,Alex Kondratyev,Jürgen Nehmer,Maximum Entropy and the ,Intel,Company,Accepted,Too much boring.
+110,Arnold Schönhage,Jürgen Nehmer,Maximum Entropy and the ,Microsoft,Company,Accepted,Nice to know.
+111,Alain Finkel,Jürgen Nehmer,Maximum Entropy and the ,Intel,Company,Denied,"Nice paper, but not too much interesting."
+112,Hans Ulrich Simon,Jürgen Nehmer,Maximum Entropy and the ,Intel,Company,Accepted,Nice to know.
+113,Juha Honkala,Jürgen Nehmer,Maximum Entropy and the ,Microsoft,Company,Denied,Nice to know.
+114,Hans Ulrich Simon,Isi Mitrani,Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach.,Intel,Company,Denied,Too much boring.
+115,Annie Choquet,Isi Mitrani,Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach.,Intel,Company,Denied,"Nice paper, but not too much interesting."
+116,Nathan Goodman,Isi Mitrani,Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach.,Intel,Company,Denied,Too much boring.
+117,Juha Honkala,Isi Mitrani,Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach.,Microsoft,Company,Denied,Really good.
+118,Nathan Goodman,Joseph M. Morris,A theory of structural stationarity in the ,Microsoft,Company,Accepted,Too much boring.
+119,Arnold Schönhage,Joseph M. Morris,A theory of structural stationarity in the ,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+120,Norbert Blum,Joseph M. Morris,A theory of structural stationarity in the ,Microsoft,Company,Accepted,Too much boring.
+121,Oded Shmueli,Joseph M. Morris,A theory of structural stationarity in the ,UDL,University,Accepted,Nice to know.
+122,Hans Ulrich Simon,Joseph M. Morris,A theory of structural stationarity in the ,Microsoft,Company,Accepted,Nice to know.
+123,Juha Honkala,Joseph M. Morris,A theory of structural stationarity in the ,Intel,Company,Accepted,Really good.
+124,Norbert Blum,Joseph M. Morris,A theory of structural stationarity in the ,UDL,University,Denied,Too much boring.
+125,Sanjeev Saxena,Joseph M. Morris,A theory of structural stationarity in the ,Intel,Company,Denied,"Nice paper, but not too much interesting."
+126,Juha Honkala,Joseph M. Morris,Hex ist PSPACE-vollständig.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+127,Annie Choquet,Joseph M. Morris,Hex ist PSPACE-vollständig.,Microsoft,Company,Denied,"Nice paper, but not too much interesting."
+128,Juha Honkala,Joseph M. Morris,Hex ist PSPACE-vollständig.,Intel,Company,Denied,Too much boring.
+129,Norbert Blum,Joseph M. Morris,Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells.,UPC,University,Denied,Nice to know.
+130,Juha Honkala,Joseph M. Morris,Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells.,Intel,Company,Denied,Nice to know.
+131,Annie Choquet,Joseph M. Morris,Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells.,UDL,University,Accepted,Too much boring.
+132,Sanjeev Saxena,Joseph M. Morris,Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells.,UPC,University,Accepted,Too much boring.
+133,Oded Shmueli,Patrick Cousot,Disjunctivity and other properties of sets of pseudo-bordered words.,Intel,Company,Accepted,Nice to know.
+134,George Rahonis,Patrick Cousot,Disjunctivity and other properties of sets of pseudo-bordered words.,Microsoft,Company,Accepted,Really good.
+135,Alex Kondratyev,Isi Mitrani,Relational structures model of concurrency.,Intel,Company,Accepted,"Nice paper, but not too much interesting."
+136,Juha Honkala,Isi Mitrani,Relational structures model of concurrency.,UDL,University,Denied,Too much boring.
+137,Oded Shmueli,Isi Mitrani,Relational structures model of concurrency.,Intel,Company,Accepted,Really good.
+138,Sanjeev Saxena,Isi Mitrani,Relational structures model of concurrency.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+139,Alain Finkel,Isi Mitrani,Relational structures model of concurrency.,UPC,University,Denied,Nice to know.
+140,Sanjeev Saxena,Isi Mitrani,Relational structures model of concurrency.,Microsoft,Company,Accepted,Too much boring.
+141,Sanjeev Saxena,Patrick Cousot,On an Equivalence between Continuation and Stack Semantics.,Microsoft,Company,Accepted,Nice to know.
+142,Oded Shmueli,Patrick Cousot,On an Equivalence between Continuation and Stack Semantics.,Intel,Company,Denied,"Nice paper, but not too much interesting."
+143,Oded Shmueli,Patrick Cousot,On an Equivalence between Continuation and Stack Semantics.,UPC,University,Accepted,"Nice paper, but not too much interesting."
+144,Sanjeev Saxena,Patrick Cousot,On an Equivalence between Continuation and Stack Semantics.,Intel,Company,Accepted,Nice to know.
+145,Arnold Schönhage,Jürgen Nehmer,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.,UPC,University,Denied,"Nice paper, but not too much interesting."
+146,Oded Shmueli,Jürgen Nehmer,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.,UPC,University,Accepted,"Nice paper, but not too much interesting."
+147,Norbert Blum,Jürgen Nehmer,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.,UPC,University,Accepted,Really good.
+148,Oded Shmueli,Jürgen Nehmer,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.,Microsoft,Company,Denied,Really good.
+149,Alain Finkel,Jürgen Nehmer,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.,UPC,University,Denied,Really good.
+150,Arnold Schönhage,Jürgen Nehmer,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+151,Norbert Blum,Jürgen Nehmer,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.,Microsoft,Company,Accepted,Really good.
+152,Arnold Schönhage,Jürgen Nehmer,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.,Intel,Company,Denied,"Nice paper, but not too much interesting."
+153,Maciej Koutny,Jürgen Nehmer,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.,Microsoft,Company,Denied,Really good.
+154,Joachim Biskup,Jürgen Nehmer,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.,UDL,University,Accepted,Nice to know.
+155,Nathan Goodman,Jürgen Nehmer,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+156,Maciej Koutny,Jürgen Nehmer,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.,Microsoft,Company,Accepted,Too much boring.
+157,Alain Finkel,Jürgen Nehmer,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.,Microsoft,Company,Denied,Really good.
+158,Juha Honkala,Jürgen Nehmer,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+159,Joachim Biskup,Isi Mitrani,A Note on the Density of Inherently Ambiguous Context-free Languages.,UDL,University,Denied,"Nice paper, but not too much interesting."
+160,Symeon Bozapalidis,Isi Mitrani,A Note on the Density of Inherently Ambiguous Context-free Languages.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+161,Arnold Schönhage,Isi Mitrani,A Note on the Density of Inherently Ambiguous Context-free Languages.,Intel,Company,Denied,Too much boring.
+162,Hans Ulrich Simon,Isi Mitrani,A Note on the Density of Inherently Ambiguous Context-free Languages.,UPC,University,Denied,"Nice paper, but not too much interesting."
+163,Nathan Goodman,Isi Mitrani,A Note on the Density of Inherently Ambiguous Context-free Languages.,Microsoft,Company,Denied,Nice to know.
+164,Oded Shmueli,Isi Mitrani,A Note on the Density of Inherently Ambiguous Context-free Languages.,Intel,Company,Accepted,Nice to know.
+165,Norbert Blum,Patrick Cousot,Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array.,UDL,University,Denied,Really good.
+166,Hans Ulrich Simon,Patrick Cousot,Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array.,UDL,University,Accepted,Really good.
+167,Arnold Schönhage,Patrick Cousot,Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array.,Intel,Company,Accepted,"Nice paper, but not too much interesting."
+168,Alain Finkel,Patrick Cousot,Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+169,Norbert Blum,Patrick Cousot,Computational Algorithms for Networks of Queues with Rejection Blocking.,UPC,University,Accepted,"Nice paper, but not too much interesting."
+170,Symeon Bozapalidis,Patrick Cousot,Computational Algorithms for Networks of Queues with Rejection Blocking.,Microsoft,Company,Denied,Really good.
+171,Christian Lengauer,Patrick Cousot,Computational Algorithms for Networks of Queues with Rejection Blocking.,UDL,University,Denied,Really good.
+172,Arnold Schönhage,Patrick Cousot,Computational Algorithms for Networks of Queues with Rejection Blocking.,Microsoft,Company,Denied,Nice to know.
+173,Juha Honkala,Patrick Cousot,Computational Algorithms for Networks of Queues with Rejection Blocking.,Intel,Company,Denied,"Nice paper, but not too much interesting."
+174,Arnold Schönhage,Patrick Cousot,Computational Algorithms for Networks of Queues with Rejection Blocking.,Microsoft,Company,Accepted,Too much boring.
+175,Hans Ulrich Simon,Patrick Cousot,Computational Algorithms for Networks of Queues with Rejection Blocking.,UDL,University,Denied,Too much boring.
+176,Zoltán Fülöp 0001,Isi Mitrani,Compositional Refinements in Multiple Blackboard Systems.,UDL,University,Accepted,Too much boring.
+177,Norbert Blum,Isi Mitrani,Compositional Refinements in Multiple Blackboard Systems.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+178,Nathan Goodman,Isi Mitrani,"Special issue on ""Combining Compositionality and Concurrency"": part 1.",UDL,University,Accepted,Too much boring.
+179,Oded Shmueli,Isi Mitrani,"Special issue on ""Combining Compositionality and Concurrency"": part 1.",UPC,University,Accepted,"Nice paper, but not too much interesting."
+180,Juha Honkala,Isi Mitrani,"Special issue on ""Combining Compositionality and Concurrency"": part 1.",Microsoft,Company,Accepted,Nice to know.
+181,Nathan Goodman,Isi Mitrani,"Special issue on ""Combining Compositionality and Concurrency"": part 1.",Microsoft,Company,Accepted,Really good.
+182,Juha Honkala,Isi Mitrani,"Special issue on ""Combining Compositionality and Concurrency"": part 1.",UDL,University,Accepted,Too much boring.
+183,Alain Finkel,Isi Mitrani,"Special issue on ""Combining Compositionality and Concurrency"": part 1.",UPC,University,Denied,Really good.
+184,Alex Kondratyev,Isi Mitrani,"Special issue on ""Combining Compositionality and Concurrency"": part 1.",Microsoft,Company,Accepted,Really good.
+185,Sanjeev Saxena,Patrick Cousot,Automatic verification of concurrent systems using a formula-based compositional approach.,UPC,University,Denied,Too much boring.
+186,Maciej Koutny,Patrick Cousot,Automatic verification of concurrent systems using a formula-based compositional approach.,Intel,Company,Accepted,Too much boring.
+187,Oded Shmueli,Patrick Cousot,Automatic verification of concurrent systems using a formula-based compositional approach.,UDL,University,Denied,Really good.
+188,Norbert Blum,Patrick Cousot,On Removing the Machine from the Language.,Intel,Company,Accepted,Nice to know.
+189,Juha Honkala,Patrick Cousot,On Removing the Machine from the Language.,Microsoft,Company,Accepted,Too much boring.
+190,Walter Vogler,Patrick Cousot,On Removing the Machine from the Language.,Microsoft,Company,Accepted,Nice to know.
+191,Annie Choquet,Jürgen Nehmer,Complete Problems for Space Bounded Subclasses of NP.,UPC,University,Accepted,Too much boring.
+192,Hans Ulrich Simon,Jürgen Nehmer,Complete Problems for Space Bounded Subclasses of NP.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+193,Arnold Schönhage,Jürgen Nehmer,Complete Problems for Space Bounded Subclasses of NP.,Intel,Company,Denied,Nice to know.
+194,Hans Ulrich Simon,Jürgen Nehmer,Complete Problems for Space Bounded Subclasses of NP.,Intel,Company,Accepted,Nice to know.
+195,Victor Khomenko,Jürgen Nehmer,Complete Problems for Space Bounded Subclasses of NP.,Microsoft,Company,Accepted,Really good.
+196,Norbert Blum,Jürgen Nehmer,Complete Problems for Space Bounded Subclasses of NP.,UPC,University,Denied,Nice to know.
+197,Walter Vogler,Jürgen Nehmer,Complete Problems for Space Bounded Subclasses of NP.,Intel,Company,Denied,"Nice paper, but not too much interesting."
+198,Hans Ulrich Simon,Jürgen Nehmer,Complete Problems for Space Bounded Subclasses of NP.,Microsoft,Company,Accepted,Nice to know.
+199,Juha Honkala,Jürgen Nehmer,Complete Problems for Space Bounded Subclasses of NP.,Intel,Company,Denied,Too much boring.
+200,Nathan Goodman,Isi Mitrani,Efficient controller synthesis for a fragment of MTL,Intel,Company,Accepted,Nice to know.
+201,Annie Choquet,Isi Mitrani,Efficient controller synthesis for a fragment of MTL,UDL,University,Accepted,Nice to know.
+202,Norbert Blum,Isi Mitrani,Efficient controller synthesis for a fragment of MTL,UPC,University,Denied,Too much boring.
+203,Nathan Goodman,Isi Mitrani,Efficient controller synthesis for a fragment of MTL,Microsoft,Company,Denied,Nice to know.
+204,Norbert Blum,Isi Mitrani,Efficient controller synthesis for a fragment of MTL,Microsoft,Company,Denied,Really good.
+205,Juha Honkala,Isi Mitrani,Efficient controller synthesis for a fragment of MTL,Microsoft,Company,Accepted,Really good.
+206,Oded Shmueli,Isi Mitrani,Efficient controller synthesis for a fragment of MTL,UDL,University,Accepted,Too much boring.
+207,Hans Ulrich Simon,Isi Mitrani,Efficient controller synthesis for a fragment of MTL,Microsoft,Company,Denied,Too much boring.
+208,Sanjeev Saxena,Isi Mitrani,Efficient controller synthesis for a fragment of MTL,UPC,University,Accepted,"Nice paper, but not too much interesting."
+209,Arnold Schönhage,Isi Mitrani,Efficient controller synthesis for a fragment of MTL,Microsoft,Company,Denied,Nice to know.
+210,Hans Ulrich Simon,Isi Mitrani,Efficient controller synthesis for a fragment of MTL,Intel,Company,Accepted,Really good.
+211,Sanjeev Saxena,Isi Mitrani,Efficient controller synthesis for a fragment of MTL,UDL,University,Accepted,"Nice paper, but not too much interesting."
+212,Arnold Schönhage,Jürgen Nehmer,Two Notions of Correctness and Their Relation to Testing.,UDL,University,Accepted,Really good.
+213,Sanjeev Saxena,Jürgen Nehmer,Two Notions of Correctness and Their Relation to Testing.,UPC,University,Denied,"Nice paper, but not too much interesting."
+214,Hans Ulrich Simon,Joseph M. Morris,Best Huffman Trees.,Microsoft,Company,Denied,Too much boring.
+215,Walter Vogler,Joseph M. Morris,Best Huffman Trees.,UDL,University,Denied,Really good.
+216,Alain Finkel,Joseph M. Morris,Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler.,Intel,Company,Denied,Nice to know.
+217,Sanjeev Saxena,Joseph M. Morris,Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler.,Intel,Company,Denied,Too much boring.
+218,Victor Khomenko,Joseph M. Morris,Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler.,UPC,University,Denied,Too much boring.
+219,Norbert Blum,Joseph M. Morris,Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler.,Intel,Company,Denied,"Nice paper, but not too much interesting."
+220,Oded Shmueli,Joseph M. Morris,Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler.,UDL,University,Accepted,Too much boring.
+221,Joachim Biskup,Joseph M. Morris,Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler.,Intel,Company,Accepted,Nice to know.
+222,Sanjeev Saxena,Joseph M. Morris,Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler.,Microsoft,Company,Denied,Really good.
+223,Alex Kondratyev,Joseph M. Morris,Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler.,UPC,University,Denied,Really good.
+224,Nathan Goodman,Joseph M. Morris,Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler.,Microsoft,Company,Denied,Nice to know.
+225,Christian Lengauer,Joseph M. Morris,Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler.,UDL,University,Denied,Really good.
+226,Oded Shmueli,Joseph M. Morris,Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler.,UPC,University,Denied,Really good.
+227,Sanjeev Saxena,Joseph M. Morris,The Parsing Problem for Affix Grammars.,Microsoft,Company,Accepted,Really good.
+228,Oded Shmueli,Joseph M. Morris,The Parsing Problem for Affix Grammars.,UDL,University,Denied,Too much boring.
+229,Norbert Blum,Joseph M. Morris,The Parsing Problem for Affix Grammars.,Microsoft,Company,Accepted,Nice to know.
+230,Oded Shmueli,Jürgen Nehmer,On Efficient Entreeings.,UPC,University,Denied,Nice to know.
+231,Nathan Goodman,Jürgen Nehmer,On Efficient Entreeings.,UDL,University,Accepted,Really good.
+232,Juha Honkala,Jürgen Nehmer,On Efficient Entreeings.,UDL,University,Denied,"Nice paper, but not too much interesting."
+233,Oded Shmueli,Jürgen Nehmer,On Efficient Entreeings.,UPC,University,Accepted,Really good.
+234,Arnold Schönhage,Jürgen Nehmer,On Efficient Entreeings.,Microsoft,Company,Denied,Too much boring.
+235,Symeon Bozapalidis,Jürgen Nehmer,On Efficient Entreeings.,UPC,University,Denied,Nice to know.
+236,Christian Lengauer,Isi Mitrani,Persistence of Vector Replacement Systems is Decidable.,UDL,University,Denied,Really good.
+237,Nathan Goodman,Isi Mitrani,Persistence of Vector Replacement Systems is Decidable.,UDL,University,Denied,"Nice paper, but not too much interesting."
+238,George Rahonis,Isi Mitrani,Persistence of Vector Replacement Systems is Decidable.,UPC,University,Accepted,Nice to know.
+239,Oded Shmueli,Isi Mitrani,Persistence of Vector Replacement Systems is Decidable.,UDL,University,Denied,"Nice paper, but not too much interesting."
+240,Joachim Biskup,Isi Mitrani,Persistence of Vector Replacement Systems is Decidable.,UPC,University,Accepted,Nice to know.
+241,Arnold Schönhage,Isi Mitrani,Persistence of Vector Replacement Systems is Decidable.,UDL,University,Accepted,Really good.
+242,Annie Choquet,Isi Mitrani,Persistence of Vector Replacement Systems is Decidable.,UDL,University,Accepted,Nice to know.
+243,Alain Finkel,Isi Mitrani,Persistence of Vector Replacement Systems is Decidable.,UPC,University,Accepted,Too much boring.
+244,Oded Shmueli,Isi Mitrani,Persistence of Vector Replacement Systems is Decidable.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+245,Juha Honkala,Isi Mitrani,Persistence of Vector Replacement Systems is Decidable.,Microsoft,Company,Denied,Too much boring.
+246,Sanjeev Saxena,Patrick Cousot,Implementing Daubechies Wavelet Transform with Weighted Finite Automata.,UPC,University,Accepted,Nice to know.
+247,Walter Vogler,Patrick Cousot,Implementing Daubechies Wavelet Transform with Weighted Finite Automata.,Microsoft,Company,Accepted,Nice to know.
+248,Alain Finkel,Patrick Cousot,Implementing Daubechies Wavelet Transform with Weighted Finite Automata.,Intel,Company,Accepted,Really good.
+249,Hans Ulrich Simon,Patrick Cousot,Implementing Daubechies Wavelet Transform with Weighted Finite Automata.,UDL,University,Accepted,Nice to know.
+250,Nathan Goodman,Patrick Cousot,Implementing Daubechies Wavelet Transform with Weighted Finite Automata.,Intel,Company,Accepted,Really good.
+251,Victor Khomenko,Jürgen Nehmer,Functional Behavior in Data Spaces.,UPC,University,Denied,Really good.
+252,Arnold Schönhage,Jürgen Nehmer,Functional Behavior in Data Spaces.,UDL,University,Accepted,Too much boring.
+253,Sanjeev Saxena,Jürgen Nehmer,Functional Behavior in Data Spaces.,Intel,Company,Denied,Really good.
+254,Juha Honkala,Jürgen Nehmer,Functional Behavior in Data Spaces.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+255,Norbert Blum,Joseph M. Morris,Inductive Completion with Retracts.,UPC,University,Denied,Really good.
+256,Victor Khomenko,Joseph M. Morris,Inductive Completion with Retracts.,Microsoft,Company,Accepted,Really good.
+257,Hans Ulrich Simon,Joseph M. Morris,Inductive Completion with Retracts.,Microsoft,Company,Accepted,Really good.
+258,Oded Shmueli,Isi Mitrani,Sometime = Always + Recursion = Always on the Equivalence of the Intermittent and Invariant Assertions Methods for Proving Inevitability Properties of Programs.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+259,Hans Ulrich Simon,Isi Mitrani,Sometime = Always + Recursion = Always on the Equivalence of the Intermittent and Invariant Assertions Methods for Proving Inevitability Properties of Programs.,Intel,Company,Denied,Nice to know.
+260,Christian Lengauer,Isi Mitrani,Sometime = Always + Recursion = Always on the Equivalence of the Intermittent and Invariant Assertions Methods for Proving Inevitability Properties of Programs.,Microsoft,Company,Denied,Nice to know.
+261,Nathan Goodman,Isi Mitrani,Sometime = Always + Recursion = Always on the Equivalence of the Intermittent and Invariant Assertions Methods for Proving Inevitability Properties of Programs.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+262,Chua-Huang Huang,Isi Mitrani,Sometime = Always + Recursion = Always on the Equivalence of the Intermittent and Invariant Assertions Methods for Proving Inevitability Properties of Programs.,Microsoft,Company,Denied,"Nice paper, but not too much interesting."
+263,Symeon Bozapalidis,Isi Mitrani,Sometime = Always + Recursion = Always on the Equivalence of the Intermittent and Invariant Assertions Methods for Proving Inevitability Properties of Programs.,UPC,University,Denied,Too much boring.
+264,Juha Honkala,Isi Mitrani,Sometime = Always + Recursion = Always on the Equivalence of the Intermittent and Invariant Assertions Methods for Proving Inevitability Properties of Programs.,UPC,University,Accepted,"Nice paper, but not too much interesting."
+265,Nathan Goodman,Isi Mitrani,Sometime = Always + Recursion = Always on the Equivalence of the Intermittent and Invariant Assertions Methods for Proving Inevitability Properties of Programs.,Intel,Company,Accepted,"Nice paper, but not too much interesting."
+266,Oded Shmueli,Isi Mitrani,Sometime = Always + Recursion = Always on the Equivalence of the Intermittent and Invariant Assertions Methods for Proving Inevitability Properties of Programs.,Intel,Company,Accepted,"Nice paper, but not too much interesting."
+267,Juha Honkala,Isi Mitrani,Sometime = Always + Recursion = Always on the Equivalence of the Intermittent and Invariant Assertions Methods for Proving Inevitability Properties of Programs.,UDL,University,Accepted,Too much boring.
+268,Chua-Huang Huang,Isi Mitrani,Sometime = Always + Recursion = Always on the Equivalence of the Intermittent and Invariant Assertions Methods for Proving Inevitability Properties of Programs.,Intel,Company,Accepted,Too much boring.
+269,Arnold Schönhage,Joseph M. Morris,Complete Parameterized Families of Job Scheduling Strategies.,Intel,Company,Accepted,Too much boring.
+270,Juha Honkala,Joseph M. Morris,Complete Parameterized Families of Job Scheduling Strategies.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+271,Oded Shmueli,Patrick Cousot,Modelling higher-order dual nondeterminacy.,Microsoft,Company,Accepted,Nice to know.
+272,Norbert Blum,Patrick Cousot,Modelling higher-order dual nondeterminacy.,Intel,Company,Accepted,"Nice paper, but not too much interesting."
+273,Arnold Schönhage,Patrick Cousot,Modelling higher-order dual nondeterminacy.,Microsoft,Company,Accepted,Really good.
+274,Norbert Blum,Patrick Cousot,Modelling higher-order dual nondeterminacy.,Intel,Company,Accepted,Nice to know.
+275,Chua-Huang Huang,Joseph M. Morris,Dispatcher Primitives for the Construction of Operating System Kernels.,Intel,Company,Denied,Really good.
+276,Nathan Goodman,Joseph M. Morris,Dispatcher Primitives for the Construction of Operating System Kernels.,UPC,University,Denied,Really good.
+277,Christian Lengauer,Joseph M. Morris,Dispatcher Primitives for the Construction of Operating System Kernels.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+278,Sanjeev Saxena,Jürgen Nehmer,A Note on Multihead Automata and Context-Sensitive Languages,UPC,University,Denied,Nice to know.
+279,Norbert Blum,Jürgen Nehmer,A Note on Multihead Automata and Context-Sensitive Languages,Intel,Company,Accepted,Really good.
+280,Oded Shmueli,Jürgen Nehmer,A Note on Multihead Automata and Context-Sensitive Languages,UDL,University,Accepted,Too much boring.
+281,Alex Kondratyev,Jürgen Nehmer,A Note on Multihead Automata and Context-Sensitive Languages,Intel,Company,Accepted,"Nice paper, but not too much interesting."
+282,Hans Ulrich Simon,Jürgen Nehmer,A Note on Multihead Automata and Context-Sensitive Languages,Intel,Company,Denied,Really good.
+283,Oded Shmueli,Jürgen Nehmer,A Note on Multihead Automata and Context-Sensitive Languages,UPC,University,Accepted,Too much boring.
+284,Symeon Bozapalidis,Jürgen Nehmer,A Recursive Second Order Initial Algebra Specification of Primitive Recursion.,UDL,University,Accepted,Really good.
+285,Norbert Blum,Jürgen Nehmer,A Recursive Second Order Initial Algebra Specification of Primitive Recursion.,Microsoft,Company,Denied,Really good.
+286,Zoltán Fülöp 0001,Jürgen Nehmer,A Recursive Second Order Initial Algebra Specification of Primitive Recursion.,Microsoft,Company,Denied,Nice to know.
+287,Norbert Blum,Jürgen Nehmer,A Recursive Second Order Initial Algebra Specification of Primitive Recursion.,Intel,Company,Denied,Really good.
+288,Alex Kondratyev,Jürgen Nehmer,A Recursive Second Order Initial Algebra Specification of Primitive Recursion.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+289,Arnold Schönhage,Jürgen Nehmer,A Recursive Second Order Initial Algebra Specification of Primitive Recursion.,Intel,Company,Accepted,Really good.
+290,Walter Vogler,Jürgen Nehmer,A Recursive Second Order Initial Algebra Specification of Primitive Recursion.,UDL,University,Accepted,Really good.
+291,Hans Ulrich Simon,Isi Mitrani,Compositional schedulability analysis of real-time actor-based systems.,Microsoft,Company,Accepted,Really good.
+292,Oded Shmueli,Isi Mitrani,Compositional schedulability analysis of real-time actor-based systems.,Intel,Company,Accepted,"Nice paper, but not too much interesting."
+293,Alain Finkel,Jürgen Nehmer,Context-Free Graph Languages of Bounded Degree are Generated by Apex Graph Grammars.,UPC,University,Denied,"Nice paper, but not too much interesting."
+294,Nathan Goodman,Jürgen Nehmer,Context-Free Graph Languages of Bounded Degree are Generated by Apex Graph Grammars.,UDL,University,Denied,Too much boring.
+295,Norbert Blum,Jürgen Nehmer,Context-Free Graph Languages of Bounded Degree are Generated by Apex Graph Grammars.,Intel,Company,Accepted,Too much boring.
+296,George Rahonis,Jürgen Nehmer,Context-Free Graph Languages of Bounded Degree are Generated by Apex Graph Grammars.,UPC,University,Denied,Nice to know.
+297,Juha Honkala,Jürgen Nehmer,Context-Free Graph Languages of Bounded Degree are Generated by Apex Graph Grammars.,Intel,Company,Accepted,Really good.
+298,Alex Kondratyev,Jürgen Nehmer,Worst Case Performance of Weighted Buddy Systems.,UDL,University,Accepted,Really good.
+299,Nathan Goodman,Jürgen Nehmer,Worst Case Performance of Weighted Buddy Systems.,UDL,University,Denied,"Nice paper, but not too much interesting."
+300,Oded Shmueli,Jürgen Nehmer,Worst Case Performance of Weighted Buddy Systems.,UDL,University,Denied,Nice to know.
+301,Arnold Schönhage,Isi Mitrani,Contextual Nets.,UDL,University,Accepted,Too much boring.
+302,Hans Ulrich Simon,Isi Mitrani,Contextual Nets.,UDL,University,Accepted,Really good.
+303,Walter Vogler,Isi Mitrani,Contextual Nets.,UDL,University,Accepted,Nice to know.
+304,Arnold Schönhage,Isi Mitrani,Contextual Nets.,Microsoft,Company,Accepted,Nice to know.
+305,Nathan Goodman,Isi Mitrani,Contextual Nets.,Intel,Company,Denied,Too much boring.
+306,Juha Honkala,Isi Mitrani,Contextual Nets.,Microsoft,Company,Denied,Nice to know.
+307,Maciej Koutny,Isi Mitrani,Contextual Nets.,UDL,University,Denied,Nice to know.
+308,Hans Ulrich Simon,Isi Mitrani,Contextual Nets.,UDL,University,Accepted,Nice to know.
+309,Arnold Schönhage,Isi Mitrani,Contextual Nets.,Intel,Company,Accepted,Nice to know.
+310,Norbert Blum,Isi Mitrani,Contextual Nets.,Microsoft,Company,Accepted,Really good.
+311,Walter Vogler,Isi Mitrani,Contextual Nets.,UPC,University,Denied,Too much boring.
+312,Arnold Schönhage,Isi Mitrani,Contextual Nets.,Microsoft,Company,Denied,Too much boring.
+313,Hans Ulrich Simon,Jürgen Nehmer,COSY - A System Specification Language Based on Paths and Processes.,Microsoft,Company,Denied,Too much boring.
+314,Zoltán Fülöp 0001,Jürgen Nehmer,COSY - A System Specification Language Based on Paths and Processes.,Intel,Company,Denied,Really good.
+315,Norbert Blum,Jürgen Nehmer,COSY - A System Specification Language Based on Paths and Processes.,UPC,University,Denied,Nice to know.
+316,Nathan Goodman,Jürgen Nehmer,COSY - A System Specification Language Based on Paths and Processes.,Intel,Company,Denied,Nice to know.
+317,Oded Shmueli,Jürgen Nehmer,COSY - A System Specification Language Based on Paths and Processes.,Microsoft,Company,Denied,Really good.
+318,Juha Honkala,Jürgen Nehmer,COSY - A System Specification Language Based on Paths and Processes.,Microsoft,Company,Accepted,Really good.
+319,Oded Shmueli,Jürgen Nehmer,COSY - A System Specification Language Based on Paths and Processes.,UPC,University,Accepted,Really good.
+320,Arnold Schönhage,Jürgen Nehmer,COSY - A System Specification Language Based on Paths and Processes.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+321,Zoltán Fülöp 0001,Isi Mitrani,Applying relation algebra and Rel View to solve problems on orders and lattices.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+322,Victor Khomenko,Isi Mitrani,Applying relation algebra and Rel View to solve problems on orders and lattices.,Microsoft,Company,Accepted,Really good.
+323,Oded Shmueli,Isi Mitrani,Applying relation algebra and Rel View to solve problems on orders and lattices.,UPC,University,Denied,Nice to know.
+324,Christian Lengauer,Isi Mitrani,Applying relation algebra and Rel View to solve problems on orders and lattices.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+325,Nathan Goodman,Isi Mitrani,Applying relation algebra and Rel View to solve problems on orders and lattices.,UPC,University,Accepted,Nice to know.
+326,Oded Shmueli,Isi Mitrani,Applying relation algebra and Rel View to solve problems on orders and lattices.,UDL,University,Denied,Too much boring.
+327,Norbert Blum,Isi Mitrani,Applying relation algebra and Rel View to solve problems on orders and lattices.,Intel,Company,Denied,"Nice paper, but not too much interesting."
+328,Annie Choquet,Isi Mitrani,Eliminating Unit Productions from LR Parsers.,UDL,University,Accepted,Really good.
+329,Sanjeev Saxena,Isi Mitrani,Eliminating Unit Productions from LR Parsers.,Microsoft,Company,Denied,"Nice paper, but not too much interesting."
+330,Hans Ulrich Simon,Isi Mitrani,Eliminating Unit Productions from LR Parsers.,Microsoft,Company,Accepted,Really good.
+331,Sanjeev Saxena,Isi Mitrani,Eliminating Unit Productions from LR Parsers.,Microsoft,Company,Denied,Too much boring.
+332,Nathan Goodman,Isi Mitrani,Eliminating Unit Productions from LR Parsers.,Intel,Company,Denied,Really good.
+333,Chua-Huang Huang,Isi Mitrani,Eliminating Unit Productions from LR Parsers.,Microsoft,Company,Denied,Nice to know.
+334,Arnold Schönhage,Patrick Cousot,Attribute (Re)evaluation in OPTRAN.,Intel,Company,Accepted,"Nice paper, but not too much interesting."
+335,Oded Shmueli,Patrick Cousot,Attribute (Re)evaluation in OPTRAN.,Microsoft,Company,Accepted,Too much boring.
+336,Chua-Huang Huang,Patrick Cousot,Attribute (Re)evaluation in OPTRAN.,UDL,University,Denied,Really good.
+337,Hans Ulrich Simon,Patrick Cousot,Attribute (Re)evaluation in OPTRAN.,UDL,University,Denied,Really good.
+338,Victor Khomenko,Patrick Cousot,Attribute (Re)evaluation in OPTRAN.,UDL,University,Denied,"Nice paper, but not too much interesting."
+339,Symeon Bozapalidis,Patrick Cousot,Attribute (Re)evaluation in OPTRAN.,Microsoft,Company,Denied,Nice to know.
+340,Walter Vogler,Patrick Cousot,Attribute (Re)evaluation in OPTRAN.,UDL,University,Denied,Too much boring.
+341,Nathan Goodman,Patrick Cousot,Attribute (Re)evaluation in OPTRAN.,Microsoft,Company,Accepted,Too much boring.
+342,Oded Shmueli,Patrick Cousot,Attribute (Re)evaluation in OPTRAN.,UPC,University,Accepted,Really good.
+343,Norbert Blum,Patrick Cousot,Attribute (Re)evaluation in OPTRAN.,Intel,Company,Accepted,Really good.
+344,Victor Khomenko,Patrick Cousot,Attribute (Re)evaluation in OPTRAN.,Microsoft,Company,Accepted,Nice to know.
+345,Arnold Schönhage,Patrick Cousot,Attribute (Re)evaluation in OPTRAN.,Microsoft,Company,Accepted,Too much boring.
+346,Hans Ulrich Simon,Patrick Cousot,Attribute (Re)evaluation in OPTRAN.,UPC,University,Accepted,Nice to know.
+347,Norbert Blum,Patrick Cousot,Attribute (Re)evaluation in OPTRAN.,Intel,Company,Denied,Really good.
+348,Sanjeev Saxena,Joseph M. Morris,On Parallel Integer Sorting.,UDL,University,Accepted,Nice to know.
+349,Arnold Schönhage,Joseph M. Morris,On Parallel Integer Sorting.,UPC,University,Accepted,Too much boring.
+350,Alex Kondratyev,Joseph M. Morris,On Parallel Integer Sorting.,Microsoft,Company,Denied,Too much boring.
+351,Juha Honkala,Joseph M. Morris,On Parallel Integer Sorting.,Microsoft,Company,Accepted,Nice to know.
+352,Maciej Koutny,Jürgen Nehmer,Domain Independence and the Relational Calculus.,UPC,University,Denied,Too much boring.
+353,Chua-Huang Huang,Jürgen Nehmer,Domain Independence and the Relational Calculus.,UDL,University,Denied,Nice to know.
+354,Juha Honkala,Jürgen Nehmer,Domain Independence and the Relational Calculus.,UPC,University,Denied,Really good.
+355,Norbert Blum,Jürgen Nehmer,Domain Independence and the Relational Calculus.,UDL,University,Denied,Really good.
+356,Arnold Schönhage,George Leih,Multi-Granularity Locking for Nested Transactions: A Proof Using a Possibilities Mapping.,UPC,University,Denied,Really good.
+357,Hans Ulrich Simon,George Leih,Multi-Granularity Locking for Nested Transactions: A Proof Using a Possibilities Mapping.,Microsoft,Company,Denied,Nice to know.
+358,Nathan Goodman,George Leih,Multi-Granularity Locking for Nested Transactions: A Proof Using a Possibilities Mapping.,UDL,University,Denied,Really good.
+359,Maciej Koutny,George Leih,Multi-Granularity Locking for Nested Transactions: A Proof Using a Possibilities Mapping.,Intel,Company,Denied,Too much boring.
+360,Sanjeev Saxena,Delphine Longuet,Bounded Quantification and Relations Recognizable by Finite Automata.,UPC,University,Denied,Nice to know.
+361,Chua-Huang Huang,Delphine Longuet,Bounded Quantification and Relations Recognizable by Finite Automata.,UPC,University,Denied,"Nice paper, but not too much interesting."
+362,Norbert Blum,Delphine Longuet,Bounded Quantification and Relations Recognizable by Finite Automata.,Intel,Company,Denied,Nice to know.
+363,Arnold Schönhage,Delphine Longuet,Bounded Quantification and Relations Recognizable by Finite Automata.,Intel,Company,Accepted,Too much boring.
+364,Christian Lengauer,Karl Meinke,A Complete Algebraic Characterization of Behavioral Subtyping.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+365,Oded Shmueli,Karl Meinke,A Complete Algebraic Characterization of Behavioral Subtyping.,Intel,Company,Denied,"Nice paper, but not too much interesting."
+366,Alain Finkel,Karl Meinke,A Complete Algebraic Characterization of Behavioral Subtyping.,UPC,University,Denied,Nice to know.
+367,Nathan Goodman,Karl Meinke,A Complete Algebraic Characterization of Behavioral Subtyping.,Intel,Company,Accepted,"Nice paper, but not too much interesting."
+368,Annie Choquet,George Leih,Efficient execution of dynamically controllable simple temporal networks with uncertainty.,UPC,University,Accepted,Nice to know.
+369,Nathan Goodman,George Leih,Efficient execution of dynamically controllable simple temporal networks with uncertainty.,Microsoft,Company,Accepted,Really good.
+370,Oded Shmueli,George Leih,Minimum Feedback Vertex Sets in Cocomparability Graphs and Convex Bipartite Graphs.,Intel,Company,Denied,Too much boring.
+371,Nathan Goodman,George Leih,Minimum Feedback Vertex Sets in Cocomparability Graphs and Convex Bipartite Graphs.,Microsoft,Company,Accepted,Nice to know.
+372,George Rahonis,George Leih,Minimum Feedback Vertex Sets in Cocomparability Graphs and Convex Bipartite Graphs.,UPC,University,Accepted,Too much boring.
+373,Juha Honkala,George Leih,Minimum Feedback Vertex Sets in Cocomparability Graphs and Convex Bipartite Graphs.,UDL,University,Denied,Too much boring.
+374,Sanjeev Saxena,George Leih,Minimum Feedback Vertex Sets in Cocomparability Graphs and Convex Bipartite Graphs.,UPC,University,Accepted,Too much boring.
+375,Oded Shmueli,George Leih,Minimum Feedback Vertex Sets in Cocomparability Graphs and Convex Bipartite Graphs.,UPC,University,Denied,Really good.
+376,Symeon Bozapalidis,George Leih,Minimum Feedback Vertex Sets in Cocomparability Graphs and Convex Bipartite Graphs.,UPC,University,Denied,Too much boring.
+377,Hans Ulrich Simon,Delphine Longuet,Behavioural Approaches to Algebraic Specifications: A Comparative Study.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+378,George Rahonis,Delphine Longuet,Behavioural Approaches to Algebraic Specifications: A Comparative Study.,Microsoft,Company,Accepted,Nice to know.
+379,Oded Shmueli,Delphine Longuet,Behavioural Approaches to Algebraic Specifications: A Comparative Study.,Microsoft,Company,Denied,Nice to know.
+380,Sanjeev Saxena,Delphine Longuet,Behavioural Approaches to Algebraic Specifications: A Comparative Study.,UPC,University,Accepted,Nice to know.
+381,Juha Honkala,Delphine Longuet,Behavioural Approaches to Algebraic Specifications: A Comparative Study.,Microsoft,Company,Accepted,Too much boring.
+382,Alain Finkel,Delphine Longuet,Behavioural Approaches to Algebraic Specifications: A Comparative Study.,Intel,Company,Denied,Nice to know.
+383,Victor Khomenko,Delphine Longuet,Behavioural Approaches to Algebraic Specifications: A Comparative Study.,UDL,University,Accepted,Nice to know.
+384,Nathan Goodman,Karl Meinke,Instruction sequence processing operators.,UDL,University,Accepted,Really good.
+385,Annie Choquet,Karl Meinke,Instruction sequence processing operators.,Microsoft,Company,Accepted,Nice to know.
+386,Juha Honkala,Karl Meinke,Instruction sequence processing operators.,UPC,University,Denied,Too much boring.
+387,Norbert Blum,Karl Meinke,Instruction sequence processing operators.,UDL,University,Accepted,Nice to know.
+388,Chua-Huang Huang,Karl Meinke,Instruction sequence processing operators.,Microsoft,Company,Accepted,Nice to know.
+389,George Rahonis,Karl Meinke,Instruction sequence processing operators.,UPC,University,Accepted,Really good.
+390,Victor Khomenko,Karl Meinke,Instruction sequence processing operators.,Microsoft,Company,Denied,"Nice paper, but not too much interesting."
+391,Oded Shmueli,Karl Meinke,Instruction sequence processing operators.,UDL,University,Denied,Too much boring.
+392,Sanjeev Saxena,George Leih,What is Failure? An Approach to Constructive Negation.,Intel,Company,Denied,Too much boring.
+393,Symeon Bozapalidis,George Leih,What is Failure? An Approach to Constructive Negation.,UPC,University,Denied,"Nice paper, but not too much interesting."
+394,Alain Finkel,George Leih,STG decomposition strategies in combination with unfolding.,Microsoft,Company,Denied,Too much boring.
+395,Nathan Goodman,George Leih,STG decomposition strategies in combination with unfolding.,UPC,University,Accepted,"Nice paper, but not too much interesting."
+396,Chua-Huang Huang,George Leih,STG decomposition strategies in combination with unfolding.,UPC,University,Denied,Too much boring.
+397,Juha Honkala,Walter J. Savitch,Quad Trees: A Data Structure for Retrieval on Composite Keys.,Intel,Company,Accepted,Really good.
+398,Oded Shmueli,Walter J. Savitch,Quad Trees: A Data Structure for Retrieval on Composite Keys.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+399,Maciej Koutny,Walter J. Savitch,Quad Trees: A Data Structure for Retrieval on Composite Keys.,UPC,University,Accepted,Nice to know.
+400,Sanjeev Saxena,Walter J. Savitch,On the Number of Relational Operators Necessary to Compute Certain Functions of Real Variables.,Intel,Company,Denied,Too much boring.
+401,Oded Shmueli,Walter J. Savitch,On the Number of Relational Operators Necessary to Compute Certain Functions of Real Variables.,Microsoft,Company,Denied,"Nice paper, but not too much interesting."
+402,Hans Ulrich Simon,Walter J. Savitch,On the Number of Relational Operators Necessary to Compute Certain Functions of Real Variables.,UDL,University,Denied,Nice to know.
+403,Zoltán Fülöp 0001,Walter J. Savitch,On the Number of Relational Operators Necessary to Compute Certain Functions of Real Variables.,Intel,Company,Denied,Too much boring.
+404,Alain Finkel,Walter J. Savitch,On the Number of Relational Operators Necessary to Compute Certain Functions of Real Variables.,Microsoft,Company,Accepted,Nice to know.
+405,Arnold Schönhage,Walter J. Savitch,On the Number of Relational Operators Necessary to Compute Certain Functions of Real Variables.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+406,Nathan Goodman,Walter J. Savitch,On the Number of Relational Operators Necessary to Compute Certain Functions of Real Variables.,Microsoft,Company,Accepted,Really good.
+407,Oded Shmueli,Walter J. Savitch,On the Number of Relational Operators Necessary to Compute Certain Functions of Real Variables.,Intel,Company,Denied,Nice to know.
+408,Symeon Bozapalidis,Karl Meinke,A Study of Queueing Networks with Deterministic Service and Application to Computer Networks.,UPC,University,Denied,Nice to know.
+409,Alex Kondratyev,Karl Meinke,A Study of Queueing Networks with Deterministic Service and Application to Computer Networks.,Microsoft,Company,Accepted,Really good.
+410,Hans Ulrich Simon,Karl Meinke,A Study of Queueing Networks with Deterministic Service and Application to Computer Networks.,UDL,University,Accepted,Too much boring.
+411,Hans Ulrich Simon,Karl Meinke,Probabilistic bisimulation for realistic schedulers.,Intel,Company,Denied,"Nice paper, but not too much interesting."
+412,Juha Honkala,Karl Meinke,Probabilistic bisimulation for realistic schedulers.,UDL,University,Accepted,Nice to know.
+413,Norbert Blum,Karl Meinke,Probabilistic bisimulation for realistic schedulers.,UPC,University,Denied,Too much boring.
+414,Chua-Huang Huang,Karl Meinke,Probabilistic bisimulation for realistic schedulers.,Microsoft,Company,Denied,Nice to know.
+415,Nathan Goodman,Walter J. Savitch,Explaining the Wheel Sieve.,Intel,Company,Denied,Nice to know.
+416,Sanjeev Saxena,Walter J. Savitch,Explaining the Wheel Sieve.,Microsoft,Company,Denied,Really good.
+417,Oded Shmueli,George Leih,Another Polynomial Homomorphism.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+418,Hans Ulrich Simon,George Leih,Another Polynomial Homomorphism.,UPC,University,Denied,"Nice paper, but not too much interesting."
+419,Zoltán Fülöp 0001,George Leih,Another Polynomial Homomorphism.,Microsoft,Company,Denied,"Nice paper, but not too much interesting."
+420,Annie Choquet,George Leih,Another Polynomial Homomorphism.,UDL,University,Denied,Really good.
+421,Oded Shmueli,George Leih,Another Polynomial Homomorphism.,UDL,University,Denied,"Nice paper, but not too much interesting."
+422,Christian Lengauer,Karl Meinke,Variance Reduction Techniques for the Simulation of Markov Process.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+423,Oded Shmueli,Karl Meinke,Variance Reduction Techniques for the Simulation of Markov Process.,Microsoft,Company,Denied,Nice to know.
+424,Sanjeev Saxena,Karl Meinke,Variance Reduction Techniques for the Simulation of Markov Process.,Intel,Company,Accepted,Really good.
+425,Hans Ulrich Simon,Delphine Longuet,State complexity of deletion and bipolar deletion.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+426,Juha Honkala,Delphine Longuet,State complexity of deletion and bipolar deletion.,UDL,University,Accepted,Really good.
+427,Juha Honkala,Delphine Longuet,State complexity of deletion and bipolar deletion.,Intel,Company,Denied,Nice to know.
+428,Maciej Koutny,Delphine Longuet,State complexity of deletion and bipolar deletion.,UPC,University,Denied,"Nice paper, but not too much interesting."
+429,Nathan Goodman,Delphine Longuet,State complexity of deletion and bipolar deletion.,UPC,University,Denied,Nice to know.
+430,Arnold Schönhage,Delphine Longuet,Decomposition of Graphs and Monotone Formula Size of Homogeneous Functions.,UPC,University,Denied,Too much boring.
+431,Norbert Blum,Delphine Longuet,Decomposition of Graphs and Monotone Formula Size of Homogeneous Functions.,Microsoft,Company,Accepted,Really good.
+432,Alex Kondratyev,Walter J. Savitch,Symbolic checking of Fuzzy CTL on Fuzzy Program Graph.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+433,Hans Ulrich Simon,Walter J. Savitch,Symbolic checking of Fuzzy CTL on Fuzzy Program Graph.,Intel,Company,Accepted,Too much boring.
+434,Arnold Schönhage,Walter J. Savitch,Regular and context-free nominal traces.,UDL,University,Accepted,Really good.
+435,Oded Shmueli,Walter J. Savitch,Regular and context-free nominal traces.,UPC,University,Denied,"Nice paper, but not too much interesting."
+436,Norbert Blum,George Leih,Deterministic pushdown-CD-systems of stateless deterministic R(1)-automata.,UDL,University,Denied,Really good.
+437,Oded Shmueli,George Leih,Deterministic pushdown-CD-systems of stateless deterministic R(1)-automata.,UPC,University,Accepted,Really good.
+438,Hans Ulrich Simon,Walter J. Savitch,Special issue: Synthesis and SYNT 2014.,UDL,University,Accepted,Nice to know.
+439,George Rahonis,Walter J. Savitch,Special issue: Synthesis and SYNT 2014.,Microsoft,Company,Denied,Too much boring.
+440,Alex Kondratyev,Walter J. Savitch,On the Synchronization in Parallel Communicating Grammar Systems.,UDL,University,Accepted,Really good.
+441,Hans Ulrich Simon,Walter J. Savitch,On the Synchronization in Parallel Communicating Grammar Systems.,Microsoft,Company,Denied,Nice to know.
+442,Hans Ulrich Simon,Walter J. Savitch,On the Synchronization in Parallel Communicating Grammar Systems.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+443,Sanjeev Saxena,Walter J. Savitch,On the Synchronization in Parallel Communicating Grammar Systems.,Microsoft,Company,Denied,Too much boring.
+444,Arnold Schönhage,Walter J. Savitch,On the Synchronization in Parallel Communicating Grammar Systems.,UPC,University,Denied,Really good.
+445,Christian Lengauer,Walter J. Savitch,On the Synchronization in Parallel Communicating Grammar Systems.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+446,Victor Khomenko,Karl Meinke,Weakly Context-Sensitive Languages as Model for Programming Languages.,UDL,University,Denied,Too much boring.
+447,George Rahonis,Karl Meinke,Weakly Context-Sensitive Languages as Model for Programming Languages.,Intel,Company,Accepted,Nice to know.
+448,Norbert Blum,Karl Meinke,Weakly Context-Sensitive Languages as Model for Programming Languages.,Microsoft,Company,Denied,Too much boring.
+449,Juha Honkala,Karl Meinke,Weakly Context-Sensitive Languages as Model for Programming Languages.,Intel,Company,Denied,Really good.
+450,Alex Kondratyev,George Leih,Rules of Inference for Procedure Calls.,UPC,University,Denied,Nice to know.
+451,Nathan Goodman,George Leih,Rules of Inference for Procedure Calls.,UDL,University,Accepted,Nice to know.
+452,Hans Ulrich Simon,George Leih,Rules of Inference for Procedure Calls.,Microsoft,Company,Accepted,Nice to know.
+453,Oded Shmueli,George Leih,Rules of Inference for Procedure Calls.,Microsoft,Company,Denied,Nice to know.
+454,Sanjeev Saxena,Walter J. Savitch,The Construction of Operator Interfaces Based on Logical Input Devices.,Microsoft,Company,Denied,"Nice paper, but not too much interesting."
+455,Arnold Schönhage,Walter J. Savitch,The Construction of Operator Interfaces Based on Logical Input Devices.,Intel,Company,Denied,Nice to know.
+456,Hans Ulrich Simon,Walter J. Savitch,The Construction of Operator Interfaces Based on Logical Input Devices.,Intel,Company,Accepted,Really good.
+457,Juha Honkala,Karl Meinke,High Level Tree Transducers and Iterated Pushdown Tree Transducers.,Intel,Company,Denied,"Nice paper, but not too much interesting."
+458,Sanjeev Saxena,Karl Meinke,High Level Tree Transducers and Iterated Pushdown Tree Transducers.,Microsoft,Company,Accepted,Too much boring.
+459,Nathan Goodman,Karl Meinke,High Level Tree Transducers and Iterated Pushdown Tree Transducers.,Microsoft,Company,Denied,Too much boring.
+460,Norbert Blum,Karl Meinke,High Level Tree Transducers and Iterated Pushdown Tree Transducers.,UPC,University,Accepted,"Nice paper, but not too much interesting."
+461,Sanjeev Saxena,Walter J. Savitch,Gobang ist PSPACE-vollständig.,Microsoft,Company,Denied,"Nice paper, but not too much interesting."
+462,Nathan Goodman,Walter J. Savitch,Gobang ist PSPACE-vollständig.,Intel,Company,Accepted,Too much boring.
+463,Arnold Schönhage,Delphine Longuet,A note on autodense related languages.,UPC,University,Denied,"Nice paper, but not too much interesting."
+464,Nathan Goodman,Delphine Longuet,A note on autodense related languages.,Intel,Company,Accepted,Nice to know.
+465,Juha Honkala,Delphine Longuet,A note on autodense related languages.,Microsoft,Company,Accepted,Really good.
+466,Arnold Schönhage,Delphine Longuet,Solving HPP and SAT by P Systems with Active Membranes and Separation Rules.,UDL,University,Accepted,Too much boring.
+467,Norbert Blum,Delphine Longuet,Solving HPP and SAT by P Systems with Active Membranes and Separation Rules.,Intel,Company,Denied,Nice to know.
+468,Juha Honkala,George Leih,Optimizing the Costs of Hierarchical Quorum Consensus.,UPC,University,Denied,"Nice paper, but not too much interesting."
+469,Sanjeev Saxena,George Leih,Optimizing the Costs of Hierarchical Quorum Consensus.,UPC,University,Denied,Nice to know.
+470,Juha Honkala,Karl Meinke,Recursive Petri nets.,Microsoft,Company,Denied,Too much boring.
+471,Hans Ulrich Simon,Karl Meinke,Recursive Petri nets.,UPC,University,Accepted,Too much boring.
+472,Norbert Blum,Karl Meinke,Recursive Petri nets.,UPC,University,Accepted,"Nice paper, but not too much interesting."
+473,Oded Shmueli,Walter J. Savitch,Multitype Multiprogramming Models.,Microsoft,Company,Denied,Really good.
+474,Nathan Goodman,Walter J. Savitch,Multitype Multiprogramming Models.,Microsoft,Company,Accepted,Nice to know.
+475,Maciej Koutny,Delphine Longuet,Automatic Correction of Syntax-Errors in Programming Languages.,UDL,University,Accepted,Really good.
+476,Alain Finkel,Delphine Longuet,Automatic Correction of Syntax-Errors in Programming Languages.,Microsoft,Company,Denied,"Nice paper, but not too much interesting."
+477,Oded Shmueli,Delphine Longuet,Automatic Correction of Syntax-Errors in Programming Languages.,UDL,University,Accepted,Too much boring.
+478,Hans Ulrich Simon,Delphine Longuet,Automatic Correction of Syntax-Errors in Programming Languages.,UPC,University,Accepted,"Nice paper, but not too much interesting."
+479,Juha Honkala,Delphine Longuet,Representation and uniformization of algebraic transductions.,UDL,University,Denied,Nice to know.
+480,Hans Ulrich Simon,Delphine Longuet,Representation and uniformization of algebraic transductions.,Intel,Company,Denied,Really good.
+481,Christian Lengauer,Delphine Longuet,Representation and uniformization of algebraic transductions.,UPC,University,Denied,Nice to know.
+482,Zoltán Fülöp 0001,Delphine Longuet,Representation and uniformization of algebraic transductions.,UDL,University,Accepted,Really good.
+483,Juha Honkala,Delphine Longuet,Representation and uniformization of algebraic transductions.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+484,Oded Shmueli,Delphine Longuet,Representation and uniformization of algebraic transductions.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+485,Annie Choquet,Karl Meinke,Concurrent Bisimulations in Petri Nets.,Intel,Company,Denied,Nice to know.
+486,Arnold Schönhage,Karl Meinke,Concurrent Bisimulations in Petri Nets.,Microsoft,Company,Accepted,Too much boring.
+487,Sanjeev Saxena,Karl Meinke,Concurrent Bisimulations in Petri Nets.,Microsoft,Company,Accepted,Too much boring.
+488,Juha Honkala,Karl Meinke,Concurrent Bisimulations in Petri Nets.,Intel,Company,Denied,"Nice paper, but not too much interesting."
+489,Oded Shmueli,Walter J. Savitch,Enhanced prefetching and caching strategies for single- and multi-disk systems.,Intel,Company,Accepted,Nice to know.
+490,Arnold Schönhage,Walter J. Savitch,Enhanced prefetching and caching strategies for single- and multi-disk systems.,UDL,University,Accepted,Too much boring.
+491,Oded Shmueli,Walter J. Savitch,Enhanced prefetching and caching strategies for single- and multi-disk systems.,Intel,Company,Accepted,"Nice paper, but not too much interesting."
+492,Chua-Huang Huang,Delphine Longuet,Recording the Use of Memory in Right-Boundary Grammars and Push-Down Automata.,Intel,Company,Accepted,"Nice paper, but not too much interesting."
+493,Hans Ulrich Simon,Delphine Longuet,Recording the Use of Memory in Right-Boundary Grammars and Push-Down Automata.,Intel,Company,Accepted,"Nice paper, but not too much interesting."
+494,Norbert Blum,Delphine Longuet,Recording the Use of Memory in Right-Boundary Grammars and Push-Down Automata.,UPC,University,Accepted,Nice to know.
+495,Alex Kondratyev,Delphine Longuet,Recording the Use of Memory in Right-Boundary Grammars and Push-Down Automata.,Microsoft,Company,Denied,"Nice paper, but not too much interesting."
+496,Alex Kondratyev,George Leih,State space axioms for T-systems.,UPC,University,Denied,Really good.
+497,Nathan Goodman,George Leih,State space axioms for T-systems.,UPC,University,Denied,"Nice paper, but not too much interesting."
+498,Juha Honkala,Walter J. Savitch,Extended multi bottom-up tree transducers.,Microsoft,Company,Denied,"Nice paper, but not too much interesting."
+499,Nathan Goodman,Walter J. Savitch,Extended multi bottom-up tree transducers.,Intel,Company,Accepted,Nice to know.
+500,Juha Honkala,Walter J. Savitch,Extended multi bottom-up tree transducers.,UPC,University,Denied,Really good.
+501,Chua-Huang Huang,Walter J. Savitch,The Clean Termination of Iterative Programs.,Intel,Company,Denied,Really good.
+502,Norbert Blum,Walter J. Savitch,The Clean Termination of Iterative Programs.,Microsoft,Company,Denied,"Nice paper, but not too much interesting."
+503,Sanjeev Saxena,Walter J. Savitch,The Clean Termination of Iterative Programs.,Intel,Company,Accepted,Really good.
+504,Nathan Goodman,Walter J. Savitch,Infinite Proof Rules for Loops.,Microsoft,Company,Denied,Really good.
+505,Alex Kondratyev,Walter J. Savitch,Infinite Proof Rules for Loops.,UPC,University,Denied,Really good.
+506,Hans Ulrich Simon,Walter J. Savitch,Nonfinite Axiomatizability of the Equational Theory of Shuffle.,Microsoft,Company,Denied,Really good.
+507,Oded Shmueli,Walter J. Savitch,Nonfinite Axiomatizability of the Equational Theory of Shuffle.,Microsoft,Company,Denied,Too much boring.
+508,Nathan Goodman,Walter J. Savitch,Nonfinite Axiomatizability of the Equational Theory of Shuffle.,Intel,Company,Denied,Nice to know.
+509,Oded Shmueli,Walter J. Savitch,Nonfinite Axiomatizability of the Equational Theory of Shuffle.,UPC,University,Denied,Nice to know.
+510,Nathan Goodman,Karl Meinke,"Running a job on a collection of partly available machines, with on-line restarts.",UPC,University,Denied,Too much boring.
+511,Oded Shmueli,Karl Meinke,"Running a job on a collection of partly available machines, with on-line restarts.",UDL,University,Accepted,"Nice paper, but not too much interesting."
+512,Hans Ulrich Simon,Karl Meinke,"Running a job on a collection of partly available machines, with on-line restarts.",UPC,University,Accepted,"Nice paper, but not too much interesting."
+513,Oded Shmueli,George Leih,Data Refinement by Calculation.,UDL,University,Accepted,Nice to know.
+514,Annie Choquet,George Leih,Data Refinement by Calculation.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+515,Nathan Goodman,George Leih,Data Refinement by Calculation.,UPC,University,Accepted,Too much boring.
+516,Juha Honkala,George Leih,Program Refinement in Fair Transition Systems.,Intel,Company,Accepted,Nice to know.
+517,Norbert Blum,George Leih,Program Refinement in Fair Transition Systems.,Intel,Company,Accepted,Too much boring.
+518,Sanjeev Saxena,George Leih,Program Refinement in Fair Transition Systems.,UDL,University,Denied,Really good.
+519,Maciej Koutny,George Leih,Program Refinement in Fair Transition Systems.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+520,Sanjeev Saxena,Karl Meinke,A Functional Model for Describing and Reasoning About Time Behaviour of Computing Systems.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+521,Norbert Blum,Karl Meinke,A Functional Model for Describing and Reasoning About Time Behaviour of Computing Systems.,Microsoft,Company,Denied,Nice to know.
+522,Nathan Goodman,Karl Meinke,A Functional Model for Describing and Reasoning About Time Behaviour of Computing Systems.,UDL,University,Denied,Really good.
+523,Hans Ulrich Simon,Karl Meinke,A Functional Model for Describing and Reasoning About Time Behaviour of Computing Systems.,UDL,University,Accepted,Too much boring.
+524,Hans Ulrich Simon,Karl Meinke,A Functional Model for Describing and Reasoning About Time Behaviour of Computing Systems.,UDL,University,Accepted,Nice to know.
+525,Victor Khomenko,Karl Meinke,A Functional Model for Describing and Reasoning About Time Behaviour of Computing Systems.,UDL,University,Denied,Nice to know.
+526,Nathan Goodman,Delphine Longuet,"M-Nets: An Algebra of High-Level Petri Nets, with an Application to the Semantics of Concurrent Programming Languages.",UDL,University,Denied,Really good.
+527,Hans Ulrich Simon,Delphine Longuet,"M-Nets: An Algebra of High-Level Petri Nets, with an Application to the Semantics of Concurrent Programming Languages.",Microsoft,Company,Denied,Really good.
+528,Oded Shmueli,Delphine Longuet,"M-Nets: An Algebra of High-Level Petri Nets, with an Application to the Semantics of Concurrent Programming Languages.",Intel,Company,Denied,Too much boring.
+529,Arnold Schönhage,Delphine Longuet,"M-Nets: An Algebra of High-Level Petri Nets, with an Application to the Semantics of Concurrent Programming Languages.",Intel,Company,Denied,Nice to know.
+530,Sanjeev Saxena,Karl Meinke,On the Look-Ahead Problem in Lexical Analysis.,Microsoft,Company,Accepted,Too much boring.
+531,Oded Shmueli,Karl Meinke,On the Look-Ahead Problem in Lexical Analysis.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+532,Victor Khomenko,Walter J. Savitch,A theory of formal synthesis via inductive learning.,UDL,University,Accepted,Nice to know.
+533,Juha Honkala,Walter J. Savitch,A theory of formal synthesis via inductive learning.,UPC,University,Denied,Really good.
+534,Maciej Koutny,George Leih,The maximum gain of increasing the number of preemptions in multiprocessor scheduling.,Microsoft,Company,Denied,Nice to know.
+535,Christian Lengauer,George Leih,The maximum gain of increasing the number of preemptions in multiprocessor scheduling.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+536,Nathan Goodman,George Leih,The maximum gain of increasing the number of preemptions in multiprocessor scheduling.,Intel,Company,Accepted,Too much boring.
+537,Arnold Schönhage,George Leih,The maximum gain of increasing the number of preemptions in multiprocessor scheduling.,UDL,University,Accepted,Nice to know.
+538,Oded Shmueli,George Leih,The maximum gain of increasing the number of preemptions in multiprocessor scheduling.,Microsoft,Company,Denied,Really good.
+539,Juha Honkala,Karl Meinke,Data Encodings and Their Costs.,Intel,Company,Denied,Nice to know.
+540,Maciej Koutny,Karl Meinke,Data Encodings and Their Costs.,Intel,Company,Accepted,Too much boring.
+541,Nathan Goodman,Karl Meinke,Data Encodings and Their Costs.,Microsoft,Company,Denied,Nice to know.
+542,Hans Ulrich Simon,George Leih,Hierarchies of Complete Problems.,UDL,University,Denied,"Nice paper, but not too much interesting."
+543,Juha Honkala,George Leih,Hierarchies of Complete Problems.,Intel,Company,Accepted,"Nice paper, but not too much interesting."
+544,Nathan Goodman,George Leih,Hierarchies of Complete Problems.,UDL,University,Accepted,Too much boring.
+545,Alex Kondratyev,Delphine Longuet,Ein Vollständigkeitssatz für Programme und Schaltkreise.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+546,Alain Finkel,Delphine Longuet,Ein Vollständigkeitssatz für Programme und Schaltkreise.,UDL,University,Denied,"Nice paper, but not too much interesting."
+547,Arnold Schönhage,Delphine Longuet,Ein Vollständigkeitssatz für Programme und Schaltkreise.,Intel,Company,Denied,Too much boring.
+548,Juha Honkala,Delphine Longuet,Ein Vollständigkeitssatz für Programme und Schaltkreise.,UDL,University,Denied,Too much boring.
+549,Sanjeev Saxena,Delphine Longuet,Ein Vollständigkeitssatz für Programme und Schaltkreise.,Intel,Company,Accepted,Too much boring.
+550,Sanjeev Saxena,Delphine Longuet,Type-based information flow analysis for the pi-calculus.,UPC,University,Denied,Too much boring.
+551,Christian Lengauer,Delphine Longuet,Type-based information flow analysis for the pi-calculus.,Microsoft,Company,Denied,Too much boring.
+552,Sanjeev Saxena,Delphine Longuet,Type-based information flow analysis for the pi-calculus.,Intel,Company,Denied,Nice to know.
+553,Juha Honkala,George Leih,Sur une Conjecture de S. Greibach.,Intel,Company,Accepted,Too much boring.
+554,Hans Ulrich Simon,George Leih,Sur une Conjecture de S. Greibach.,UDL,University,Denied,Nice to know.
+555,Nathan Goodman,Walter J. Savitch,A Conservation Law for G/G/m Queueing Systems.,Intel,Company,Accepted,Nice to know.
+556,Norbert Blum,Walter J. Savitch,A Conservation Law for G/G/m Queueing Systems.,UDL,University,Accepted,Really good.
+557,George Rahonis,Walter J. Savitch,A Conservation Law for G/G/m Queueing Systems.,UPC,University,Denied,Nice to know.
+558,Juha Honkala,Walter J. Savitch,A Conservation Law for G/G/m Queueing Systems.,Intel,Company,Accepted,"Nice paper, but not too much interesting."
+559,Nathan Goodman,Walter J. Savitch,A Conservation Law for G/G/m Queueing Systems.,UPC,University,Accepted,Really good.
+560,Juha Honkala,Delphine Longuet,Applications of Efficient Mergeable Heaps for Optimization Problems on Trees.,Intel,Company,Denied,Really good.
+561,Sanjeev Saxena,Delphine Longuet,Applications of Efficient Mergeable Heaps for Optimization Problems on Trees.,Microsoft,Company,Denied,"Nice paper, but not too much interesting."
+562,Norbert Blum,Delphine Longuet,Applications of Efficient Mergeable Heaps for Optimization Problems on Trees.,Intel,Company,Denied,Really good.
+563,Nathan Goodman,George Leih,Context-Free Graph Grammars and Concatenation of Graphs.,UDL,University,Accepted,Too much boring.
+564,Juha Honkala,George Leih,Context-Free Graph Grammars and Concatenation of Graphs.,UPC,University,Denied,Nice to know.
+565,Oded Shmueli,George Leih,Context-Free Graph Grammars and Concatenation of Graphs.,UPC,University,Accepted,"Nice paper, but not too much interesting."
+566,Hans Ulrich Simon,Delphine Longuet,On a Class of Recursive Procedures and Equivalent Iterative Ones.,UPC,University,Accepted,"Nice paper, but not too much interesting."
+567,Juha Honkala,Delphine Longuet,On a Class of Recursive Procedures and Equivalent Iterative Ones.,Microsoft,Company,Accepted,Too much boring.
+568,Hans Ulrich Simon,Delphine Longuet,On a Class of Recursive Procedures and Equivalent Iterative Ones.,UDL,University,Accepted,Too much boring.
+569,Nathan Goodman,Delphine Longuet,On a Class of Recursive Procedures and Equivalent Iterative Ones.,UDL,University,Accepted,Really good.
+570,Alain Finkel,Delphine Longuet,Algorithms for Fast Evaluation of Boolean Expressions.,UDL,University,Accepted,Really good.
+571,Nathan Goodman,Delphine Longuet,Algorithms for Fast Evaluation of Boolean Expressions.,UDL,University,Denied,"Nice paper, but not too much interesting."
+572,Juha Honkala,Delphine Longuet,A general account of coinduction up-to.,UDL,University,Accepted,Really good.
+573,Christian Lengauer,Delphine Longuet,A general account of coinduction up-to.,UPC,University,Accepted,Really good.
+574,Oded Shmueli,Walter J. Savitch,A Comparison of Two Synchronizing Concepts.,UDL,University,Accepted,Nice to know.
+575,Hans Ulrich Simon,Walter J. Savitch,A Comparison of Two Synchronizing Concepts.,Intel,Company,Denied,"Nice paper, but not too much interesting."
+576,Hans Ulrich Simon,Delphine Longuet,How to Calculate Symmetries of Petri Nets.,UPC,University,Denied,"Nice paper, but not too much interesting."
+577,Juha Honkala,Delphine Longuet,How to Calculate Symmetries of Petri Nets.,Microsoft,Company,Denied,Nice to know.
+578,Hans Ulrich Simon,Delphine Longuet,How to Calculate Symmetries of Petri Nets.,UDL,University,Accepted,Nice to know.
+579,Sanjeev Saxena,Delphine Longuet,How to Calculate Symmetries of Petri Nets.,Microsoft,Company,Accepted,Nice to know.
+580,Hans Ulrich Simon,Delphine Longuet,How to Calculate Symmetries of Petri Nets.,UPC,University,Accepted,Too much boring.
+581,Sanjeev Saxena,Karl Meinke,"Nonterminals, Homomorphisms and Codings in Different Variations of OL-Systems. I. Deterministic Systems.",Microsoft,Company,Denied,Too much boring.
+582,Hans Ulrich Simon,Karl Meinke,"Nonterminals, Homomorphisms and Codings in Different Variations of OL-Systems. I. Deterministic Systems.",UDL,University,Denied,"Nice paper, but not too much interesting."
+583,Chua-Huang Huang,Karl Meinke,"Nonterminals, Homomorphisms and Codings in Different Variations of OL-Systems. I. Deterministic Systems.",Intel,Company,Denied,"Nice paper, but not too much interesting."
+584,Maciej Koutny,Delphine Longuet,Recognizability of graph and pattern languages.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+585,Sanjeev Saxena,Delphine Longuet,Recognizability of graph and pattern languages.,UPC,University,Accepted,Too much boring.
+586,Hans Ulrich Simon,Delphine Longuet,The Synthesis Problem of Petri Nets.,Microsoft,Company,Accepted,Nice to know.
+587,Chua-Huang Huang,Delphine Longuet,The Synthesis Problem of Petri Nets.,Microsoft,Company,Denied,Too much boring.
+588,Nathan Goodman,Walter J. Savitch,A Binary Operation on Trees and an Initial Algebra Characterization for Finite Tree Types.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+589,Norbert Blum,Walter J. Savitch,A Binary Operation on Trees and an Initial Algebra Characterization for Finite Tree Types.,Intel,Company,Denied,Nice to know.
+590,Alex Kondratyev,Walter J. Savitch,A Binary Operation on Trees and an Initial Algebra Characterization for Finite Tree Types.,UPC,University,Denied,"Nice paper, but not too much interesting."
+591,Maciej Koutny,Walter J. Savitch,A Binary Operation on Trees and an Initial Algebra Characterization for Finite Tree Types.,UDL,University,Denied,Too much boring.
+592,Nathan Goodman,Karl Meinke,On weighted first-order logics with discounting.,UDL,University,Accepted,Nice to know.
+593,Arnold Schönhage,Karl Meinke,On weighted first-order logics with discounting.,Microsoft,Company,Denied,Really good.
+594,Zoltán Fülöp 0001,Karl Meinke,On weighted first-order logics with discounting.,UPC,University,Accepted,Really good.
+595,Oded Shmueli,Karl Meinke,On weighted first-order logics with discounting.,UPC,University,Denied,Nice to know.
+596,Sanjeev Saxena,George Leih,A Characterization of Context-free String Languages by Directed Node-label Controlled Graph Grammars.,Microsoft,Company,Accepted,Nice to know.
+597,Arnold Schönhage,George Leih,A Characterization of Context-free String Languages by Directed Node-label Controlled Graph Grammars.,UPC,University,Denied,"Nice paper, but not too much interesting."
+598,Norbert Blum,Walter J. Savitch,"Demonic, angelic and unbounded probabilistic choices in sequential programs.",UDL,University,Accepted,Too much boring.
+599,Nathan Goodman,Walter J. Savitch,"Demonic, angelic and unbounded probabilistic choices in sequential programs.",Microsoft,Company,Denied,Really good.
+600,Alain Finkel,Walter J. Savitch,"Demonic, angelic and unbounded probabilistic choices in sequential programs.",Microsoft,Company,Denied,Too much boring.
+601,Hans Ulrich Simon,Delphine Longuet,An Efficiency Preorder for Processes.,Microsoft,Company,Denied,Nice to know.
+602,Juha Honkala,Delphine Longuet,An Efficiency Preorder for Processes.,UPC,University,Accepted,Nice to know.
+603,Juha Honkala,Karl Meinke,On the Generalization of Higman and Kruskal's Theorems to Regular Languages and Rational Trees.,Intel,Company,Denied,Really good.
+604,Sanjeev Saxena,Karl Meinke,On the Generalization of Higman and Kruskal's Theorems to Regular Languages and Rational Trees.,Intel,Company,Accepted,Really good.
+605,Norbert Blum,Delphine Longuet,Modeling Splits in File Structures.,Intel,Company,Denied,Nice to know.
+606,Hans Ulrich Simon,Delphine Longuet,Modeling Splits in File Structures.,UDL,University,Accepted,Too much boring.
+607,Oded Shmueli,Delphine Longuet,Modeling Splits in File Structures.,UPC,University,Accepted,"Nice paper, but not too much interesting."
+608,Nathan Goodman,Delphine Longuet,Modeling Splits in File Structures.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+609,Hans Ulrich Simon,George Leih,Languages Accepted by Systolic Y-Tree Automata: Structural Characterizations.,UDL,University,Denied,Too much boring.
+610,Sanjeev Saxena,George Leih,Languages Accepted by Systolic Y-Tree Automata: Structural Characterizations.,Intel,Company,Accepted,"Nice paper, but not too much interesting."
+611,Arnold Schönhage,George Leih,Languages Accepted by Systolic Y-Tree Automata: Structural Characterizations.,Microsoft,Company,Denied,Too much boring.
+612,Sanjeev Saxena,George Leih,Languages Accepted by Systolic Y-Tree Automata: Structural Characterizations.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+613,Nathan Goodman,Delphine Longuet,Synchronized regular expressions.,UDL,University,Accepted,Really good.
+614,Zoltán Fülöp 0001,Delphine Longuet,Synchronized regular expressions.,Intel,Company,Denied,Really good.
+615,Symeon Bozapalidis,Delphine Longuet,Synchronized regular expressions.,Microsoft,Company,Denied,"Nice paper, but not too much interesting."
+616,Annie Choquet,Delphine Longuet,Synchronized regular expressions.,UPC,University,Denied,Too much boring.
+617,Norbert Blum,Karl Meinke,On regular tree languages and deterministic pushdown automata.,UDL,University,Accepted,Really good.
+618,Alex Kondratyev,Karl Meinke,On regular tree languages and deterministic pushdown automata.,Microsoft,Company,Denied,"Nice paper, but not too much interesting."
+619,Victor Khomenko,Karl Meinke,On regular tree languages and deterministic pushdown automata.,UPC,University,Denied,"Nice paper, but not too much interesting."
+620,Annie Choquet,Karl Meinke,A Modal Logic for Message Passing Processes.,Microsoft,Company,Accepted,Really good.
+621,Juha Honkala,Karl Meinke,A Modal Logic for Message Passing Processes.,UPC,University,Denied,Nice to know.
+622,Nathan Goodman,Karl Meinke,A Modal Logic for Message Passing Processes.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+623,Hans Ulrich Simon,Karl Meinke,A Modal Logic for Message Passing Processes.,UDL,University,Denied,"Nice paper, but not too much interesting."
+624,Nathan Goodman,Karl Meinke,A Modal Logic for Message Passing Processes.,UPC,University,Denied,"Nice paper, but not too much interesting."
+625,Maciej Koutny,Karl Meinke,Maintaining Range Trees in Secondary Memory. Part I: Partitions.,UPC,University,Accepted,Too much boring.
+626,Symeon Bozapalidis,Karl Meinke,Maintaining Range Trees in Secondary Memory. Part I: Partitions.,Microsoft,Company,Denied,Nice to know.
+627,Christian Lengauer,Karl Meinke,Maintaining Range Trees in Secondary Memory. Part I: Partitions.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+628,Hans Ulrich Simon,Karl Meinke,Maintaining Range Trees in Secondary Memory. Part I: Partitions.,UDL,University,Accepted,Too much boring.
+629,Oded Shmueli,Karl Meinke,Maintaining Range Trees in Secondary Memory. Part I: Partitions.,Microsoft,Company,Denied,Really good.
+630,Christian Lengauer,Karl Meinke,Maintaining Range Trees in Secondary Memory. Part I: Partitions.,UPC,University,Denied,"Nice paper, but not too much interesting."
+631,Sanjeev Saxena,Karl Meinke,Maintaining Range Trees in Secondary Memory. Part I: Partitions.,Intel,Company,Accepted,"Nice paper, but not too much interesting."
+632,Arnold Schönhage,Delphine Longuet,Does indirect addressing matter? - A note.,UDL,University,Denied,"Nice paper, but not too much interesting."
+633,Symeon Bozapalidis,Delphine Longuet,Does indirect addressing matter? - A note.,Microsoft,Company,Denied,Too much boring.
+634,Chua-Huang Huang,George Leih,Reasoning Algebraically about Loops.,UDL,University,Denied,Too much boring.
+635,Juha Honkala,George Leih,Reasoning Algebraically about Loops.,UPC,University,Accepted,Nice to know.
+636,Sanjeev Saxena,George Leih,A Model of a Time Sharing Virtual Memory System Solved Using Equivalence and Decomposition Methods.,UDL,University,Accepted,Nice to know.
+637,Walter Vogler,George Leih,A Model of a Time Sharing Virtual Memory System Solved Using Equivalence and Decomposition Methods.,UPC,University,Denied,"Nice paper, but not too much interesting."
+638,Juha Honkala,George Leih,A Model of a Time Sharing Virtual Memory System Solved Using Equivalence and Decomposition Methods.,UDL,University,Accepted,Really good.
+639,Arnold Schönhage,George Leih,A Model of a Time Sharing Virtual Memory System Solved Using Equivalence and Decomposition Methods.,UDL,University,Denied,Too much boring.
+640,Hans Ulrich Simon,George Leih,Trace Nets and Process Automata.,Intel,Company,Accepted,Nice to know.
+641,Norbert Blum,George Leih,Trace Nets and Process Automata.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+642,Nathan Goodman,Karl Meinke,Metric propositional neighborhood logic with an equivalence relation.,Intel,Company,Accepted,"Nice paper, but not too much interesting."
+643,Juha Honkala,Karl Meinke,Metric propositional neighborhood logic with an equivalence relation.,UPC,University,Accepted,Too much boring.
+644,Sanjeev Saxena,Karl Meinke,Metric propositional neighborhood logic with an equivalence relation.,UDL,University,Denied,Too much boring.
+645,Juha Honkala,Karl Meinke,Metric propositional neighborhood logic with an equivalence relation.,UDL,University,Denied,"Nice paper, but not too much interesting."
+646,Arnold Schönhage,George Leih,A Principle of Independence for Binary Tree Searching.,UPC,University,Denied,Nice to know.
+647,Sanjeev Saxena,George Leih,A Principle of Independence for Binary Tree Searching.,UPC,University,Denied,"Nice paper, but not too much interesting."
+648,Juha Honkala,George Leih,A Principle of Independence for Binary Tree Searching.,Microsoft,Company,Denied,"Nice paper, but not too much interesting."
+649,Hans Ulrich Simon,George Leih,A Principle of Independence for Binary Tree Searching.,Intel,Company,Accepted,Really good.
+650,Sanjeev Saxena,Delphine Longuet,Optimal Divide-and-Conquer to Compute Measure and Contour for a Set of Iso-Rectangles.,Microsoft,Company,Accepted,Really good.
+651,Walter Vogler,Delphine Longuet,Optimal Divide-and-Conquer to Compute Measure and Contour for a Set of Iso-Rectangles.,UDL,University,Denied,"Nice paper, but not too much interesting."
+652,Arnold Schönhage,George Leih,The Paging Drum Queue: A Uniform Perspective and Further Results.,Microsoft,Company,Accepted,Really good.
+653,Hans Ulrich Simon,George Leih,The Paging Drum Queue: A Uniform Perspective and Further Results.,Intel,Company,Denied,"Nice paper, but not too much interesting."
+654,Chua-Huang Huang,George Leih,The Undecidability of the Unification and Matching Problem for Canonical Theories.,UDL,University,Denied,Too much boring.
+655,Nathan Goodman,George Leih,The Undecidability of the Unification and Matching Problem for Canonical Theories.,UDL,University,Denied,"Nice paper, but not too much interesting."
+656,Alain Finkel,Walter J. Savitch,The Programming Language Pascal.,Microsoft,Company,Accepted,Nice to know.
+657,Oded Shmueli,Walter J. Savitch,The Programming Language Pascal.,UPC,University,Accepted,Really good.
+658,Sanjeev Saxena,Walter J. Savitch,The Programming Language Pascal.,Intel,Company,Accepted,Really good.
+659,Juha Honkala,Walter J. Savitch,The Programming Language Pascal.,Microsoft,Company,Denied,"Nice paper, but not too much interesting."
+660,Arnold Schönhage,George Leih,"Semantics, calculi, and analysis for object-oriented specifications.",UPC,University,Denied,"Nice paper, but not too much interesting."
+661,Nathan Goodman,George Leih,"Semantics, calculi, and analysis for object-oriented specifications.",UPC,University,Denied,Too much boring.
+662,Walter Vogler,Karl Meinke,Inhibitionsfelder.,Microsoft,Company,Denied,Really good.
+663,Victor Khomenko,Karl Meinke,Inhibitionsfelder.,Microsoft,Company,Accepted,Too much boring.
+664,Hans Ulrich Simon,Karl Meinke,Inhibitionsfelder.,Microsoft,Company,Accepted,Too much boring.
+665,Norbert Blum,Walter J. Savitch,Head and state hierarchies for unary multi-head finite automata.,Intel,Company,Denied,"Nice paper, but not too much interesting."
+666,Walter Vogler,Walter J. Savitch,Head and state hierarchies for unary multi-head finite automata.,Microsoft,Company,Denied,Nice to know.
+667,Hans Ulrich Simon,Walter J. Savitch,Head and state hierarchies for unary multi-head finite automata.,Intel,Company,Accepted,"Nice paper, but not too much interesting."
+668,Sanjeev Saxena,Walter J. Savitch,Head and state hierarchies for unary multi-head finite automata.,Intel,Company,Accepted,Too much boring.
+669,Arnold Schönhage,Walter J. Savitch,Head and state hierarchies for unary multi-head finite automata.,Intel,Company,Accepted,"Nice paper, but not too much interesting."
+670,Norbert Blum,Walter J. Savitch,Head and state hierarchies for unary multi-head finite automata.,UPC,University,Denied,"Nice paper, but not too much interesting."
+671,Maciej Koutny,Walter J. Savitch,Head and state hierarchies for unary multi-head finite automata.,Microsoft,Company,Denied,"Nice paper, but not too much interesting."
+672,Sanjeev Saxena,Walter J. Savitch,Head and state hierarchies for unary multi-head finite automata.,UPC,University,Denied,Nice to know.
+673,Zoltán Fülöp 0001,Karl Meinke,On the Number of Active-Operations Needed to Compute the Discrete Fourier Transform.,UPC,University,Accepted,Nice to know.
+674,Arnold Schönhage,Karl Meinke,On the Number of Active-Operations Needed to Compute the Discrete Fourier Transform.,UDL,University,Denied,"Nice paper, but not too much interesting."
+675,Norbert Blum,Karl Meinke,On the Number of Active-Operations Needed to Compute the Discrete Fourier Transform.,UDL,University,Denied,Nice to know.
+676,Oded Shmueli,Karl Meinke,On the Number of Active-Operations Needed to Compute the Discrete Fourier Transform.,Microsoft,Company,Accepted,Too much boring.
+677,Victor Khomenko,Karl Meinke,On the Number of Active-Operations Needed to Compute the Discrete Fourier Transform.,Intel,Company,Accepted,Too much boring.
+678,Arnold Schönhage,Karl Meinke,The stuttering principle revisited.,Intel,Company,Accepted,Really good.
+679,Oded Shmueli,Karl Meinke,The stuttering principle revisited.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+680,Victor Khomenko,Karl Meinke,The stuttering principle revisited.,UPC,University,Denied,"Nice paper, but not too much interesting."
+681,Arnold Schönhage,Karl Meinke,The stuttering principle revisited.,Intel,Company,Accepted,Nice to know.
+682,Arnold Schönhage,Karl Meinke,Redundant Proofs of Non-Interference in Levin-Gries CSP Program Proofs.,Microsoft,Company,Denied,Nice to know.
+683,Juha Honkala,Karl Meinke,Redundant Proofs of Non-Interference in Levin-Gries CSP Program Proofs.,UPC,University,Accepted,Nice to know.
+684,Nathan Goodman,Karl Meinke,Lazy Structure Sharing for Query Optimization.,Microsoft,Company,Denied,Really good.
+685,Norbert Blum,Karl Meinke,Lazy Structure Sharing for Query Optimization.,UPC,University,Denied,"Nice paper, but not too much interesting."
+686,Norbert Blum,Karl Meinke,Fair ambients.,Microsoft,Company,Denied,"Nice paper, but not too much interesting."
+687,Arnold Schönhage,Karl Meinke,Fair ambients.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+688,Annie Choquet,Karl Meinke,Fair ambients.,UPC,University,Accepted,"Nice paper, but not too much interesting."
+689,Nathan Goodman,Walter J. Savitch,Concurrent Access to Data.,Microsoft,Company,Denied,Really good.
+690,Sanjeev Saxena,Walter J. Savitch,Concurrent Access to Data.,Intel,Company,Denied,Really good.
+691,Hans Ulrich Simon,Walter J. Savitch,Concurrent Access to Data.,Microsoft,Company,Accepted,Too much boring.
+692,Oded Shmueli,George Leih,Relaxed red-black trees with group updates.,Microsoft,Company,Accepted,Nice to know.
+693,Sanjeev Saxena,George Leih,Relaxed red-black trees with group updates.,UPC,University,Denied,Too much boring.
+694,Oded Shmueli,George Leih,Relaxed red-black trees with group updates.,Intel,Company,Denied,Too much boring.
+695,Hans Ulrich Simon,George Leih,Relaxed red-black trees with group updates.,UPC,University,Accepted,"Nice paper, but not too much interesting."
+696,Norbert Blum,George Leih,Relaxed red-black trees with group updates.,Microsoft,Company,Denied,"Nice paper, but not too much interesting."
+697,Hans Ulrich Simon,Walter J. Savitch,Generation of Efficient ,Intel,Company,Denied,Too much boring.
+698,Nathan Goodman,Walter J. Savitch,Generation of Efficient ,UDL,University,Denied,Really good.
+699,Annie Choquet,Walter J. Savitch,Generation of Efficient ,UPC,University,Accepted,"Nice paper, but not too much interesting."
+700,Juha Honkala,Walter J. Savitch,Generation of Efficient ,UPC,University,Denied,Nice to know.
+701,Chua-Huang Huang,Delphine Longuet,A Markovian queue with varying number of servers and applications to the performance comparison of HSDPA user equipment.,Intel,Company,Denied,"Nice paper, but not too much interesting."
+702,Norbert Blum,Delphine Longuet,A Markovian queue with varying number of servers and applications to the performance comparison of HSDPA user equipment.,UDL,University,Denied,Really good.
+703,Nathan Goodman,Delphine Longuet,A Markovian queue with varying number of servers and applications to the performance comparison of HSDPA user equipment.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+704,Oded Shmueli,Delphine Longuet,A Markovian queue with varying number of servers and applications to the performance comparison of HSDPA user equipment.,Intel,Company,Accepted,Nice to know.
+705,Arnold Schönhage,Delphine Longuet,Priority Conflict-Free Petri Nets.,Intel,Company,Accepted,Really good.
+706,Hans Ulrich Simon,Delphine Longuet,Priority Conflict-Free Petri Nets.,Intel,Company,Accepted,"Nice paper, but not too much interesting."
+707,Norbert Blum,Delphine Longuet,Priority Conflict-Free Petri Nets.,Intel,Company,Denied,Nice to know.
+708,Juha Honkala,Delphine Longuet,Priority Conflict-Free Petri Nets.,Microsoft,Company,Denied,Too much boring.
+709,Maciej Koutny,Walter J. Savitch,Optimum Multiway Search Trees.,Microsoft,Company,Accepted,Nice to know.
+710,Juha Honkala,Walter J. Savitch,Optimum Multiway Search Trees.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+711,Oded Shmueli,Walter J. Savitch,Optimum Multiway Search Trees.,UDL,University,Accepted,Nice to know.
+712,Juha Honkala,Walter J. Savitch,Optimum Multiway Search Trees.,UPC,University,Accepted,Nice to know.
+713,Christian Lengauer,Delphine Longuet,Characterization of all Optimal Networks for a Simultaneous Computation of AND and NOR.,Microsoft,Company,Accepted,Nice to know.
+714,Hans Ulrich Simon,Delphine Longuet,Characterization of all Optimal Networks for a Simultaneous Computation of AND and NOR.,Intel,Company,Denied,Nice to know.
+715,Victor Khomenko,Delphine Longuet,Parallel Integer Sorting Using Small Operations.,Intel,Company,Denied,Really good.
+716,Zoltán Fülöp 0001,Delphine Longuet,Parallel Integer Sorting Using Small Operations.,UDL,University,Denied,Nice to know.
+717,Norbert Blum,Delphine Longuet,Parallel Integer Sorting Using Small Operations.,Intel,Company,Denied,"Nice paper, but not too much interesting."
+718,Sanjeev Saxena,Delphine Longuet,Stochastic cooperative distributed grammar systems and random graphs.,Intel,Company,Denied,Nice to know.
+719,Nathan Goodman,Delphine Longuet,Stochastic cooperative distributed grammar systems and random graphs.,Microsoft,Company,Denied,Really good.
+720,Arnold Schönhage,Delphine Longuet,Stochastic cooperative distributed grammar systems and random graphs.,Microsoft,Company,Denied,Too much boring.
+721,Juha Honkala,George Leih,Performance Evaluation of Fork and Join Synchronization Primitives.,UDL,University,Denied,Too much boring.
+722,Sanjeev Saxena,George Leih,Performance Evaluation of Fork and Join Synchronization Primitives.,Microsoft,Company,Accepted,Too much boring.
+723,Arnold Schönhage,George Leih,Some properties of the disjunctive languages contained in ,UPC,University,Accepted,Really good.
+724,Walter Vogler,George Leih,Some properties of the disjunctive languages contained in ,Microsoft,Company,Accepted,Really good.
+725,Sanjeev Saxena,George Leih,Systolic Automata for VLSI on Balanced Trees.,UPC,University,Accepted,Nice to know.
+726,Juha Honkala,George Leih,Systolic Automata for VLSI on Balanced Trees.,UPC,University,Accepted,Nice to know.
+727,Nathan Goodman,George Leih,A new natural structural congruence in the pi-calculus with replication.,UPC,University,Accepted,Really good.
+728,Alain Finkel,George Leih,A new natural structural congruence in the pi-calculus with replication.,UDL,University,Accepted,Nice to know.
+729,Walter Vogler,Delphine Longuet,Optimal Multiprogramming.,Intel,Company,Denied,"Nice paper, but not too much interesting."
+730,Norbert Blum,Delphine Longuet,Optimal Multiprogramming.,UDL,University,Accepted,"Nice paper, but not too much interesting."
+731,Arnold Schönhage,Delphine Longuet,Optimal Multiprogramming.,Microsoft,Company,Denied,Really good.
+732,Oded Shmueli,Delphine Longuet,Optimal Multiprogramming.,UPC,University,Denied,Nice to know.
+733,Juha Honkala,Karl Meinke,Classes of Systolic Y-Tree Automata and a Comparison with Systolic Trellis Automata.,Microsoft,Company,Accepted,Nice to know.
+734,Hans Ulrich Simon,Karl Meinke,Classes of Systolic Y-Tree Automata and a Comparison with Systolic Trellis Automata.,UPC,University,Denied,Nice to know.
+735,Hans Ulrich Simon,Karl Meinke,Classes of Systolic Y-Tree Automata and a Comparison with Systolic Trellis Automata.,Intel,Company,Accepted,Really good.
+736,Oded Shmueli,Karl Meinke,Classes of Systolic Y-Tree Automata and a Comparison with Systolic Trellis Automata.,UDL,University,Accepted,Nice to know.
+737,Sanjeev Saxena,Karl Meinke,Classes of Systolic Y-Tree Automata and a Comparison with Systolic Trellis Automata.,UPC,University,Accepted,Really good.
+738,Norbert Blum,Karl Meinke,Classes of Systolic Y-Tree Automata and a Comparison with Systolic Trellis Automata.,Microsoft,Company,Accepted,Too much boring.
+739,Arnold Schönhage,Walter J. Savitch,On Real-Time Cellular Automata and Trellis Automata.,UDL,University,Accepted,Really good.
+740,Norbert Blum,Walter J. Savitch,On Real-Time Cellular Automata and Trellis Automata.,Intel,Company,Accepted,"Nice paper, but not too much interesting."
+741,Nathan Goodman,Walter J. Savitch,Transformational Design of Real-Time Systems Part I: From Requirements to Program Specifications.,Intel,Company,Denied,Really good.
+742,Hans Ulrich Simon,Walter J. Savitch,Transformational Design of Real-Time Systems Part I: From Requirements to Program Specifications.,UPC,University,Accepted,Nice to know.
+743,Alex Kondratyev,Walter J. Savitch,Transformational Design of Real-Time Systems Part I: From Requirements to Program Specifications.,UDL,University,Denied,Nice to know.
+744,Chua-Huang Huang,Walter J. Savitch,Transformational Design of Real-Time Systems Part I: From Requirements to Program Specifications.,UDL,University,Accepted,Too much boring.
+745,Nathan Goodman,Walter J. Savitch,Performance Preorder and Competitive Equivalence.,Intel,Company,Denied,Too much boring.
+746,Hans Ulrich Simon,Walter J. Savitch,Performance Preorder and Competitive Equivalence.,Intel,Company,Denied,Too much boring.
+747,Oded Shmueli,Walter J. Savitch,Performance Preorder and Competitive Equivalence.,Intel,Company,Accepted,Nice to know.
+748,Norbert Blum,Delphine Longuet,A Survey of Normal Form Covers for Context Free Grammars.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+749,Sanjeev Saxena,Delphine Longuet,A Survey of Normal Form Covers for Context Free Grammars.,Microsoft,Company,Accepted,Nice to know.
+750,Hans Ulrich Simon,Delphine Longuet,A Survey of Normal Form Covers for Context Free Grammars.,UPC,University,Accepted,Too much boring.
+751,George Rahonis,Delphine Longuet,A Note on Synthesis and Classification of Sorting Algorithms.,UDL,University,Accepted,Too much boring.
+752,Sanjeev Saxena,Delphine Longuet,A Note on Synthesis and Classification of Sorting Algorithms.,Intel,Company,Denied,Really good.
+753,Nathan Goodman,Delphine Longuet,A Note on Synthesis and Classification of Sorting Algorithms.,UDL,University,Denied,Nice to know.
+754,Juha Honkala,Delphine Longuet,A Note on Synthesis and Classification of Sorting Algorithms.,Intel,Company,Denied,Really good.
+755,Oded Shmueli,Delphine Longuet,A Note on Synthesis and Classification of Sorting Algorithms.,UPC,University,Denied,Too much boring.
+756,Annie Choquet,George Leih,Liveness of a mutex algorithm in a fair process algebra.,UDL,University,Denied,Really good.
+757,Oded Shmueli,George Leih,Liveness of a mutex algorithm in a fair process algebra.,Microsoft,Company,Denied,Nice to know.
+758,Symeon Bozapalidis,George Leih,Liveness of a mutex algorithm in a fair process algebra.,UDL,University,Denied,Too much boring.
+759,Christian Lengauer,George Leih,Liveness of a mutex algorithm in a fair process algebra.,UDL,University,Denied,Too much boring.
+760,Oded Shmueli,Delphine Longuet,"Another Look at the ""Longest Ascending Subsequence"" Problem.",Intel,Company,Denied,Nice to know.
+761,Hans Ulrich Simon,Delphine Longuet,"Another Look at the ""Longest Ascending Subsequence"" Problem.",UPC,University,Accepted,"Nice paper, but not too much interesting."
+762,Zoltán Fülöp 0001,Delphine Longuet,"Another Look at the ""Longest Ascending Subsequence"" Problem.",Microsoft,Company,Accepted,Really good.
+763,Oded Shmueli,Delphine Longuet,"Another Look at the ""Longest Ascending Subsequence"" Problem.",Intel,Company,Accepted,Too much boring.
+764,Sanjeev Saxena,George Leih,Complexity Theory and the Operational Structure of Algebraic Programming Systems.,UDL,University,Denied,Really good.
+765,Nathan Goodman,George Leih,Complexity Theory and the Operational Structure of Algebraic Programming Systems.,Microsoft,Company,Denied,Too much boring.
+766,Norbert Blum,George Leih,Complexity Theory and the Operational Structure of Algebraic Programming Systems.,Intel,Company,Accepted,Nice to know.
+767,Oded Shmueli,George Leih,Models for Reactivity.,Microsoft,Company,Accepted,Too much boring.
+768,Nathan Goodman,George Leih,Models for Reactivity.,Intel,Company,Accepted,Nice to know.
+769,Sanjeev Saxena,George Leih,Models for Reactivity.,UDL,University,Accepted,Really good.
+770,Nathan Goodman,George Leih,Models for Reactivity.,Microsoft,Company,Accepted,Really good.
+771,Arnold Schönhage,Karl Meinke,"Axioms for Generalized Graphs, Illustrated by a Cantor-Bernstein Proposition.",UPC,University,Accepted,Too much boring.
+772,Hans Ulrich Simon,Karl Meinke,"Axioms for Generalized Graphs, Illustrated by a Cantor-Bernstein Proposition.",Intel,Company,Denied,Too much boring.
+773,Hans Ulrich Simon,George Leih,A Proof System for Distributed Processes.,UPC,University,Accepted,Nice to know.
+774,Juha Honkala,George Leih,A Proof System for Distributed Processes.,UPC,University,Accepted,"Nice paper, but not too much interesting."
+775,Hans Ulrich Simon,George Leih,A Proof System for Distributed Processes.,Microsoft,Company,Denied,Nice to know.
+776,Norbert Blum,George Leih,A Proof System for Distributed Processes.,Microsoft,Company,Denied,Really good.
+777,Alain Finkel,Delphine Longuet,Finite State Relational Programs.,Microsoft,Company,Denied,Nice to know.
+778,Alex Kondratyev,Delphine Longuet,Finite State Relational Programs.,Intel,Company,Denied,Really good.
+779,Sanjeev Saxena,Delphine Longuet,Finite State Relational Programs.,Microsoft,Company,Denied,Nice to know.
+780,Nathan Goodman,Delphine Longuet,Finite State Relational Programs.,UDL,University,Denied,Nice to know.
+781,Arnold Schönhage,Delphine Longuet,Finite State Relational Programs.,Intel,Company,Denied,Too much boring.
+782,Hans Ulrich Simon,Delphine Longuet,Finite State Relational Programs.,UPC,University,Accepted,Nice to know.
+783,Sanjeev Saxena,George Leih,A Gap Between the Actual Complexity of Permutations and Their Entropy Defined by Stoß.,Microsoft,Company,Accepted,Really good.
+784,Arnold Schönhage,George Leih,A Gap Between the Actual Complexity of Permutations and Their Entropy Defined by Stoß.,UPC,University,Accepted,"Nice paper, but not too much interesting."
+785,Hans Ulrich Simon,George Leih,A Gap Between the Actual Complexity of Permutations and Their Entropy Defined by Stoß.,UDL,University,Accepted,Really good.
+786,Sanjeev Saxena,Karl Meinke,MAT learners for tree series: an abstract data type and two realizations.,Intel,Company,Denied,Nice to know.
+787,Zoltán Fülöp 0001,Karl Meinke,MAT learners for tree series: an abstract data type and two realizations.,UPC,University,Accepted,Nice to know.
+788,Hans Ulrich Simon,Karl Meinke,MAT learners for tree series: an abstract data type and two realizations.,Microsoft,Company,Denied,"Nice paper, but not too much interesting."
+789,Chua-Huang Huang,George Leih,Exponentially decreasing number of operations in balanced trees.,UDL,University,Denied,"Nice paper, but not too much interesting."
+790,Annie Choquet,George Leih,Exponentially decreasing number of operations in balanced trees.,UDL,University,Denied,Nice to know.
+791,Norbert Blum,Walter J. Savitch,Correctness of the Compiling Process Based on Axiomatic Semantics.,UPC,University,Denied,Too much boring.
+792,Nathan Goodman,Walter J. Savitch,Correctness of the Compiling Process Based on Axiomatic Semantics.,Intel,Company,Denied,"Nice paper, but not too much interesting."
+793,Alain Finkel,Walter J. Savitch,Correctness of the Compiling Process Based on Axiomatic Semantics.,UPC,University,Accepted,Nice to know.
+794,Nathan Goodman,Walter J. Savitch,Correctness of the Compiling Process Based on Axiomatic Semantics.,UPC,University,Accepted,Really good.
+795,Victor Khomenko,George Leih,Paramodulated Connection Graphs.,Intel,Company,Denied,"Nice paper, but not too much interesting."
+796,Maciej Koutny,George Leih,Paramodulated Connection Graphs.,Microsoft,Company,Denied,Really good.
+797,George Rahonis,Walter J. Savitch,The Lattice of Data Refinement.,Intel,Company,Accepted,Nice to know.
+798,Nathan Goodman,Walter J. Savitch,The Lattice of Data Refinement.,UPC,University,Denied,Too much boring.
+799,Norbert Blum,Walter J. Savitch,The Lattice of Data Refinement.,UPC,University,Denied,Too much boring.
+800,Oded Shmueli,Delphine Longuet,Backtracking in Recursive Computations.,UPC,University,Accepted,Too much boring.
+801,Norbert Blum,Delphine Longuet,Backtracking in Recursive Computations.,Microsoft,Company,Denied,Nice to know.
+802,Juha Honkala,Delphine Longuet,Backtracking in Recursive Computations.,Microsoft,Company,Denied,Really good.
+803,Arnold Schönhage,Karl Meinke,A first step in characterizing three-element codes.,Intel,Company,Accepted,Really good.
+804,Sanjeev Saxena,Karl Meinke,A first step in characterizing three-element codes.,UPC,University,Denied,"Nice paper, but not too much interesting."
+805,Nathan Goodman,Karl Meinke,A first step in characterizing three-element codes.,UPC,University,Denied,Too much boring.
+806,Juha Honkala,Karl Meinke,A first step in characterizing three-element codes.,UDL,University,Denied,Really good.
+807,Nathan Goodman,George Leih,Efficient LL(1) Error Correction and Recovery Using Only Insertions.,Intel,Company,Accepted,Really good.
+808,Joachim Biskup,George Leih,Efficient LL(1) Error Correction and Recovery Using Only Insertions.,UPC,University,Accepted,Too much boring.
+809,Sanjeev Saxena,Delphine Longuet,Formal Derivation of Strongly Correct Concurrent Programs.,Microsoft,Company,Accepted,"Nice paper, but not too much interesting."
+810,Juha Honkala,Delphine Longuet,Formal Derivation of Strongly Correct Concurrent Programs.,Intel,Company,Accepted,Too much boring.
+811,Arnold Schönhage,Delphine Longuet,Formal Derivation of Strongly Correct Concurrent Programs.,Microsoft,Company,Denied,Too much boring.
+812,Hans Ulrich Simon,Delphine Longuet,Formal Derivation of Strongly Correct Concurrent Programs.,UPC,University,Accepted,Nice to know.
