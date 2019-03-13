@@ -13,7 +13,7 @@ MERGE(journal_edition:Journal_edition {name:journals.Edition, year:journals.Year
 
 MERGE (journal_author)-[:writes]->(journal_paper)
 MERGE (journal_paper)-[:edition]->(journal_edition)
-MERGE (journal)-[:city]->(journal_city)
+MERGE (journal_edition)-[:city]->(journal_city)
 MERGE (journal)-[:edit_by]->(journal_editor)
 MERGE (journal)<-[:isEdition]-(journal_edition)
 
@@ -39,7 +39,7 @@ MERGE (conference_edition:Conference_edition {name:conferences.Edition, year:con
 
 MERGE (conference_author)-[:writes]->(conference_paper)
 MERGE (conference_paper)-[:edition]->(conference_edition)
-MERGE (conference)-[:city]->(conference_city)
+MERGE (conference_edition)-[:city]->(conference_city)
 MERGE (conference)-[:edits]->(conference_editor)
 MERGE (conference)<-[:isEdition]->(conference_edition)
 
