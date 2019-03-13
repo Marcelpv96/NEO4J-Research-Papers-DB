@@ -11,7 +11,7 @@ MERGE (journal_editor:Scientific {name:journals.Editor})
 MERGE (journal_city:City {name:journals.City})
 MERGE(journal_edition:Journal_edition {name:journals.Edition, year:journals.Year})
 
-MERGE (journal_author)-[:publish]->(journal_paper)
+MERGE (journal_author)-[:writes]->(journal_paper)
 MERGE (journal_paper)-[:publishedON]->(journal)
 MERGE (journal_paper)-[:edition]->(journal_edition)
 MERGE (journal)-[:city]->(journal_city)
@@ -38,7 +38,7 @@ MERGE (conference_editor:Scientific {name:conferences.Editor})
 MERGE (conference_city:City {name:conferences.City})
 MERGE (conference_edition:Conference_edition {name:conferences.Edition, year:conferences.Year})
 
-MERGE (conference_author)-[:publish]->(conference_paper)
+MERGE (conference_author)-[:writes]->(conference_paper)
 MERGE (conference_paper)-[:publishedON]->(conference)
 MERGE (conference_paper)-[:edition]->(conference_edition)
 MERGE (conference)-[:city]->(conference_city)
@@ -75,8 +75,10 @@ WITH count(*) as dummy
 /* Create all nodes related with reviews */
 /* TODO: What do with affiliation? it is a node ? ¿?¿?¿*/
 LOAD CSV WITH HEADERS FROM 'file:///reviews_10.csv' AS reviews
-MATCH (author:Scientific)-[:publish]->(author_paper:Scientific_Paper),(editor:Scientific),(paper_review:Scientific_Paper)
+MATCH (author:Scientific)-[:writes]->(author_paper:Scientific_Paper),(editor:Scientific),(paper_review:Scientific_Paper)
 WHERE author.name = reviews.Author AND editor.name = reviews.Editor AND paper_review.name = reviews.Paper AND author_paper.name <> paper_review.name
 MERGE (editor)-[:Assigns_paper{name:paper_review.name}]->(author)
 MERGE (author)-[:Review_sent]->(review:Review {Opinion:reviews.Opinion, Decision:reviews.Decision})
+MERGE (review)-[:Review_of]->(paper_review)
+MERGE (author)-[:affiliated]->(affiliation:Affiliation{name:reviews.Affiliation, isA:reviews.CompanyUniversity})
 ;
