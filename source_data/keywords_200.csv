@@ -1,410 +1,396 @@
 ,Paper,Keyword
-0,Multi-Granularity Locking for Nested Transactions: A Proof Using a Possibilities Mapping.,android
-1,Multi-Granularity Locking for Nested Transactions: A Proof Using a Possibilities Mapping.,neo4j
-2,Multi-Granularity Locking for Nested Transactions: A Proof Using a Possibilities Mapping.,qbits
-3,Bounded Quantification and Relations Recognizable by Finite Automata.,pandas
-4,A Complete Algebraic Characterization of Behavioral Subtyping.,tensor flow
-5,Efficient execution of dynamically controllable simple temporal networks with uncertainty.,pandas
-6,Efficient execution of dynamically controllable simple temporal networks with uncertainty.,android
-7,Minimum Feedback Vertex Sets in Cocomparability Graphs and Convex Bipartite Graphs.,neo4j
-8,Behavioural Approaches to Algebraic Specifications: A Comparative Study.,NN
-9,Behavioural Approaches to Algebraic Specifications: A Comparative Study.,CNN
-10,Instruction sequence processing operators.,neo4j
-11,What is Failure? An Approach to Constructive Negation.,DeepLearning
-12,STG decomposition strategies in combination with unfolding.,android
-13,Quad Trees: A Data Structure for Retrieval on Composite Keys.,pandas
-14,Quad Trees: A Data Structure for Retrieval on Composite Keys.,DeepLearning
-15,On the Number of Relational Operators Necessary to Compute Certain Functions of Real Variables.,CNN
-16,On the Number of Relational Operators Necessary to Compute Certain Functions of Real Variables.,NN
-17,A Study of Queueing Networks with Deterministic Service and Application to Computer Networks.,tensor flow
-18,A Study of Queueing Networks with Deterministic Service and Application to Computer Networks.,NN
-19,A Study of Queueing Networks with Deterministic Service and Application to Computer Networks.,pandas
-20,Probabilistic bisimulation for realistic schedulers.,NN
-21,Probabilistic bisimulation for realistic schedulers.,tensor flow
-22,Explaining the Wheel Sieve.,pandas
-23,Explaining the Wheel Sieve.,tensor flow
-24,Explaining the Wheel Sieve.,neo4j
-25,Another Polynomial Homomorphism.,DeepLearning
-26,Variance Reduction Techniques for the Simulation of Markov Process.,qbits
-27,Variance Reduction Techniques for the Simulation of Markov Process.,pandas
-28,Variance Reduction Techniques for the Simulation of Markov Process.,android
-29,State complexity of deletion and bipolar deletion.,neo4j
-30,Decomposition of Graphs and Monotone Formula Size of Homogeneous Functions.,python
-31,Symbolic checking of Fuzzy CTL on Fuzzy Program Graph.,neo4j
-32,Symbolic checking of Fuzzy CTL on Fuzzy Program Graph.,qbits
-33,Regular and context-free nominal traces.,NN
-34,Regular and context-free nominal traces.,pandas
-35,Deterministic pushdown-CD-systems of stateless deterministic R(1)-automata.,python
-36,Deterministic pushdown-CD-systems of stateless deterministic R(1)-automata.,neo4j
-37,Deterministic pushdown-CD-systems of stateless deterministic R(1)-automata.,qbits
-38,Special issue: Synthesis and SYNT 2014.,python
-39,Special issue: Synthesis and SYNT 2014.,neo4j
-40,On the Synchronization in Parallel Communicating Grammar Systems.,android
+0,Multi-Granularity Locking for Nested Transactions: A Proof Using a Possibilities Mapping.,big data
+1,Bounded Quantification and Relations Recognizable by Finite Automata.,NN
+2,Bounded Quantification and Relations Recognizable by Finite Automata.,data modeling
+3,Bounded Quantification and Relations Recognizable by Finite Automata.,data querying
+4,A Complete Algebraic Characterization of Behavioral Subtyping.,data management
+5,A Complete Algebraic Characterization of Behavioral Subtyping.,data processing
+6,Efficient execution of dynamically controllable simple temporal networks with uncertainty.,NN
+7,Minimum Feedback Vertex Sets in Cocomparability Graphs and Convex Bipartite Graphs.,NN
+8,Minimum Feedback Vertex Sets in Cocomparability Graphs and Convex Bipartite Graphs.,data querying
+9,Minimum Feedback Vertex Sets in Cocomparability Graphs and Convex Bipartite Graphs.,indexing
+10,Behavioural Approaches to Algebraic Specifications: A Comparative Study.,CNN
+11,Behavioural Approaches to Algebraic Specifications: A Comparative Study.,data processing
+12,Behavioural Approaches to Algebraic Specifications: A Comparative Study.,NN
+13,Instruction sequence processing operators.,big data
+14,What is Failure? An Approach to Constructive Negation.,data querying
+15,What is Failure? An Approach to Constructive Negation.,indexing
+16,STG decomposition strategies in combination with unfolding.,data storage
+17,STG decomposition strategies in combination with unfolding.,DeepLearning
+18,STG decomposition strategies in combination with unfolding.,indexing
+19,Quad Trees: A Data Structure for Retrieval on Composite Keys.,DeepLearning
+20,On the Number of Relational Operators Necessary to Compute Certain Functions of Real Variables.,DeepLearning
+21,A Study of Queueing Networks with Deterministic Service and Application to Computer Networks.,data management
+22,A Study of Queueing Networks with Deterministic Service and Application to Computer Networks.,data querying
+23,Probabilistic bisimulation for realistic schedulers.,data management
+24,Probabilistic bisimulation for realistic schedulers.,data processing
+25,Explaining the Wheel Sieve.,data querying
+26,Explaining the Wheel Sieve.,big data
+27,Explaining the Wheel Sieve.,data modeling
+28,Another Polynomial Homomorphism.,DeepLearning
+29,Another Polynomial Homomorphism.,indexing
+30,Another Polynomial Homomorphism.,data processing
+31,Variance Reduction Techniques for the Simulation of Markov Process.,data storage
+32,Variance Reduction Techniques for the Simulation of Markov Process.,indexing
+33,State complexity of deletion and bipolar deletion.,data processing
+34,Decomposition of Graphs and Monotone Formula Size of Homogeneous Functions.,CNN
+35,Symbolic checking of Fuzzy CTL on Fuzzy Program Graph.,DeepLearning
+36,Regular and context-free nominal traces.,data management
+37,Regular and context-free nominal traces.,DeepLearning
+38,Deterministic pushdown-CD-systems of stateless deterministic R(1)-automata.,indexing
+39,Special issue: Synthesis and SYNT 2014.,data management
+40,On the Synchronization in Parallel Communicating Grammar Systems.,CNN
 41,On the Synchronization in Parallel Communicating Grammar Systems.,NN
-42,Weakly Context-Sensitive Languages as Model for Programming Languages.,python
-43,Weakly Context-Sensitive Languages as Model for Programming Languages.,pandas
-44,Rules of Inference for Procedure Calls.,pandas
-45,The Construction of Operator Interfaces Based on Logical Input Devices.,pandas
-46,The Construction of Operator Interfaces Based on Logical Input Devices.,android
-47,The Construction of Operator Interfaces Based on Logical Input Devices.,python
-48,High Level Tree Transducers and Iterated Pushdown Tree Transducers.,qbits
-49,High Level Tree Transducers and Iterated Pushdown Tree Transducers.,neo4j
-50,Gobang ist PSPACE-vollständig.,python
-51,A note on autodense related languages.,neo4j
-52,A note on autodense related languages.,pandas
-53,Solving HPP and SAT by P Systems with Active Membranes and Separation Rules.,pandas
-54,Solving HPP and SAT by P Systems with Active Membranes and Separation Rules.,CNN
-55,Solving HPP and SAT by P Systems with Active Membranes and Separation Rules.,android
-56,Optimizing the Costs of Hierarchical Quorum Consensus.,neo4j
-57,Optimizing the Costs of Hierarchical Quorum Consensus.,CNN
-58,Optimizing the Costs of Hierarchical Quorum Consensus.,NN
-59,Recursive Petri nets.,python
-60,Recursive Petri nets.,neo4j
-61,Recursive Petri nets.,CNN
-62,Multitype Multiprogramming Models.,DeepLearning
-63,Automatic Correction of Syntax-Errors in Programming Languages.,neo4j
-64,Automatic Correction of Syntax-Errors in Programming Languages.,python
-65,Automatic Correction of Syntax-Errors in Programming Languages.,qbits
-66,Representation and uniformization of algebraic transductions.,tensor flow
-67,Representation and uniformization of algebraic transductions.,CNN
-68,Concurrent Bisimulations in Petri Nets.,tensor flow
-69,Concurrent Bisimulations in Petri Nets.,neo4j
-70,Concurrent Bisimulations in Petri Nets.,python
-71,Enhanced prefetching and caching strategies for single- and multi-disk systems.,NN
-72,Enhanced prefetching and caching strategies for single- and multi-disk systems.,DeepLearning
-73,Enhanced prefetching and caching strategies for single- and multi-disk systems.,python
-74,Recording the Use of Memory in Right-Boundary Grammars and Push-Down Automata.,android
-75,Recording the Use of Memory in Right-Boundary Grammars and Push-Down Automata.,qbits
-76,State space axioms for T-systems.,pandas
-77,State space axioms for T-systems.,qbits
-78,State space axioms for T-systems.,python
-79,Extended multi bottom-up tree transducers.,pandas
-80,Extended multi bottom-up tree transducers.,tensor flow
-81,Extended multi bottom-up tree transducers.,python
-82,The Clean Termination of Iterative Programs.,python
-83,The Clean Termination of Iterative Programs.,neo4j
-84,The Clean Termination of Iterative Programs.,qbits
-85,Infinite Proof Rules for Loops.,python
-86,Infinite Proof Rules for Loops.,CNN
-87,Nonfinite Axiomatizability of the Equational Theory of Shuffle.,NN
-88,Nonfinite Axiomatizability of the Equational Theory of Shuffle.,DeepLearning
-89,Nonfinite Axiomatizability of the Equational Theory of Shuffle.,android
-90,"Running a job on a collection of partly available machines, with on-line restarts.",DeepLearning
-91,Data Refinement by Calculation.,python
-92,Data Refinement by Calculation.,DeepLearning
-93,Program Refinement in Fair Transition Systems.,tensor flow
-94,Program Refinement in Fair Transition Systems.,DeepLearning
-95,A Functional Model for Describing and Reasoning About Time Behaviour of Computing Systems.,CNN
-96,A Functional Model for Describing and Reasoning About Time Behaviour of Computing Systems.,tensor flow
-97,"M-Nets: An Algebra of High-Level Petri Nets, with an Application to the Semantics of Concurrent Programming Languages.",DeepLearning
-98,"M-Nets: An Algebra of High-Level Petri Nets, with an Application to the Semantics of Concurrent Programming Languages.",CNN
-99,On the Look-Ahead Problem in Lexical Analysis.,CNN
-100,A theory of formal synthesis via inductive learning.,android
-101,A theory of formal synthesis via inductive learning.,DeepLearning
-102,The maximum gain of increasing the number of preemptions in multiprocessor scheduling.,qbits
-103,The maximum gain of increasing the number of preemptions in multiprocessor scheduling.,CNN
-104,Data Encodings and Their Costs.,android
-105,Data Encodings and Their Costs.,tensor flow
-106,Data Encodings and Their Costs.,python
-107,Hierarchies of Complete Problems.,tensor flow
-108,Ein Vollständigkeitssatz für Programme und Schaltkreise.,neo4j
-109,Type-based information flow analysis for the pi-calculus.,pandas
-110,Type-based information flow analysis for the pi-calculus.,NN
-111,Sur une Conjecture de S. Greibach.,qbits
-112,Sur une Conjecture de S. Greibach.,pandas
-113,Sur une Conjecture de S. Greibach.,neo4j
-114,A Conservation Law for G/G/m Queueing Systems.,qbits
-115,Applications of Efficient Mergeable Heaps for Optimization Problems on Trees.,qbits
-116,Applications of Efficient Mergeable Heaps for Optimization Problems on Trees.,android
-117,Applications of Efficient Mergeable Heaps for Optimization Problems on Trees.,python
-118,Context-Free Graph Grammars and Concatenation of Graphs.,python
-119,Context-Free Graph Grammars and Concatenation of Graphs.,qbits
-120,Context-Free Graph Grammars and Concatenation of Graphs.,CNN
-121,On a Class of Recursive Procedures and Equivalent Iterative Ones.,android
-122,On a Class of Recursive Procedures and Equivalent Iterative Ones.,qbits
-123,On a Class of Recursive Procedures and Equivalent Iterative Ones.,neo4j
-124,Algorithms for Fast Evaluation of Boolean Expressions.,CNN
-125,Algorithms for Fast Evaluation of Boolean Expressions.,neo4j
-126,A general account of coinduction up-to.,pandas
-127,A general account of coinduction up-to.,neo4j
-128,A Comparison of Two Synchronizing Concepts.,android
-129,A Comparison of Two Synchronizing Concepts.,CNN
-130,A Comparison of Two Synchronizing Concepts.,qbits
-131,How to Calculate Symmetries of Petri Nets.,qbits
-132,How to Calculate Symmetries of Petri Nets.,android
-133,"Nonterminals, Homomorphisms and Codings in Different Variations of OL-Systems. I. Deterministic Systems.",qbits
-134,"Nonterminals, Homomorphisms and Codings in Different Variations of OL-Systems. I. Deterministic Systems.",CNN
-135,"Nonterminals, Homomorphisms and Codings in Different Variations of OL-Systems. I. Deterministic Systems.",NN
-136,Recognizability of graph and pattern languages.,NN
-137,Recognizability of graph and pattern languages.,python
-138,Recognizability of graph and pattern languages.,pandas
-139,The Synthesis Problem of Petri Nets.,qbits
-140,A Binary Operation on Trees and an Initial Algebra Characterization for Finite Tree Types.,NN
-141,A Binary Operation on Trees and an Initial Algebra Characterization for Finite Tree Types.,tensor flow
-142,A Binary Operation on Trees and an Initial Algebra Characterization for Finite Tree Types.,python
-143,On weighted first-order logics with discounting.,pandas
-144,A Characterization of Context-free String Languages by Directed Node-label Controlled Graph Grammars.,NN
-145,A Characterization of Context-free String Languages by Directed Node-label Controlled Graph Grammars.,qbits
-146,A Characterization of Context-free String Languages by Directed Node-label Controlled Graph Grammars.,pandas
-147,"Demonic, angelic and unbounded probabilistic choices in sequential programs.",tensor flow
-148,An Efficiency Preorder for Processes.,CNN
-149,An Efficiency Preorder for Processes.,pandas
-150,An Efficiency Preorder for Processes.,android
-151,On the Generalization of Higman and Kruskal's Theorems to Regular Languages and Rational Trees.,pandas
-152,On the Generalization of Higman and Kruskal's Theorems to Regular Languages and Rational Trees.,python
-153,On the Generalization of Higman and Kruskal's Theorems to Regular Languages and Rational Trees.,neo4j
-154,Modeling Splits in File Structures.,pandas
-155,Modeling Splits in File Structures.,tensor flow
-156,Languages Accepted by Systolic Y-Tree Automata: Structural Characterizations.,tensor flow
-157,Synchronized regular expressions.,DeepLearning
-158,Synchronized regular expressions.,qbits
-159,Synchronized regular expressions.,android
-160,On regular tree languages and deterministic pushdown automata.,CNN
-161,On regular tree languages and deterministic pushdown automata.,neo4j
-162,A Modal Logic for Message Passing Processes.,android
-163,A Modal Logic for Message Passing Processes.,pandas
-164,Maintaining Range Trees in Secondary Memory. Part I: Partitions.,CNN
-165,Maintaining Range Trees in Secondary Memory. Part I: Partitions.,android
-166,Does indirect addressing matter? - A note.,python
-167,Does indirect addressing matter? - A note.,NN
-168,Reasoning Algebraically about Loops.,CNN
-169,A Model of a Time Sharing Virtual Memory System Solved Using Equivalence and Decomposition Methods.,tensor flow
-170,A Model of a Time Sharing Virtual Memory System Solved Using Equivalence and Decomposition Methods.,DeepLearning
-171,Trace Nets and Process Automata.,pandas
-172,Metric propositional neighborhood logic with an equivalence relation.,tensor flow
-173,Metric propositional neighborhood logic with an equivalence relation.,CNN
-174,A Principle of Independence for Binary Tree Searching.,qbits
-175,A Principle of Independence for Binary Tree Searching.,tensor flow
-176,Optimal Divide-and-Conquer to Compute Measure and Contour for a Set of Iso-Rectangles.,tensor flow
-177,The Paging Drum Queue: A Uniform Perspective and Further Results.,qbits
-178,The Undecidability of the Unification and Matching Problem for Canonical Theories.,android
-179,The Undecidability of the Unification and Matching Problem for Canonical Theories.,CNN
-180,The Programming Language Pascal.,neo4j
-181,The Programming Language Pascal.,android
-182,"Semantics, calculi, and analysis for object-oriented specifications.",python
-183,Inhibitionsfelder.,DeepLearning
-184,Inhibitionsfelder.,CNN
-185,Inhibitionsfelder.,qbits
-186,Head and state hierarchies for unary multi-head finite automata.,DeepLearning
-187,On the Number of Active-Operations Needed to Compute the Discrete Fourier Transform.,tensor flow
-188,On the Number of Active-Operations Needed to Compute the Discrete Fourier Transform.,qbits
-189,On the Number of Active-Operations Needed to Compute the Discrete Fourier Transform.,android
-190,The stuttering principle revisited.,DeepLearning
-191,The stuttering principle revisited.,android
-192,Redundant Proofs of Non-Interference in Levin-Gries CSP Program Proofs.,android
-193,Redundant Proofs of Non-Interference in Levin-Gries CSP Program Proofs.,neo4j
-194,Lazy Structure Sharing for Query Optimization.,python
-195,Fair ambients.,qbits
-196,Concurrent Access to Data.,CNN
-197,Concurrent Access to Data.,android
-198,Relaxed red-black trees with group updates.,android
-199,Relaxed red-black trees with group updates.,pandas
-200,Relaxed red-black trees with group updates.,qbits
-201,Generation of Efficient ,tensor flow
-202,A Markovian queue with varying number of servers and applications to the performance comparison of HSDPA user equipment.,tensor flow
-203,A Markovian queue with varying number of servers and applications to the performance comparison of HSDPA user equipment.,CNN
-204,Priority Conflict-Free Petri Nets.,tensor flow
-205,Priority Conflict-Free Petri Nets.,neo4j
-206,Priority Conflict-Free Petri Nets.,DeepLearning
-207,Optimum Multiway Search Trees.,DeepLearning
-208,Characterization of all Optimal Networks for a Simultaneous Computation of AND and NOR.,pandas
-209,Characterization of all Optimal Networks for a Simultaneous Computation of AND and NOR.,CNN
-210,Parallel Integer Sorting Using Small Operations.,NN
-211,Parallel Integer Sorting Using Small Operations.,pandas
-212,Parallel Integer Sorting Using Small Operations.,qbits
-213,Stochastic cooperative distributed grammar systems and random graphs.,qbits
-214,Stochastic cooperative distributed grammar systems and random graphs.,python
-215,Stochastic cooperative distributed grammar systems and random graphs.,android
-216,Performance Evaluation of Fork and Join Synchronization Primitives.,DeepLearning
-217,Performance Evaluation of Fork and Join Synchronization Primitives.,android
-218,Some properties of the disjunctive languages contained in ,DeepLearning
-219,Systolic Automata for VLSI on Balanced Trees.,pandas
-220,A new natural structural congruence in the pi-calculus with replication.,android
-221,Optimal Multiprogramming.,neo4j
-222,Optimal Multiprogramming.,NN
-223,Optimal Multiprogramming.,CNN
-224,Classes of Systolic Y-Tree Automata and a Comparison with Systolic Trellis Automata.,neo4j
-225,Classes of Systolic Y-Tree Automata and a Comparison with Systolic Trellis Automata.,qbits
-226,On Real-Time Cellular Automata and Trellis Automata.,qbits
-227,Transformational Design of Real-Time Systems Part I: From Requirements to Program Specifications.,NN
-228,Transformational Design of Real-Time Systems Part I: From Requirements to Program Specifications.,qbits
-229,Performance Preorder and Competitive Equivalence.,neo4j
-230,Performance Preorder and Competitive Equivalence.,pandas
-231,A Survey of Normal Form Covers for Context Free Grammars.,qbits
-232,A Survey of Normal Form Covers for Context Free Grammars.,tensor flow
-233,A Note on Synthesis and Classification of Sorting Algorithms.,CNN
-234,Liveness of a mutex algorithm in a fair process algebra.,CNN
-235,Liveness of a mutex algorithm in a fair process algebra.,NN
-236,Liveness of a mutex algorithm in a fair process algebra.,DeepLearning
-237,"Another Look at the ""Longest Ascending Subsequence"" Problem.",NN
-238,Complexity Theory and the Operational Structure of Algebraic Programming Systems.,CNN
-239,Complexity Theory and the Operational Structure of Algebraic Programming Systems.,python
-240,Models for Reactivity.,DeepLearning
-241,Models for Reactivity.,android
-242,Models for Reactivity.,CNN
-243,"Axioms for Generalized Graphs, Illustrated by a Cantor-Bernstein Proposition.",tensor flow
-244,"Axioms for Generalized Graphs, Illustrated by a Cantor-Bernstein Proposition.",android
-245,"Axioms for Generalized Graphs, Illustrated by a Cantor-Bernstein Proposition.",pandas
-246,A Proof System for Distributed Processes.,android
-247,A Proof System for Distributed Processes.,tensor flow
-248,A Proof System for Distributed Processes.,DeepLearning
-249,Finite State Relational Programs.,pandas
-250,A Gap Between the Actual Complexity of Permutations and Their Entropy Defined by Stoß.,qbits
-251,MAT learners for tree series: an abstract data type and two realizations.,NN
-252,Exponentially decreasing number of operations in balanced trees.,qbits
-253,Correctness of the Compiling Process Based on Axiomatic Semantics.,DeepLearning
-254,Paramodulated Connection Graphs.,DeepLearning
-255,Paramodulated Connection Graphs.,python
-256,The Lattice of Data Refinement.,CNN
-257,The Lattice of Data Refinement.,android
-258,The Lattice of Data Refinement.,python
-259,Backtracking in Recursive Computations.,tensor flow
-260,Backtracking in Recursive Computations.,neo4j
-261,A first step in characterizing three-element codes.,python
-262,A first step in characterizing three-element codes.,tensor flow
-263,A first step in characterizing three-element codes.,android
-264,Efficient LL(1) Error Correction and Recovery Using Only Insertions.,pandas
-265,Efficient LL(1) Error Correction and Recovery Using Only Insertions.,tensor flow
-266,Formal Derivation of Strongly Correct Concurrent Programs.,neo4j
-267,Formal Derivation of Strongly Correct Concurrent Programs.,pandas
-268,Parallel Integer Sorting and Simulation Amongst CRCW Models.,neo4j
-269,Parallel Integer Sorting and Simulation Amongst CRCW Models.,android
-270,Parallel Integer Sorting and Simulation Amongst CRCW Models.,DeepLearning
-271,Pattern Matching in Trees and Nets.,pandas
-272,NP-complete Problems Simplified on Tree Schemas.,NN
-273,NP-complete Problems Simplified on Tree Schemas.,neo4j
-274,On the Power of Chain Rules in Context Free Grammars.,python
-275,On the Power of Chain Rules in Context Free Grammars.,qbits
-276,On the Power of Chain Rules in Context Free Grammars.,DeepLearning
-277,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,DeepLearning
-278,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,NN
-279,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,android
-280,A characterization of rational D0L power series.,CNN
-281,A characterization of rational D0L power series.,android
-282,A characterization of rational D0L power series.,NN
-283,The Derivation of Systolic Implementations of Programs.,CNN
-284,The Derivation of Systolic Implementations of Programs.,android
-285,The Derivation of Systolic Implementations of Programs.,NN
-286,Fifo Nets Without Order Deadlock.,NN
-287,On the Complementation Rule for Multivalued Dependencies in Database Relations.,neo4j
-288,On the Complementation Rule for Multivalued Dependencies in Database Relations.,python
-289,On the Complementation Rule for Multivalued Dependencies in Database Relations.,tensor flow
-290,Equational weighted tree transformations.,neo4j
-291,Equational weighted tree transformations.,NN
-292,Equational weighted tree transformations.,pandas
-293,Merged processes: a new condensed representation of Petri net behaviour.,DeepLearning
-294,Merged processes: a new condensed representation of Petri net behaviour.,CNN
-295,Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos.,neo4j
-296,A Three-Stage Construction for Multiconnection Networks.,qbits
-297,The Expressive Power of Delay Operators in SCCS.,DeepLearning
-298,Calculi for Interaction.,qbits
-299,Calculi for Interaction.,NN
-300,Calculi for Interaction.,pandas
-301,A Synthesis of Several Sorting Algorithms.,DeepLearning
-302,A Synthesis of Several Sorting Algorithms.,pandas
-303,A Synthesis of Several Sorting Algorithms.,tensor flow
-304,A Workload Model Representative of Static and Dynamic Characteristics.,pandas
-305,A Workload Model Representative of Static and Dynamic Characteristics.,DeepLearning
-306,A Workload Model Representative of Static and Dynamic Characteristics.,NN
-307,Gray visiting Motzkins.,python
-308,Gray visiting Motzkins.,DeepLearning
-309,Gray visiting Motzkins.,neo4j
-310,Trace- and failure-based semantics for responsiveness.,android
-311,Trace- and failure-based semantics for responsiveness.,python
-312,Trace- and failure-based semantics for responsiveness.,CNN
-313,Branching Processes in the Analysis of the Heights of Trees.,android
-314,Branching Processes in the Analysis of the Heights of Trees.,NN
-315,Branching Processes in the Analysis of the Heights of Trees.,python
-316,Least Upper Bound on the Cost of Optimum Binary Search Trees.,tensor flow
-317,Least Upper Bound on the Cost of Optimum Binary Search Trees.,python
-318,Least Upper Bound on the Cost of Optimum Binary Search Trees.,NN
-319,The Mathematical Analysis of the Computer System Modeled as a Two Stage Cyclic Queue.,NN
-320,The Mathematical Analysis of the Computer System Modeled as a Two Stage Cyclic Queue.,DeepLearning
-321,The Mathematical Analysis of the Computer System Modeled as a Two Stage Cyclic Queue.,android
-322,"Invariants, Composition, and Substitution.",pandas
-323,"Invariants, Composition, and Substitution.",qbits
-324,"Invariants, Composition, and Substitution.",NN
-325,Maximum Entropy and the ,android
-326,Maximum Entropy and the ,python
-327,Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach.,DeepLearning
-328,Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach.,python
-329,Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach.,qbits
-330,A theory of structural stationarity in the ,python
-331,Hex ist PSPACE-vollständig.,qbits
-332,Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells.,neo4j
-333,Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells.,qbits
-334,Disjunctivity and other properties of sets of pseudo-bordered words.,python
-335,Disjunctivity and other properties of sets of pseudo-bordered words.,pandas
-336,Disjunctivity and other properties of sets of pseudo-bordered words.,DeepLearning
-337,Relational structures model of concurrency.,DeepLearning
-338,Relational structures model of concurrency.,qbits
-339,On an Equivalence between Continuation and Stack Semantics.,CNN
-340,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.,neo4j
-341,A Note on the Density of Inherently Ambiguous Context-free Languages.,python
-342,Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array.,android
-343,Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array.,qbits
-344,Computational Algorithms for Networks of Queues with Rejection Blocking.,tensor flow
-345,Computational Algorithms for Networks of Queues with Rejection Blocking.,CNN
-346,Compositional Refinements in Multiple Blackboard Systems.,CNN
-347,Compositional Refinements in Multiple Blackboard Systems.,DeepLearning
-348,"Special issue on ""Combining Compositionality and Concurrency"": part 1.",NN
-349,"Special issue on ""Combining Compositionality and Concurrency"": part 1.",CNN
-350,"Special issue on ""Combining Compositionality and Concurrency"": part 1.",DeepLearning
-351,Automatic verification of concurrent systems using a formula-based compositional approach.,qbits
-352,Automatic verification of concurrent systems using a formula-based compositional approach.,neo4j
-353,On Removing the Machine from the Language.,DeepLearning
-354,On Removing the Machine from the Language.,android
-355,On Removing the Machine from the Language.,pandas
-356,Complete Problems for Space Bounded Subclasses of NP.,NN
-357,Complete Problems for Space Bounded Subclasses of NP.,DeepLearning
-358,Efficient controller synthesis for a fragment of MTL,NN
-359,Efficient controller synthesis for a fragment of MTL,DeepLearning
-360,Efficient controller synthesis for a fragment of MTL,CNN
-361,Two Notions of Correctness and Their Relation to Testing.,DeepLearning
-362,Best Huffman Trees.,neo4j
-363,Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler.,NN
-364,Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler.,CNN
-365,Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler.,DeepLearning
-366,The Parsing Problem for Affix Grammars.,pandas
-367,On Efficient Entreeings.,python
-368,Persistence of Vector Replacement Systems is Decidable.,neo4j
-369,Implementing Daubechies Wavelet Transform with Weighted Finite Automata.,neo4j
-370,Implementing Daubechies Wavelet Transform with Weighted Finite Automata.,CNN
-371,Functional Behavior in Data Spaces.,tensor flow
-372,Functional Behavior in Data Spaces.,pandas
-373,Inductive Completion with Retracts.,python
-374,Inductive Completion with Retracts.,tensor flow
-375,Inductive Completion with Retracts.,qbits
-376,Sometime = Always + Recursion = Always on the Equivalence of the Intermittent and Invariant Assertions Methods for Proving Inevitability Properties of Programs.,neo4j
-377,Complete Parameterized Families of Job Scheduling Strategies.,neo4j
-378,Modelling higher-order dual nondeterminacy.,qbits
-379,Modelling higher-order dual nondeterminacy.,android
-380,Dispatcher Primitives for the Construction of Operating System Kernels.,neo4j
-381,Dispatcher Primitives for the Construction of Operating System Kernels.,DeepLearning
-382,Dispatcher Primitives for the Construction of Operating System Kernels.,qbits
-383,A Note on Multihead Automata and Context-Sensitive Languages,neo4j
-384,A Note on Multihead Automata and Context-Sensitive Languages,DeepLearning
-385,A Note on Multihead Automata and Context-Sensitive Languages,android
-386,A Recursive Second Order Initial Algebra Specification of Primitive Recursion.,python
-387,A Recursive Second Order Initial Algebra Specification of Primitive Recursion.,NN
-388,Compositional schedulability analysis of real-time actor-based systems.,python
-389,Compositional schedulability analysis of real-time actor-based systems.,android
-390,Compositional schedulability analysis of real-time actor-based systems.,pandas
-391,Context-Free Graph Languages of Bounded Degree are Generated by Apex Graph Grammars.,CNN
-392,Context-Free Graph Languages of Bounded Degree are Generated by Apex Graph Grammars.,pandas
-393,Worst Case Performance of Weighted Buddy Systems.,neo4j
-394,Contextual Nets.,qbits
-395,COSY - A System Specification Language Based on Paths and Processes.,CNN
-396,COSY - A System Specification Language Based on Paths and Processes.,android
-397,Applying relation algebra and Rel View to solve problems on orders and lattices.,android
-398,Applying relation algebra and Rel View to solve problems on orders and lattices.,CNN
-399,Eliminating Unit Productions from LR Parsers.,NN
-400,Eliminating Unit Productions from LR Parsers.,qbits
-401,Eliminating Unit Productions from LR Parsers.,tensor flow
-402,Attribute (Re)evaluation in OPTRAN.,python
-403,Attribute (Re)evaluation in OPTRAN.,NN
-404,Attribute (Re)evaluation in OPTRAN.,tensor flow
-405,On Parallel Integer Sorting.,neo4j
-406,On Parallel Integer Sorting.,NN
-407,Domain Independence and the Relational Calculus.,DeepLearning
-408,Domain Independence and the Relational Calculus.,CNN
+42,Weakly Context-Sensitive Languages as Model for Programming Languages.,NN
+43,Rules of Inference for Procedure Calls.,NN
+44,The Construction of Operator Interfaces Based on Logical Input Devices.,big data
+45,High Level Tree Transducers and Iterated Pushdown Tree Transducers.,DeepLearning
+46,Gobang ist PSPACE-vollständig.,CNN
+47,Gobang ist PSPACE-vollständig.,DeepLearning
+48,Gobang ist PSPACE-vollständig.,indexing
+49,A note on autodense related languages.,data querying
+50,A note on autodense related languages.,CNN
+51,Solving HPP and SAT by P Systems with Active Membranes and Separation Rules.,CNN
+52,Optimizing the Costs of Hierarchical Quorum Consensus.,data modeling
+53,Optimizing the Costs of Hierarchical Quorum Consensus.,data processing
+54,Recursive Petri nets.,data querying
+55,Recursive Petri nets.,data processing
+56,Multitype Multiprogramming Models.,data management
+57,Automatic Correction of Syntax-Errors in Programming Languages.,NN
+58,Automatic Correction of Syntax-Errors in Programming Languages.,DeepLearning
+59,Automatic Correction of Syntax-Errors in Programming Languages.,data management
+60,Representation and uniformization of algebraic transductions.,data modeling
+61,Concurrent Bisimulations in Petri Nets.,CNN
+62,Concurrent Bisimulations in Petri Nets.,data management
+63,Concurrent Bisimulations in Petri Nets.,big data
+64,Enhanced prefetching and caching strategies for single- and multi-disk systems.,data storage
+65,Recording the Use of Memory in Right-Boundary Grammars and Push-Down Automata.,data management
+66,State space axioms for T-systems.,data querying
+67,Extended multi bottom-up tree transducers.,indexing
+68,Extended multi bottom-up tree transducers.,CNN
+69,The Clean Termination of Iterative Programs.,CNN
+70,The Clean Termination of Iterative Programs.,NN
+71,Infinite Proof Rules for Loops.,indexing
+72,Infinite Proof Rules for Loops.,big data
+73,Infinite Proof Rules for Loops.,data querying
+74,Nonfinite Axiomatizability of the Equational Theory of Shuffle.,data querying
+75,"Running a job on a collection of partly available machines, with on-line restarts.",NN
+76,Data Refinement by Calculation.,DeepLearning
+77,Data Refinement by Calculation.,CNN
+78,Program Refinement in Fair Transition Systems.,data storage
+79,Program Refinement in Fair Transition Systems.,CNN
+80,A Functional Model for Describing and Reasoning About Time Behaviour of Computing Systems.,data processing
+81,"M-Nets: An Algebra of High-Level Petri Nets, with an Application to the Semantics of Concurrent Programming Languages.",CNN
+82,On the Look-Ahead Problem in Lexical Analysis.,DeepLearning
+83,On the Look-Ahead Problem in Lexical Analysis.,big data
+84,On the Look-Ahead Problem in Lexical Analysis.,CNN
+85,A theory of formal synthesis via inductive learning.,big data
+86,The maximum gain of increasing the number of preemptions in multiprocessor scheduling.,data querying
+87,The maximum gain of increasing the number of preemptions in multiprocessor scheduling.,NN
+88,Data Encodings and Their Costs.,indexing
+89,Data Encodings and Their Costs.,big data
+90,Data Encodings and Their Costs.,DeepLearning
+91,Hierarchies of Complete Problems.,CNN
+92,Hierarchies of Complete Problems.,big data
+93,Hierarchies of Complete Problems.,data storage
+94,Ein Vollständigkeitssatz für Programme und Schaltkreise.,data processing
+95,Ein Vollständigkeitssatz für Programme und Schaltkreise.,data management
+96,Type-based information flow analysis for the pi-calculus.,NN
+97,Type-based information flow analysis for the pi-calculus.,data processing
+98,Sur une Conjecture de S. Greibach.,data management
+99,Sur une Conjecture de S. Greibach.,DeepLearning
+100,A Conservation Law for G/G/m Queueing Systems.,data querying
+101,A Conservation Law for G/G/m Queueing Systems.,DeepLearning
+102,Applications of Efficient Mergeable Heaps for Optimization Problems on Trees.,CNN
+103,Context-Free Graph Grammars and Concatenation of Graphs.,NN
+104,Context-Free Graph Grammars and Concatenation of Graphs.,data processing
+105,Context-Free Graph Grammars and Concatenation of Graphs.,big data
+106,On a Class of Recursive Procedures and Equivalent Iterative Ones.,data management
+107,On a Class of Recursive Procedures and Equivalent Iterative Ones.,data storage
+108,On a Class of Recursive Procedures and Equivalent Iterative Ones.,CNN
+109,Algorithms for Fast Evaluation of Boolean Expressions.,big data
+110,Algorithms for Fast Evaluation of Boolean Expressions.,data modeling
+111,A general account of coinduction up-to.,DeepLearning
+112,A general account of coinduction up-to.,indexing
+113,A general account of coinduction up-to.,data management
+114,A Comparison of Two Synchronizing Concepts.,data querying
+115,A Comparison of Two Synchronizing Concepts.,indexing
+116,A Comparison of Two Synchronizing Concepts.,data management
+117,How to Calculate Symmetries of Petri Nets.,data storage
+118,"Nonterminals, Homomorphisms and Codings in Different Variations of OL-Systems. I. Deterministic Systems.",data querying
+119,"Nonterminals, Homomorphisms and Codings in Different Variations of OL-Systems. I. Deterministic Systems.",data storage
+120,Recognizability of graph and pattern languages.,data management
+121,Recognizability of graph and pattern languages.,data storage
+122,The Synthesis Problem of Petri Nets.,indexing
+123,A Binary Operation on Trees and an Initial Algebra Characterization for Finite Tree Types.,CNN
+124,On weighted first-order logics with discounting.,data querying
+125,A Characterization of Context-free String Languages by Directed Node-label Controlled Graph Grammars.,data querying
+126,A Characterization of Context-free String Languages by Directed Node-label Controlled Graph Grammars.,NN
+127,"Demonic, angelic and unbounded probabilistic choices in sequential programs.",data querying
+128,"Demonic, angelic and unbounded probabilistic choices in sequential programs.",data storage
+129,"Demonic, angelic and unbounded probabilistic choices in sequential programs.",indexing
+130,An Efficiency Preorder for Processes.,big data
+131,On the Generalization of Higman and Kruskal's Theorems to Regular Languages and Rational Trees.,data management
+132,Modeling Splits in File Structures.,data processing
+133,Languages Accepted by Systolic Y-Tree Automata: Structural Characterizations.,CNN
+134,Languages Accepted by Systolic Y-Tree Automata: Structural Characterizations.,data modeling
+135,Synchronized regular expressions.,indexing
+136,Synchronized regular expressions.,big data
+137,Synchronized regular expressions.,data processing
+138,On regular tree languages and deterministic pushdown automata.,data storage
+139,On regular tree languages and deterministic pushdown automata.,indexing
+140,A Modal Logic for Message Passing Processes.,data processing
+141,A Modal Logic for Message Passing Processes.,data storage
+142,Maintaining Range Trees in Secondary Memory. Part I: Partitions.,CNN
+143,Maintaining Range Trees in Secondary Memory. Part I: Partitions.,data modeling
+144,Does indirect addressing matter? - A note.,big data
+145,Reasoning Algebraically about Loops.,indexing
+146,Reasoning Algebraically about Loops.,data querying
+147,Reasoning Algebraically about Loops.,data storage
+148,A Model of a Time Sharing Virtual Memory System Solved Using Equivalence and Decomposition Methods.,CNN
+149,Trace Nets and Process Automata.,data modeling
+150,Trace Nets and Process Automata.,data processing
+151,Metric propositional neighborhood logic with an equivalence relation.,data querying
+152,A Principle of Independence for Binary Tree Searching.,data management
+153,A Principle of Independence for Binary Tree Searching.,NN
+154,Optimal Divide-and-Conquer to Compute Measure and Contour for a Set of Iso-Rectangles.,indexing
+155,Optimal Divide-and-Conquer to Compute Measure and Contour for a Set of Iso-Rectangles.,big data
+156,Optimal Divide-and-Conquer to Compute Measure and Contour for a Set of Iso-Rectangles.,data processing
+157,The Paging Drum Queue: A Uniform Perspective and Further Results.,data processing
+158,The Paging Drum Queue: A Uniform Perspective and Further Results.,data management
+159,The Undecidability of the Unification and Matching Problem for Canonical Theories.,data querying
+160,The Undecidability of the Unification and Matching Problem for Canonical Theories.,CNN
+161,The Programming Language Pascal.,data processing
+162,"Semantics, calculi, and analysis for object-oriented specifications.",big data
+163,"Semantics, calculi, and analysis for object-oriented specifications.",DeepLearning
+164,Inhibitionsfelder.,indexing
+165,Inhibitionsfelder.,CNN
+166,Head and state hierarchies for unary multi-head finite automata.,data storage
+167,Head and state hierarchies for unary multi-head finite automata.,DeepLearning
+168,Head and state hierarchies for unary multi-head finite automata.,data querying
+169,On the Number of Active-Operations Needed to Compute the Discrete Fourier Transform.,indexing
+170,On the Number of Active-Operations Needed to Compute the Discrete Fourier Transform.,data processing
+171,The stuttering principle revisited.,DeepLearning
+172,Redundant Proofs of Non-Interference in Levin-Gries CSP Program Proofs.,CNN
+173,Lazy Structure Sharing for Query Optimization.,big data
+174,Lazy Structure Sharing for Query Optimization.,data processing
+175,Lazy Structure Sharing for Query Optimization.,data modeling
+176,Fair ambients.,indexing
+177,Concurrent Access to Data.,data processing
+178,Concurrent Access to Data.,DeepLearning
+179,Relaxed red-black trees with group updates.,indexing
+180,Relaxed red-black trees with group updates.,data modeling
+181,Generation of Efficient ,data management
+182,Generation of Efficient ,NN
+183,A Markovian queue with varying number of servers and applications to the performance comparison of HSDPA user equipment.,indexing
+184,Priority Conflict-Free Petri Nets.,NN
+185,Priority Conflict-Free Petri Nets.,data querying
+186,Priority Conflict-Free Petri Nets.,data processing
+187,Optimum Multiway Search Trees.,data management
+188,Optimum Multiway Search Trees.,DeepLearning
+189,Optimum Multiway Search Trees.,data storage
+190,Characterization of all Optimal Networks for a Simultaneous Computation of AND and NOR.,DeepLearning
+191,Characterization of all Optimal Networks for a Simultaneous Computation of AND and NOR.,data processing
+192,Characterization of all Optimal Networks for a Simultaneous Computation of AND and NOR.,NN
+193,Parallel Integer Sorting Using Small Operations.,CNN
+194,Parallel Integer Sorting Using Small Operations.,data querying
+195,Stochastic cooperative distributed grammar systems and random graphs.,DeepLearning
+196,Stochastic cooperative distributed grammar systems and random graphs.,big data
+197,Stochastic cooperative distributed grammar systems and random graphs.,data modeling
+198,Performance Evaluation of Fork and Join Synchronization Primitives.,data modeling
+199,Performance Evaluation of Fork and Join Synchronization Primitives.,data storage
+200,Performance Evaluation of Fork and Join Synchronization Primitives.,DeepLearning
+201,Some properties of the disjunctive languages contained in ,indexing
+202,Some properties of the disjunctive languages contained in ,DeepLearning
+203,Systolic Automata for VLSI on Balanced Trees.,CNN
+204,Systolic Automata for VLSI on Balanced Trees.,data processing
+205,A new natural structural congruence in the pi-calculus with replication.,indexing
+206,Optimal Multiprogramming.,data management
+207,Optimal Multiprogramming.,DeepLearning
+208,Classes of Systolic Y-Tree Automata and a Comparison with Systolic Trellis Automata.,DeepLearning
+209,On Real-Time Cellular Automata and Trellis Automata.,CNN
+210,On Real-Time Cellular Automata and Trellis Automata.,data storage
+211,Transformational Design of Real-Time Systems Part I: From Requirements to Program Specifications.,DeepLearning
+212,Transformational Design of Real-Time Systems Part I: From Requirements to Program Specifications.,data querying
+213,Transformational Design of Real-Time Systems Part I: From Requirements to Program Specifications.,data management
+214,Performance Preorder and Competitive Equivalence.,data processing
+215,Performance Preorder and Competitive Equivalence.,NN
+216,A Survey of Normal Form Covers for Context Free Grammars.,DeepLearning
+217,A Note on Synthesis and Classification of Sorting Algorithms.,data processing
+218,A Note on Synthesis and Classification of Sorting Algorithms.,NN
+219,A Note on Synthesis and Classification of Sorting Algorithms.,CNN
+220,Liveness of a mutex algorithm in a fair process algebra.,indexing
+221,Liveness of a mutex algorithm in a fair process algebra.,data management
+222,"Another Look at the ""Longest Ascending Subsequence"" Problem.",data processing
+223,Complexity Theory and the Operational Structure of Algebraic Programming Systems.,big data
+224,Models for Reactivity.,data management
+225,Models for Reactivity.,data querying
+226,"Axioms for Generalized Graphs, Illustrated by a Cantor-Bernstein Proposition.",big data
+227,A Proof System for Distributed Processes.,NN
+228,A Proof System for Distributed Processes.,data storage
+229,Finite State Relational Programs.,indexing
+230,Finite State Relational Programs.,data storage
+231,A Gap Between the Actual Complexity of Permutations and Their Entropy Defined by Stoß.,DeepLearning
+232,A Gap Between the Actual Complexity of Permutations and Their Entropy Defined by Stoß.,data processing
+233,A Gap Between the Actual Complexity of Permutations and Their Entropy Defined by Stoß.,data storage
+234,MAT learners for tree series: an abstract data type and two realizations.,data storage
+235,MAT learners for tree series: an abstract data type and two realizations.,NN
+236,Exponentially decreasing number of operations in balanced trees.,indexing
+237,Correctness of the Compiling Process Based on Axiomatic Semantics.,data modeling
+238,Correctness of the Compiling Process Based on Axiomatic Semantics.,data management
+239,Paramodulated Connection Graphs.,DeepLearning
+240,Paramodulated Connection Graphs.,data management
+241,The Lattice of Data Refinement.,data management
+242,Backtracking in Recursive Computations.,NN
+243,Backtracking in Recursive Computations.,DeepLearning
+244,Backtracking in Recursive Computations.,data querying
+245,A first step in characterizing three-element codes.,data querying
+246,A first step in characterizing three-element codes.,data management
+247,Efficient LL(1) Error Correction and Recovery Using Only Insertions.,data modeling
+248,Efficient LL(1) Error Correction and Recovery Using Only Insertions.,indexing
+249,Formal Derivation of Strongly Correct Concurrent Programs.,data modeling
+250,Formal Derivation of Strongly Correct Concurrent Programs.,CNN
+251,Parallel Integer Sorting and Simulation Amongst CRCW Models.,indexing
+252,Parallel Integer Sorting and Simulation Amongst CRCW Models.,big data
+253,Pattern Matching in Trees and Nets.,data processing
+254,Pattern Matching in Trees and Nets.,data querying
+255,NP-complete Problems Simplified on Tree Schemas.,indexing
+256,NP-complete Problems Simplified on Tree Schemas.,data management
+257,On the Power of Chain Rules in Context Free Grammars.,data querying
+258,On the Power of Chain Rules in Context Free Grammars.,DeepLearning
+259,On the Power of Chain Rules in Context Free Grammars.,big data
+260,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,data querying
+261,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,data management
+262,A characterization of rational D0L power series.,data processing
+263,A characterization of rational D0L power series.,NN
+264,A characterization of rational D0L power series.,indexing
+265,The Derivation of Systolic Implementations of Programs.,CNN
+266,The Derivation of Systolic Implementations of Programs.,big data
+267,Fifo Nets Without Order Deadlock.,DeepLearning
+268,On the Complementation Rule for Multivalued Dependencies in Database Relations.,data querying
+269,On the Complementation Rule for Multivalued Dependencies in Database Relations.,data modeling
+270,On the Complementation Rule for Multivalued Dependencies in Database Relations.,data storage
+271,Equational weighted tree transformations.,data processing
+272,Equational weighted tree transformations.,data storage
+273,Merged processes: a new condensed representation of Petri net behaviour.,data management
+274,Merged processes: a new condensed representation of Petri net behaviour.,data storage
+275,Merged processes: a new condensed representation of Petri net behaviour.,indexing
+276,Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos.,DeepLearning
+277,A Three-Stage Construction for Multiconnection Networks.,data storage
+278,A Three-Stage Construction for Multiconnection Networks.,DeepLearning
+279,The Expressive Power of Delay Operators in SCCS.,data management
+280,The Expressive Power of Delay Operators in SCCS.,data storage
+281,The Expressive Power of Delay Operators in SCCS.,NN
+282,Calculi for Interaction.,data querying
+283,A Synthesis of Several Sorting Algorithms.,DeepLearning
+284,A Synthesis of Several Sorting Algorithms.,CNN
+285,A Workload Model Representative of Static and Dynamic Characteristics.,data storage
+286,Gray visiting Motzkins.,NN
+287,Trace- and failure-based semantics for responsiveness.,data storage
+288,Trace- and failure-based semantics for responsiveness.,NN
+289,Branching Processes in the Analysis of the Heights of Trees.,data processing
+290,Branching Processes in the Analysis of the Heights of Trees.,DeepLearning
+291,Least Upper Bound on the Cost of Optimum Binary Search Trees.,CNN
+292,Least Upper Bound on the Cost of Optimum Binary Search Trees.,data modeling
+293,Least Upper Bound on the Cost of Optimum Binary Search Trees.,data management
+294,The Mathematical Analysis of the Computer System Modeled as a Two Stage Cyclic Queue.,data processing
+295,The Mathematical Analysis of the Computer System Modeled as a Two Stage Cyclic Queue.,DeepLearning
+296,The Mathematical Analysis of the Computer System Modeled as a Two Stage Cyclic Queue.,data management
+297,"Invariants, Composition, and Substitution.",data querying
+298,"Invariants, Composition, and Substitution.",data management
+299,Maximum Entropy and the ,NN
+300,Maximum Entropy and the ,CNN
+301,Maximum Entropy and the ,DeepLearning
+302,Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach.,data management
+303,Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach.,data querying
+304,Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach.,big data
+305,A theory of structural stationarity in the ,data storage
+306,A theory of structural stationarity in the ,NN
+307,A theory of structural stationarity in the ,data processing
+308,Hex ist PSPACE-vollständig.,DeepLearning
+309,Hex ist PSPACE-vollständig.,data management
+310,Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells.,data management
+311,Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells.,CNN
+312,Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells.,indexing
+313,Disjunctivity and other properties of sets of pseudo-bordered words.,data management
+314,Disjunctivity and other properties of sets of pseudo-bordered words.,big data
+315,Relational structures model of concurrency.,data storage
+316,Relational structures model of concurrency.,DeepLearning
+317,Relational structures model of concurrency.,data management
+318,On an Equivalence between Continuation and Stack Semantics.,big data
+319,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.,indexing
+320,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.,big data
+321,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.,data storage
+322,A Note on the Density of Inherently Ambiguous Context-free Languages.,data storage
+323,Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array.,indexing
+324,Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array.,data querying
+325,Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array.,data processing
+326,Computational Algorithms for Networks of Queues with Rejection Blocking.,NN
+327,Compositional Refinements in Multiple Blackboard Systems.,NN
+328,Compositional Refinements in Multiple Blackboard Systems.,data processing
+329,Compositional Refinements in Multiple Blackboard Systems.,CNN
+330,"Special issue on ""Combining Compositionality and Concurrency"": part 1.",data modeling
+331,"Special issue on ""Combining Compositionality and Concurrency"": part 1.",indexing
+332,"Special issue on ""Combining Compositionality and Concurrency"": part 1.",NN
+333,Automatic verification of concurrent systems using a formula-based compositional approach.,data management
+334,Automatic verification of concurrent systems using a formula-based compositional approach.,data modeling
+335,Automatic verification of concurrent systems using a formula-based compositional approach.,big data
+336,On Removing the Machine from the Language.,data querying
+337,On Removing the Machine from the Language.,data management
+338,Complete Problems for Space Bounded Subclasses of NP.,data modeling
+339,Complete Problems for Space Bounded Subclasses of NP.,NN
+340,Efficient controller synthesis for a fragment of MTL,data management
+341,Efficient controller synthesis for a fragment of MTL,DeepLearning
+342,Two Notions of Correctness and Their Relation to Testing.,data processing
+343,Two Notions of Correctness and Their Relation to Testing.,DeepLearning
+344,Best Huffman Trees.,DeepLearning
+345,Best Huffman Trees.,data processing
+346,Best Huffman Trees.,indexing
+347,Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler.,CNN
+348,The Parsing Problem for Affix Grammars.,data storage
+349,The Parsing Problem for Affix Grammars.,big data
+350,The Parsing Problem for Affix Grammars.,data querying
+351,On Efficient Entreeings.,CNN
+352,On Efficient Entreeings.,big data
+353,Persistence of Vector Replacement Systems is Decidable.,big data
+354,Persistence of Vector Replacement Systems is Decidable.,data storage
+355,Persistence of Vector Replacement Systems is Decidable.,data querying
+356,Implementing Daubechies Wavelet Transform with Weighted Finite Automata.,CNN
+357,Implementing Daubechies Wavelet Transform with Weighted Finite Automata.,data storage
+358,Functional Behavior in Data Spaces.,CNN
+359,Functional Behavior in Data Spaces.,data management
+360,Functional Behavior in Data Spaces.,DeepLearning
+361,Inductive Completion with Retracts.,DeepLearning
+362,Sometime = Always + Recursion = Always on the Equivalence of the Intermittent and Invariant Assertions Methods for Proving Inevitability Properties of Programs.,indexing
+363,Sometime = Always + Recursion = Always on the Equivalence of the Intermittent and Invariant Assertions Methods for Proving Inevitability Properties of Programs.,DeepLearning
+364,Complete Parameterized Families of Job Scheduling Strategies.,DeepLearning
+365,Complete Parameterized Families of Job Scheduling Strategies.,data querying
+366,Complete Parameterized Families of Job Scheduling Strategies.,data management
+367,Modelling higher-order dual nondeterminacy.,data processing
+368,Modelling higher-order dual nondeterminacy.,data querying
+369,Modelling higher-order dual nondeterminacy.,big data
+370,Dispatcher Primitives for the Construction of Operating System Kernels.,data storage
+371,Dispatcher Primitives for the Construction of Operating System Kernels.,data processing
+372,Dispatcher Primitives for the Construction of Operating System Kernels.,data modeling
+373,A Note on Multihead Automata and Context-Sensitive Languages,big data
+374,A Note on Multihead Automata and Context-Sensitive Languages,NN
+375,A Note on Multihead Automata and Context-Sensitive Languages,data querying
+376,A Recursive Second Order Initial Algebra Specification of Primitive Recursion.,CNN
+377,A Recursive Second Order Initial Algebra Specification of Primitive Recursion.,DeepLearning
+378,A Recursive Second Order Initial Algebra Specification of Primitive Recursion.,data modeling
+379,Compositional schedulability analysis of real-time actor-based systems.,data processing
+380,Compositional schedulability analysis of real-time actor-based systems.,indexing
+381,Context-Free Graph Languages of Bounded Degree are Generated by Apex Graph Grammars.,data modeling
+382,Worst Case Performance of Weighted Buddy Systems.,big data
+383,Contextual Nets.,big data
+384,Contextual Nets.,data processing
+385,COSY - A System Specification Language Based on Paths and Processes.,indexing
+386,Applying relation algebra and Rel View to solve problems on orders and lattices.,CNN
+387,Applying relation algebra and Rel View to solve problems on orders and lattices.,big data
+388,Eliminating Unit Productions from LR Parsers.,data modeling
+389,Eliminating Unit Productions from LR Parsers.,indexing
+390,Eliminating Unit Productions from LR Parsers.,data querying
+391,Attribute (Re)evaluation in OPTRAN.,DeepLearning
+392,On Parallel Integer Sorting.,indexing
+393,On Parallel Integer Sorting.,big data
+394,Domain Independence and the Relational Calculus.,CNN
