@@ -1,158 +1,160 @@
-,Author,Conference,Year,Paper,Editor,City,Edition,Isbn,Dni,Age,Pages
-0,Arnold Schönhage,MAXsat conference,2020,Multi-Granularity Locking for Nested Transactions: A Proof Using a Possibilities Mapping.,Delphine Longuet,Lleida,edition 2020 MAXsat conference,57008674,73932582,39,17
-1,Hans Ulrich Simon,UDL conference,2016,Bounded Quantification and Relations Recognizable by Finite Automata.,Karl Meinke,Balaguer,edition 2016 UDL conference,165581497,53552509,36,18
-2,Hans Ulrich Simon,UDL conference,2020,A Complete Algebraic Characterization of Behavioral Subtyping.,Walter J. Savitch,Madrid,edition 2020 UDL conference,193683214,53552509,36,19
-3,Norbert Blum,MAXsat conference,2015,Efficient execution of dynamically controllable simple temporal networks with uncertainty.,Karl Meinke,Madrid,edition 2015 MAXsat conference,194689839,51902203,43,20
-4,Hans Ulrich Simon,UDL conference,2017,Minimum Feedback Vertex Sets in Cocomparability Graphs and Convex Bipartite Graphs.,Delphine Longuet,Lleida,edition 2017 UDL conference,79110457,53552509,36,8
-5,Arnold Schönhage,MAXsat conference,2020,Behavioural Approaches to Algebraic Specifications: A Comparative Study.,George Leih,Balaguer,edition 2020 MAXsat conference,96412520,73932582,39,10
-6,Hans Ulrich Simon,UDL conference,2019,Instruction sequence processing operators.,George Leih,Madrid,edition 2019 UDL conference,78417802,53552509,36,17
-7,Hans Ulrich Simon,MAXsat conference,2021,What is Failure? An Approach to Constructive Negation.,Walter J. Savitch,London,edition 2021 MAXsat conference,141834973,53552509,36,5
-8,Nathan Goodman,UDL conference,2015,STG decomposition strategies in combination with unfolding.,Walter J. Savitch,Balaguer,edition 2015 UDL conference,63636057,63425111,60,7
-9,Oded Shmueli,UDL conference,2015,STG decomposition strategies in combination with unfolding.,Walter J. Savitch,Balaguer,edition 2015 UDL conference,63636057,96708194,81,7
-10,Sanjeev Saxena,UDL conference,2016,Quad Trees: A Data Structure for Retrieval on Composite Keys.,Karl Meinke,Barcelona,edition 2016 UDL conference,187955680,71976226,63,16
-11,Nathan Goodman,UDL conference,2016,On the Number of Relational Operators Necessary to Compute Certain Functions of Real Variables.,Delphine Longuet,Barcelona,edition 2016 UDL conference,96846628,63425111,60,4
-12,Oded Shmueli,UDL conference,2016,On the Number of Relational Operators Necessary to Compute Certain Functions of Real Variables.,Delphine Longuet,Barcelona,edition 2016 UDL conference,96846628,96708194,81,4
-13,Sanjeev Saxena,UDL conference,2018,A Study of Queueing Networks with Deterministic Service and Application to Computer Networks.,Delphine Longuet,Barcelona,edition 2018 UDL conference,74259778,71976226,63,4
-14,Nathan Goodman,MAXsat conference,2018,Probabilistic bisimulation for realistic schedulers.,Karl Meinke,Madrid,edition 2018 MAXsat conference,60687351,63425111,60,17
-15,Oded Shmueli,MAXsat conference,2018,Probabilistic bisimulation for realistic schedulers.,Karl Meinke,Madrid,edition 2018 MAXsat conference,60687351,96708194,81,17
-16,Juha Honkala,UDL conference,2015,Explaining the Wheel Sieve.,Delphine Longuet,London,edition 2015 UDL conference,135054079,63860055,87,18
-17,Arnold Schönhage,MAXsat conference,2018,Another Polynomial Homomorphism.,Delphine Longuet,Barcelona,edition 2018 MAXsat conference,54825994,73932582,39,20
-18,Sanjeev Saxena,UDL conference,2020,Variance Reduction Techniques for the Simulation of Markov Process.,George Leih,Lleida,edition 2020 UDL conference,114709605,71976226,63,7
-19,Hans Ulrich Simon,MAXsat conference,2019,State complexity of deletion and bipolar deletion.,Walter J. Savitch,Balaguer,edition 2019 MAXsat conference,102266665,53552509,36,5
-20,Juha Honkala,MAXsat conference,2020,Decomposition of Graphs and Monotone Formula Size of Homogeneous Functions.,George Leih,Madrid,edition 2020 MAXsat conference,74154416,63860055,87,4
-21,Sanjeev Saxena,UDL conference,2018,Symbolic checking of Fuzzy CTL on Fuzzy Program Graph.,Delphine Longuet,Madrid,edition 2018 UDL conference,55966428,71976226,63,10
-22,Arnold Schönhage,UDL conference,2016,Regular and context-free nominal traces.,Karl Meinke,Barcelona,edition 2016 UDL conference,176084083,73932582,39,14
-23,Hans Ulrich Simon,UDL conference,2016,Deterministic pushdown-CD-systems of stateless deterministic R(1)-automata.,Karl Meinke,Balaguer,edition 2016 UDL conference,179530731,53552509,36,12
-24,Sanjeev Saxena,MAXsat conference,2019,Special issue: Synthesis and SYNT 2014.,George Leih,Balaguer,edition 2019 MAXsat conference,173227157,71976226,63,4
-25,Sanjeev Saxena,MAXsat conference,2020,On the Synchronization in Parallel Communicating Grammar Systems.,Delphine Longuet,Balaguer,edition 2020 MAXsat conference,111924834,71976226,63,9
-26,Sanjeev Saxena,MAXsat conference,2016,Weakly Context-Sensitive Languages as Model for Programming Languages.,Delphine Longuet,Lleida,edition 2016 MAXsat conference,68584750,71976226,63,12
-27,Nathan Goodman,UDL conference,2018,Rules of Inference for Procedure Calls.,George Leih,London,edition 2018 UDL conference,126997143,63425111,60,4
-28,Oded Shmueli,UDL conference,2018,Rules of Inference for Procedure Calls.,George Leih,London,edition 2018 UDL conference,126997143,96708194,81,4
-29,Norbert Blum,MAXsat conference,2020,The Construction of Operator Interfaces Based on Logical Input Devices.,George Leih,Madrid,edition 2020 MAXsat conference,55354715,51902203,43,18
-30,Juha Honkala,UDL conference,2021,High Level Tree Transducers and Iterated Pushdown Tree Transducers.,Delphine Longuet,London,edition 2021 UDL conference,61264375,63860055,87,14
-31,Sanjeev Saxena,MAXsat conference,2018,Gobang ist PSPACE-vollständig.,Karl Meinke,Barcelona,edition 2018 MAXsat conference,71247176,71976226,63,10
-32,Arnold Schönhage,MAXsat conference,2019,A note on autodense related languages.,Walter J. Savitch,London,edition 2019 MAXsat conference,84897649,73932582,39,4
-33,Juha Honkala,UDL conference,2016,Solving HPP and SAT by P Systems with Active Membranes and Separation Rules.,Walter J. Savitch,Lleida,edition 2016 UDL conference,116391871,63860055,87,20
-34,Juha Honkala,UDL conference,2021,Optimizing the Costs of Hierarchical Quorum Consensus.,George Leih,Lleida,edition 2021 UDL conference,170410854,63860055,87,19
-35,Hans Ulrich Simon,UDL conference,2021,Recursive Petri nets.,Karl Meinke,Lleida,edition 2021 UDL conference,136984155,53552509,36,20
-36,Arnold Schönhage,UDL conference,2019,Multitype Multiprogramming Models.,Delphine Longuet,Madrid,edition 2019 UDL conference,79373522,73932582,39,5
-37,Juha Honkala,UDL conference,2021,Automatic Correction of Syntax-Errors in Programming Languages.,Delphine Longuet,Balaguer,edition 2021 UDL conference,87540809,63860055,87,13
-38,Sanjeev Saxena,MAXsat conference,2018,Representation and uniformization of algebraic transductions.,Delphine Longuet,Balaguer,edition 2018 MAXsat conference,75335452,71976226,63,15
-39,Norbert Blum,MAXsat conference,2016,Concurrent Bisimulations in Petri Nets.,Delphine Longuet,London,edition 2016 MAXsat conference,73548617,51902203,43,6
-40,Arnold Schönhage,UDL conference,2015,Enhanced prefetching and caching strategies for single- and multi-disk systems.,Walter J. Savitch,Balaguer,edition 2015 UDL conference,177076579,73932582,39,15
-41,Juha Honkala,UDL conference,2016,Recording the Use of Memory in Right-Boundary Grammars and Push-Down Automata.,George Leih,Balaguer,edition 2016 UDL conference,81407971,63860055,87,4
-42,Norbert Blum,UDL conference,2019,State space axioms for T-systems.,Karl Meinke,Lleida,edition 2019 UDL conference,86056033,51902203,43,16
-43,Norbert Blum,MAXsat conference,2016,Extended multi bottom-up tree transducers.,Karl Meinke,Barcelona,edition 2016 MAXsat conference,48389422,51902203,43,16
-44,Nathan Goodman,MAXsat conference,2020,The Clean Termination of Iterative Programs.,Karl Meinke,Balaguer,edition 2020 MAXsat conference,185096185,63425111,60,20
-45,Oded Shmueli,MAXsat conference,2020,The Clean Termination of Iterative Programs.,Karl Meinke,Balaguer,edition 2020 MAXsat conference,185096185,96708194,81,20
-46,Arnold Schönhage,MAXsat conference,2021,Infinite Proof Rules for Loops.,Delphine Longuet,Barcelona,edition 2021 MAXsat conference,62366471,73932582,39,14
-47,Norbert Blum,UDL conference,2020,Nonfinite Axiomatizability of the Equational Theory of Shuffle.,Karl Meinke,Barcelona,edition 2020 UDL conference,98440784,51902203,43,20
-48,Arnold Schönhage,UDL conference,2016,"Running a job on a collection of partly available machines, with on-line restarts.",Karl Meinke,London,edition 2016 UDL conference,57876521,73932582,39,6
-49,Nathan Goodman,UDL conference,2018,Data Refinement by Calculation.,Karl Meinke,Lleida,edition 2018 UDL conference,188978776,63425111,60,5
-50,Oded Shmueli,UDL conference,2018,Data Refinement by Calculation.,Karl Meinke,Lleida,edition 2018 UDL conference,188978776,96708194,81,5
-51,Nathan Goodman,MAXsat conference,2015,Program Refinement in Fair Transition Systems.,George Leih,Lleida,edition 2015 MAXsat conference,115914418,63425111,60,8
-52,Oded Shmueli,MAXsat conference,2015,Program Refinement in Fair Transition Systems.,George Leih,Lleida,edition 2015 MAXsat conference,115914418,96708194,81,8
-53,Norbert Blum,MAXsat conference,2020,A Functional Model for Describing and Reasoning About Time Behaviour of Computing Systems.,George Leih,Lleida,edition 2020 MAXsat conference,61483532,51902203,43,19
-54,Nathan Goodman,MAXsat conference,2019,"M-Nets: An Algebra of High-Level Petri Nets, with an Application to the Semantics of Concurrent Programming Languages.",Karl Meinke,Barcelona,edition 2019 MAXsat conference,166988182,63425111,60,14
-55,Oded Shmueli,MAXsat conference,2019,"M-Nets: An Algebra of High-Level Petri Nets, with an Application to the Semantics of Concurrent Programming Languages.",Karl Meinke,Barcelona,edition 2019 MAXsat conference,166988182,96708194,81,14
-56,Juha Honkala,MAXsat conference,2015,On the Look-Ahead Problem in Lexical Analysis.,Walter J. Savitch,London,edition 2015 MAXsat conference,175538490,63860055,87,4
-57,Norbert Blum,UDL conference,2016,A theory of formal synthesis via inductive learning.,George Leih,Balaguer,edition 2016 UDL conference,156478195,51902203,43,6
-58,Arnold Schönhage,UDL conference,2015,The maximum gain of increasing the number of preemptions in multiprocessor scheduling.,George Leih,London,edition 2015 UDL conference,91693340,73932582,39,10
-59,Hans Ulrich Simon,MAXsat conference,2018,Data Encodings and Their Costs.,George Leih,Madrid,edition 2018 MAXsat conference,143268733,53552509,36,7
-60,Arnold Schönhage,UDL conference,2021,Hierarchies of Complete Problems.,Karl Meinke,London,edition 2021 UDL conference,190863493,73932582,39,15
-61,Nathan Goodman,MAXsat conference,2019,Ein Vollständigkeitssatz für Programme und Schaltkreise.,Karl Meinke,Balaguer,edition 2019 MAXsat conference,77311745,63425111,60,11
-62,Oded Shmueli,MAXsat conference,2019,Ein Vollständigkeitssatz für Programme und Schaltkreise.,Karl Meinke,Balaguer,edition 2019 MAXsat conference,77311745,96708194,81,11
-63,Sanjeev Saxena,UDL conference,2019,Type-based information flow analysis for the pi-calculus.,Karl Meinke,Balaguer,edition 2019 UDL conference,126646820,71976226,63,15
-64,Sanjeev Saxena,UDL conference,2018,Sur une Conjecture de S. Greibach.,Delphine Longuet,London,edition 2018 UDL conference,115232528,71976226,63,20
-65,Sanjeev Saxena,UDL conference,2021,A Conservation Law for G/G/m Queueing Systems.,Karl Meinke,Madrid,edition 2021 UDL conference,66316338,71976226,63,16
-66,Nathan Goodman,UDL conference,2015,Applications of Efficient Mergeable Heaps for Optimization Problems on Trees.,George Leih,London,edition 2015 UDL conference,82186905,63425111,60,12
-67,Oded Shmueli,UDL conference,2015,Applications of Efficient Mergeable Heaps for Optimization Problems on Trees.,George Leih,London,edition 2015 UDL conference,82186905,96708194,81,12
-68,Hans Ulrich Simon,MAXsat conference,2015,Context-Free Graph Grammars and Concatenation of Graphs.,Delphine Longuet,Barcelona,edition 2015 MAXsat conference,147900130,53552509,36,15
-69,Juha Honkala,UDL conference,2021,On a Class of Recursive Procedures and Equivalent Iterative Ones.,George Leih,Lleida,edition 2021 UDL conference,131712514,63860055,87,9
-70,Norbert Blum,MAXsat conference,2017,Algorithms for Fast Evaluation of Boolean Expressions.,George Leih,Madrid,edition 2017 MAXsat conference,138535399,51902203,43,19
-71,Juha Honkala,UDL conference,2018,A general account of coinduction up-to.,George Leih,Balaguer,edition 2018 UDL conference,76476141,63860055,87,11
-72,Hans Ulrich Simon,UDL conference,2017,A Comparison of Two Synchronizing Concepts.,Walter J. Savitch,Barcelona,edition 2017 UDL conference,114338948,53552509,36,6
-73,Sanjeev Saxena,MAXsat conference,2015,How to Calculate Symmetries of Petri Nets.,Walter J. Savitch,London,edition 2015 MAXsat conference,141843546,71976226,63,5
-74,Hans Ulrich Simon,UDL conference,2019,"Nonterminals, Homomorphisms and Codings in Different Variations of OL-Systems. I. Deterministic Systems.",Karl Meinke,Madrid,edition 2019 UDL conference,133936945,53552509,36,18
-75,Hans Ulrich Simon,UDL conference,2019,Recognizability of graph and pattern languages.,Karl Meinke,Balaguer,edition 2019 UDL conference,99081773,53552509,36,14
-76,Nathan Goodman,MAXsat conference,2021,The Synthesis Problem of Petri Nets.,Karl Meinke,London,edition 2021 MAXsat conference,130345677,63425111,60,14
-77,Oded Shmueli,MAXsat conference,2021,The Synthesis Problem of Petri Nets.,Karl Meinke,London,edition 2021 MAXsat conference,130345677,96708194,81,14
-78,Arnold Schönhage,UDL conference,2018,A Binary Operation on Trees and an Initial Algebra Characterization for Finite Tree Types.,Walter J. Savitch,Barcelona,edition 2018 UDL conference,63002621,73932582,39,9
-79,Nathan Goodman,UDL conference,2019,On weighted first-order logics with discounting.,Delphine Longuet,Barcelona,edition 2019 UDL conference,132035685,63425111,60,6
-80,Oded Shmueli,UDL conference,2019,On weighted first-order logics with discounting.,Delphine Longuet,Barcelona,edition 2019 UDL conference,132035685,96708194,81,6
-81,Hans Ulrich Simon,UDL conference,2017,A Characterization of Context-free String Languages by Directed Node-label Controlled Graph Grammars.,Karl Meinke,Balaguer,edition 2017 UDL conference,188532049,53552509,36,8
-82,Nathan Goodman,UDL conference,2016,"Demonic, angelic and unbounded probabilistic choices in sequential programs.",Delphine Longuet,London,edition 2016 UDL conference,165622380,63425111,60,13
-83,Oded Shmueli,UDL conference,2016,"Demonic, angelic and unbounded probabilistic choices in sequential programs.",Delphine Longuet,London,edition 2016 UDL conference,165622380,96708194,81,13
-84,Sanjeev Saxena,UDL conference,2019,An Efficiency Preorder for Processes.,George Leih,Balaguer,edition 2019 UDL conference,55708018,71976226,63,11
-85,Arnold Schönhage,UDL conference,2015,On the Generalization of Higman and Kruskal's Theorems to Regular Languages and Rational Trees.,Delphine Longuet,London,edition 2015 UDL conference,73785264,73932582,39,8
-86,Sanjeev Saxena,UDL conference,2017,Modeling Splits in File Structures.,Karl Meinke,London,edition 2017 UDL conference,131622367,71976226,63,13
-87,Nathan Goodman,MAXsat conference,2021,Languages Accepted by Systolic Y-Tree Automata: Structural Characterizations.,Karl Meinke,Madrid,edition 2021 MAXsat conference,83031229,63425111,60,4
-88,Oded Shmueli,MAXsat conference,2021,Languages Accepted by Systolic Y-Tree Automata: Structural Characterizations.,Karl Meinke,Madrid,edition 2021 MAXsat conference,83031229,96708194,81,4
-89,Nathan Goodman,MAXsat conference,2020,Synchronized regular expressions.,George Leih,London,edition 2020 MAXsat conference,100926439,63425111,60,16
-90,Oded Shmueli,MAXsat conference,2020,Synchronized regular expressions.,George Leih,London,edition 2020 MAXsat conference,100926439,96708194,81,16
-91,Norbert Blum,UDL conference,2019,On regular tree languages and deterministic pushdown automata.,Walter J. Savitch,Madrid,edition 2019 UDL conference,186353134,51902203,43,19
-92,Arnold Schönhage,MAXsat conference,2020,A Modal Logic for Message Passing Processes.,Walter J. Savitch,Lleida,edition 2020 MAXsat conference,103832835,73932582,39,7
-93,Norbert Blum,MAXsat conference,2021,Maintaining Range Trees in Secondary Memory. Part I: Partitions.,Karl Meinke,Madrid,edition 2021 MAXsat conference,84100008,51902203,43,12
-94,Juha Honkala,MAXsat conference,2021,Does indirect addressing matter? - A note.,Walter J. Savitch,Lleida,edition 2021 MAXsat conference,192491085,63860055,87,11
-95,Hans Ulrich Simon,UDL conference,2017,Reasoning Algebraically about Loops.,George Leih,Madrid,edition 2017 UDL conference,61830369,53552509,36,7
-96,Juha Honkala,MAXsat conference,2021,A Model of a Time Sharing Virtual Memory System Solved Using Equivalence and Decomposition Methods.,Delphine Longuet,Balaguer,edition 2021 MAXsat conference,90791709,63860055,87,15
-97,Norbert Blum,UDL conference,2019,Trace Nets and Process Automata.,Karl Meinke,Balaguer,edition 2019 UDL conference,81436138,51902203,43,8
-98,Arnold Schönhage,UDL conference,2019,Metric propositional neighborhood logic with an equivalence relation.,George Leih,Balaguer,edition 2019 UDL conference,93170153,73932582,39,8
-99,Sanjeev Saxena,UDL conference,2016,A Principle of Independence for Binary Tree Searching.,Delphine Longuet,London,edition 2016 UDL conference,192619304,71976226,63,8
-100,Nathan Goodman,UDL conference,2021,Optimal Divide-and-Conquer to Compute Measure and Contour for a Set of Iso-Rectangles.,Delphine Longuet,London,edition 2021 UDL conference,157297783,63425111,60,15
-101,Oded Shmueli,UDL conference,2021,Optimal Divide-and-Conquer to Compute Measure and Contour for a Set of Iso-Rectangles.,Delphine Longuet,London,edition 2021 UDL conference,157297783,96708194,81,15
-102,Sanjeev Saxena,UDL conference,2021,The Paging Drum Queue: A Uniform Perspective and Further Results.,Karl Meinke,Balaguer,edition 2021 UDL conference,76557183,71976226,63,8
-103,Hans Ulrich Simon,MAXsat conference,2017,The Undecidability of the Unification and Matching Problem for Canonical Theories.,George Leih,Lleida,edition 2017 MAXsat conference,91550048,53552509,36,9
-104,Nathan Goodman,UDL conference,2019,The Programming Language Pascal.,Delphine Longuet,Lleida,edition 2019 UDL conference,196733308,63425111,60,14
-105,Oded Shmueli,UDL conference,2019,The Programming Language Pascal.,Delphine Longuet,Lleida,edition 2019 UDL conference,196733308,96708194,81,14
-106,Hans Ulrich Simon,MAXsat conference,2017,"Semantics, calculi, and analysis for object-oriented specifications.",Walter J. Savitch,London,edition 2017 MAXsat conference,106971525,53552509,36,17
-107,Juha Honkala,MAXsat conference,2016,Inhibitionsfelder.,George Leih,Madrid,edition 2016 MAXsat conference,194457803,63860055,87,7
-108,Juha Honkala,MAXsat conference,2016,Head and state hierarchies for unary multi-head finite automata.,Delphine Longuet,Balaguer,edition 2016 MAXsat conference,188248059,63860055,87,20
-109,Nathan Goodman,UDL conference,2020,On the Number of Active-Operations Needed to Compute the Discrete Fourier Transform.,Delphine Longuet,Barcelona,edition 2020 UDL conference,104005013,63425111,60,11
-110,Oded Shmueli,UDL conference,2020,On the Number of Active-Operations Needed to Compute the Discrete Fourier Transform.,Delphine Longuet,Barcelona,edition 2020 UDL conference,104005013,96708194,81,11
-111,Hans Ulrich Simon,MAXsat conference,2021,The stuttering principle revisited.,Walter J. Savitch,Lleida,edition 2021 MAXsat conference,50939340,53552509,36,8
-112,Sanjeev Saxena,UDL conference,2018,Redundant Proofs of Non-Interference in Levin-Gries CSP Program Proofs.,Delphine Longuet,Barcelona,edition 2018 UDL conference,92221938,71976226,63,8
-113,Arnold Schönhage,MAXsat conference,2019,Lazy Structure Sharing for Query Optimization.,Delphine Longuet,Barcelona,edition 2019 MAXsat conference,154775413,73932582,39,6
-114,Hans Ulrich Simon,MAXsat conference,2017,Fair ambients.,Delphine Longuet,Lleida,edition 2017 MAXsat conference,72789679,53552509,36,4
-115,Arnold Schönhage,UDL conference,2021,Concurrent Access to Data.,Walter J. Savitch,Lleida,edition 2021 UDL conference,128428512,73932582,39,9
-116,Arnold Schönhage,MAXsat conference,2018,Relaxed red-black trees with group updates.,Walter J. Savitch,Madrid,edition 2018 MAXsat conference,93444977,73932582,39,5
-117,Arnold Schönhage,MAXsat conference,2015,Generation of Efficient ,George Leih,Barcelona,edition 2015 MAXsat conference,155899680,73932582,39,4
-118,Nathan Goodman,MAXsat conference,2020,A Markovian queue with varying number of servers and applications to the performance comparison of HSDPA user equipment.,Delphine Longuet,Barcelona,edition 2020 MAXsat conference,185646161,63425111,60,7
-119,Oded Shmueli,MAXsat conference,2020,A Markovian queue with varying number of servers and applications to the performance comparison of HSDPA user equipment.,Delphine Longuet,Barcelona,edition 2020 MAXsat conference,185646161,96708194,81,7
-120,Nathan Goodman,UDL conference,2020,Priority Conflict-Free Petri Nets.,Delphine Longuet,London,edition 2020 UDL conference,70429486,63425111,60,14
-121,Oded Shmueli,UDL conference,2020,Priority Conflict-Free Petri Nets.,Delphine Longuet,London,edition 2020 UDL conference,70429486,96708194,81,14
-122,Juha Honkala,UDL conference,2019,Optimum Multiway Search Trees.,Karl Meinke,Balaguer,edition 2019 UDL conference,106163034,63860055,87,16
-123,Norbert Blum,UDL conference,2020,Characterization of all Optimal Networks for a Simultaneous Computation of AND and NOR.,George Leih,London,edition 2020 UDL conference,188407754,51902203,43,10
-124,Nathan Goodman,MAXsat conference,2015,Parallel Integer Sorting Using Small Operations.,Delphine Longuet,London,edition 2015 MAXsat conference,196667677,63425111,60,16
-125,Oded Shmueli,MAXsat conference,2015,Parallel Integer Sorting Using Small Operations.,Delphine Longuet,London,edition 2015 MAXsat conference,196667677,96708194,81,16
-126,Norbert Blum,MAXsat conference,2021,Stochastic cooperative distributed grammar systems and random graphs.,Walter J. Savitch,Lleida,edition 2021 MAXsat conference,85217182,51902203,43,13
-127,Arnold Schönhage,UDL conference,2017,Performance Evaluation of Fork and Join Synchronization Primitives.,Delphine Longuet,Madrid,edition 2017 UDL conference,145252466,73932582,39,6
-128,Juha Honkala,MAXsat conference,2017,Some properties of the disjunctive languages contained in ,George Leih,Barcelona,edition 2017 MAXsat conference,80007338,63860055,87,4
-129,Hans Ulrich Simon,UDL conference,2020,Systolic Automata for VLSI on Balanced Trees.,George Leih,Lleida,edition 2020 UDL conference,50206640,53552509,36,20
-130,Norbert Blum,MAXsat conference,2019,A new natural structural congruence in the pi-calculus with replication.,Karl Meinke,Barcelona,edition 2019 MAXsat conference,65301959,51902203,43,9
-131,Hans Ulrich Simon,MAXsat conference,2021,Optimal Multiprogramming.,Walter J. Savitch,Madrid,edition 2021 MAXsat conference,171217089,53552509,36,14
-132,Sanjeev Saxena,UDL conference,2018,Classes of Systolic Y-Tree Automata and a Comparison with Systolic Trellis Automata.,Walter J. Savitch,Lleida,edition 2018 UDL conference,165585168,71976226,63,14
-133,Sanjeev Saxena,UDL conference,2016,On Real-Time Cellular Automata and Trellis Automata.,Karl Meinke,London,edition 2016 UDL conference,161489629,71976226,63,10
-134,Nathan Goodman,MAXsat conference,2017,Transformational Design of Real-Time Systems Part I: From Requirements to Program Specifications.,George Leih,London,edition 2017 MAXsat conference,90666800,63425111,60,13
-135,Oded Shmueli,MAXsat conference,2017,Transformational Design of Real-Time Systems Part I: From Requirements to Program Specifications.,George Leih,London,edition 2017 MAXsat conference,90666800,96708194,81,13
-136,Hans Ulrich Simon,UDL conference,2021,Performance Preorder and Competitive Equivalence.,Walter J. Savitch,Madrid,edition 2021 UDL conference,130080914,53552509,36,17
-137,Juha Honkala,UDL conference,2019,A Survey of Normal Form Covers for Context Free Grammars.,Walter J. Savitch,Barcelona,edition 2019 UDL conference,110870106,63860055,87,19
-138,Norbert Blum,MAXsat conference,2021,A Note on Synthesis and Classification of Sorting Algorithms.,Karl Meinke,Lleida,edition 2021 MAXsat conference,189600046,51902203,43,15
-139,Juha Honkala,UDL conference,2021,Liveness of a mutex algorithm in a fair process algebra.,George Leih,Balaguer,edition 2021 UDL conference,114276055,63860055,87,17
-140,Norbert Blum,UDL conference,2015,"Another Look at the ""Longest Ascending Subsequence"" Problem.",Karl Meinke,Balaguer,edition 2015 UDL conference,177050561,51902203,43,20
-141,Hans Ulrich Simon,UDL conference,2016,Complexity Theory and the Operational Structure of Algebraic Programming Systems.,George Leih,Madrid,edition 2016 UDL conference,75768345,53552509,36,10
-142,Arnold Schönhage,UDL conference,2016,Models for Reactivity.,Walter J. Savitch,Madrid,edition 2016 UDL conference,132402037,73932582,39,8
-143,Juha Honkala,UDL conference,2019,"Axioms for Generalized Graphs, Illustrated by a Cantor-Bernstein Proposition.",Walter J. Savitch,Barcelona,edition 2019 UDL conference,139198881,63860055,87,6
-144,Juha Honkala,MAXsat conference,2015,A Proof System for Distributed Processes.,Delphine Longuet,Lleida,edition 2015 MAXsat conference,171389580,63860055,87,4
-145,Arnold Schönhage,UDL conference,2018,Finite State Relational Programs.,George Leih,Barcelona,edition 2018 UDL conference,111973056,73932582,39,6
-146,Sanjeev Saxena,MAXsat conference,2016,A Gap Between the Actual Complexity of Permutations and Their Entropy Defined by Stoß.,George Leih,Lleida,edition 2016 MAXsat conference,141858106,71976226,63,13
-147,Juha Honkala,UDL conference,2015,MAT learners for tree series: an abstract data type and two realizations.,Delphine Longuet,London,edition 2015 UDL conference,188628364,63860055,87,12
-148,Nathan Goodman,UDL conference,2015,Exponentially decreasing number of operations in balanced trees.,Delphine Longuet,Lleida,edition 2015 UDL conference,192632690,63425111,60,10
-149,Oded Shmueli,UDL conference,2015,Exponentially decreasing number of operations in balanced trees.,Delphine Longuet,Lleida,edition 2015 UDL conference,192632690,96708194,81,10
-150,Norbert Blum,MAXsat conference,2020,Correctness of the Compiling Process Based on Axiomatic Semantics.,Karl Meinke,Barcelona,edition 2020 MAXsat conference,101763102,51902203,43,5
-151,Hans Ulrich Simon,MAXsat conference,2018,Paramodulated Connection Graphs.,Walter J. Savitch,Balaguer,edition 2018 MAXsat conference,111176265,53552509,36,16
-152,Norbert Blum,UDL conference,2019,The Lattice of Data Refinement.,Delphine Longuet,Barcelona,edition 2019 UDL conference,145800794,51902203,43,6
-153,Juha Honkala,MAXsat conference,2017,Backtracking in Recursive Computations.,Walter J. Savitch,Lleida,edition 2017 MAXsat conference,105619679,63860055,87,5
-154,Norbert Blum,MAXsat conference,2019,A first step in characterizing three-element codes.,Walter J. Savitch,Barcelona,edition 2019 MAXsat conference,97536816,51902203,43,15
-155,Norbert Blum,UDL conference,2016,Efficient LL(1) Error Correction and Recovery Using Only Insertions.,Karl Meinke,Madrid,edition 2016 UDL conference,196257311,51902203,43,11
-156,Norbert Blum,MAXsat conference,2018,Formal Derivation of Strongly Correct Concurrent Programs.,Karl Meinke,Balaguer,edition 2018 MAXsat conference,77273145,51902203,43,13
+,Author,Conference,Year,Paper,Editor,City,Edition,Isbn,Dni,Age,Pages,EditorDni,EditorAge
+0,Hans Ulrich Simon,MAXsat conference,2015,Multi-Granularity Locking for Nested Transactions: A Proof Using a Possibilities Mapping.,Karl Meinke,London,edition 2015 MAXsat conference,57587508,66443876,74,7,93756049,51
+1,Norbert Blum,UDL conference,2016,Bounded Quantification and Relations Recognizable by Finite Automata.,Delphine Longuet,Barcelona,edition 2016 UDL conference,87852432,69169521,21,20,51825522,29
+2,Norbert Blum,UDL conference,2021,A Complete Algebraic Characterization of Behavioral Subtyping.,Walter J. Savitch,Barcelona,edition 2021 UDL conference,151999628,69169521,21,17,62597745,78
+3,Nathan Goodman,MAXsat conference,2021,Efficient execution of dynamically controllable simple temporal networks with uncertainty.,Walter J. Savitch,Balaguer,edition 2021 MAXsat conference,144093369,68918315,65,4,62597745,78
+4,Oded Shmueli,MAXsat conference,2021,Efficient execution of dynamically controllable simple temporal networks with uncertainty.,Walter J. Savitch,Balaguer,edition 2021 MAXsat conference,144093369,54499542,38,4,62597745,78
+5,Sanjeev Saxena,MAXsat conference,2016,Minimum Feedback Vertex Sets in Cocomparability Graphs and Convex Bipartite Graphs.,Walter J. Savitch,Barcelona,edition 2016 MAXsat conference,72533718,74050536,86,5,62597745,78
+6,Juha Honkala,MAXsat conference,2021,Behavioural Approaches to Algebraic Specifications: A Comparative Study.,Karl Meinke,Madrid,edition 2021 MAXsat conference,52661209,71311097,72,10,93756049,51
+7,Norbert Blum,UDL conference,2015,Instruction sequence processing operators.,Delphine Longuet,Barcelona,edition 2015 UDL conference,51093751,69169521,21,7,51825522,29
+8,Norbert Blum,MAXsat conference,2021,What is Failure? An Approach to Constructive Negation.,George Leih,Balaguer,edition 2021 MAXsat conference,161588771,69169521,21,12,83213016,34
+9,Juha Honkala,UDL conference,2016,STG decomposition strategies in combination with unfolding.,Delphine Longuet,London,edition 2016 UDL conference,106302334,71311097,72,7,51825522,29
+10,Juha Honkala,UDL conference,2020,Quad Trees: A Data Structure for Retrieval on Composite Keys.,Delphine Longuet,Balaguer,edition 2020 UDL conference,166000815,71311097,72,11,51825522,29
+11,Hans Ulrich Simon,UDL conference,2019,On the Number of Relational Operators Necessary to Compute Certain Functions of Real Variables.,George Leih,Balaguer,edition 2019 UDL conference,98331187,66443876,74,8,83213016,34
+12,Hans Ulrich Simon,UDL conference,2018,A Study of Queueing Networks with Deterministic Service and Application to Computer Networks.,Delphine Longuet,Barcelona,edition 2018 UDL conference,148662555,66443876,74,9,51825522,29
+13,Norbert Blum,UDL conference,2015,Probabilistic bisimulation for realistic schedulers.,Karl Meinke,Madrid,edition 2015 UDL conference,147807748,69169521,21,5,93756049,51
+14,Nathan Goodman,UDL conference,2021,Explaining the Wheel Sieve.,Karl Meinke,Lleida,edition 2021 UDL conference,154104302,68918315,65,15,93756049,51
+15,Oded Shmueli,UDL conference,2021,Explaining the Wheel Sieve.,Karl Meinke,Lleida,edition 2021 UDL conference,154104302,54499542,38,15,93756049,51
+16,Hans Ulrich Simon,MAXsat conference,2017,Another Polynomial Homomorphism.,Karl Meinke,Lleida,edition 2017 MAXsat conference,119643512,66443876,74,10,93756049,51
+17,Sanjeev Saxena,MAXsat conference,2017,Variance Reduction Techniques for the Simulation of Markov Process.,Karl Meinke,Balaguer,edition 2017 MAXsat conference,54111543,74050536,86,14,93756049,51
+18,Hans Ulrich Simon,MAXsat conference,2020,State complexity of deletion and bipolar deletion.,Walter J. Savitch,London,edition 2020 MAXsat conference,129968867,66443876,74,6,62597745,78
+19,Juha Honkala,UDL conference,2015,Decomposition of Graphs and Monotone Formula Size of Homogeneous Functions.,Delphine Longuet,Barcelona,edition 2015 UDL conference,93967086,71311097,72,8,51825522,29
+20,Nathan Goodman,UDL conference,2017,Symbolic checking of Fuzzy CTL on Fuzzy Program Graph.,George Leih,Balaguer,edition 2017 UDL conference,166752370,68918315,65,10,83213016,34
+21,Oded Shmueli,UDL conference,2017,Symbolic checking of Fuzzy CTL on Fuzzy Program Graph.,George Leih,Balaguer,edition 2017 UDL conference,166752370,54499542,38,10,83213016,34
+22,Nathan Goodman,MAXsat conference,2021,Regular and context-free nominal traces.,Karl Meinke,Madrid,edition 2021 MAXsat conference,135935738,68918315,65,14,93756049,51
+23,Oded Shmueli,MAXsat conference,2021,Regular and context-free nominal traces.,Karl Meinke,Madrid,edition 2021 MAXsat conference,135935738,54499542,38,14,93756049,51
+24,Hans Ulrich Simon,UDL conference,2016,Deterministic pushdown-CD-systems of stateless deterministic R(1)-automata.,Delphine Longuet,Lleida,edition 2016 UDL conference,91020831,66443876,74,15,51825522,29
+25,Sanjeev Saxena,UDL conference,2018,Special issue: Synthesis and SYNT 2014.,Walter J. Savitch,Barcelona,edition 2018 UDL conference,143133039,74050536,86,8,62597745,78
+26,Arnold Schönhage,MAXsat conference,2017,On the Synchronization in Parallel Communicating Grammar Systems.,George Leih,London,edition 2017 MAXsat conference,68240697,87816070,41,16,83213016,34
+27,Norbert Blum,UDL conference,2016,Weakly Context-Sensitive Languages as Model for Programming Languages.,George Leih,Barcelona,edition 2016 UDL conference,195366568,69169521,21,16,83213016,34
+28,Juha Honkala,MAXsat conference,2021,Rules of Inference for Procedure Calls.,Karl Meinke,Madrid,edition 2021 MAXsat conference,160738288,71311097,72,11,93756049,51
+29,Hans Ulrich Simon,UDL conference,2019,The Construction of Operator Interfaces Based on Logical Input Devices.,George Leih,London,edition 2019 UDL conference,89039126,66443876,74,12,83213016,34
+30,Arnold Schönhage,UDL conference,2021,High Level Tree Transducers and Iterated Pushdown Tree Transducers.,Karl Meinke,Lleida,edition 2021 UDL conference,179064812,87816070,41,5,93756049,51
+31,Arnold Schönhage,UDL conference,2020,Gobang ist PSPACE-vollständig.,George Leih,Balaguer,edition 2020 UDL conference,108580232,87816070,41,6,83213016,34
+32,Sanjeev Saxena,UDL conference,2020,A note on autodense related languages.,Delphine Longuet,Madrid,edition 2020 UDL conference,116367583,74050536,86,13,51825522,29
+33,Nathan Goodman,MAXsat conference,2016,Solving HPP and SAT by P Systems with Active Membranes and Separation Rules.,George Leih,Lleida,edition 2016 MAXsat conference,111358591,68918315,65,8,83213016,34
+34,Oded Shmueli,MAXsat conference,2016,Solving HPP and SAT by P Systems with Active Membranes and Separation Rules.,George Leih,Lleida,edition 2016 MAXsat conference,111358591,54499542,38,8,83213016,34
+35,Sanjeev Saxena,MAXsat conference,2018,Optimizing the Costs of Hierarchical Quorum Consensus.,Walter J. Savitch,London,edition 2018 MAXsat conference,142837304,74050536,86,18,62597745,78
+36,Juha Honkala,MAXsat conference,2018,Recursive Petri nets.,George Leih,Lleida,edition 2018 MAXsat conference,85798904,71311097,72,19,83213016,34
+37,Arnold Schönhage,MAXsat conference,2020,Multitype Multiprogramming Models.,Walter J. Savitch,London,edition 2020 MAXsat conference,131020600,87816070,41,18,62597745,78
+38,Nathan Goodman,UDL conference,2018,Automatic Correction of Syntax-Errors in Programming Languages.,Walter J. Savitch,Lleida,edition 2018 UDL conference,126713286,68918315,65,12,62597745,78
+39,Oded Shmueli,UDL conference,2018,Automatic Correction of Syntax-Errors in Programming Languages.,Walter J. Savitch,Lleida,edition 2018 UDL conference,126713286,54499542,38,12,62597745,78
+40,Sanjeev Saxena,UDL conference,2017,Representation and uniformization of algebraic transductions.,George Leih,Lleida,edition 2017 UDL conference,89845683,74050536,86,18,83213016,34
+41,Norbert Blum,UDL conference,2018,Concurrent Bisimulations in Petri Nets.,Karl Meinke,Balaguer,edition 2018 UDL conference,186493383,69169521,21,6,93756049,51
+42,Juha Honkala,MAXsat conference,2015,Enhanced prefetching and caching strategies for single- and multi-disk systems.,Karl Meinke,Barcelona,edition 2015 MAXsat conference,168200227,71311097,72,6,93756049,51
+43,Arnold Schönhage,MAXsat conference,2019,Recording the Use of Memory in Right-Boundary Grammars and Push-Down Automata.,Walter J. Savitch,London,edition 2019 MAXsat conference,127249933,87816070,41,11,62597745,78
+44,Hans Ulrich Simon,MAXsat conference,2015,State space axioms for T-systems.,Karl Meinke,Barcelona,edition 2015 MAXsat conference,58340573,66443876,74,9,93756049,51
+45,Nathan Goodman,UDL conference,2021,Extended multi bottom-up tree transducers.,Karl Meinke,Balaguer,edition 2021 UDL conference,172315558,68918315,65,9,93756049,51
+46,Oded Shmueli,UDL conference,2021,Extended multi bottom-up tree transducers.,Karl Meinke,Balaguer,edition 2021 UDL conference,172315558,54499542,38,9,93756049,51
+47,Juha Honkala,MAXsat conference,2015,The Clean Termination of Iterative Programs.,Delphine Longuet,London,edition 2015 MAXsat conference,154189443,71311097,72,16,51825522,29
+48,Arnold Schönhage,UDL conference,2017,Infinite Proof Rules for Loops.,Karl Meinke,Lleida,edition 2017 UDL conference,103558525,87816070,41,15,93756049,51
+49,Arnold Schönhage,MAXsat conference,2020,Nonfinite Axiomatizability of the Equational Theory of Shuffle.,Delphine Longuet,Balaguer,edition 2020 MAXsat conference,107572098,87816070,41,8,51825522,29
+50,Norbert Blum,MAXsat conference,2015,"Running a job on a collection of partly available machines, with on-line restarts.",George Leih,Barcelona,edition 2015 MAXsat conference,149576314,69169521,21,20,83213016,34
+51,Hans Ulrich Simon,MAXsat conference,2016,Data Refinement by Calculation.,George Leih,Madrid,edition 2016 MAXsat conference,96183815,66443876,74,5,83213016,34
+52,Nathan Goodman,UDL conference,2016,Program Refinement in Fair Transition Systems.,Delphine Longuet,Balaguer,edition 2016 UDL conference,136879349,68918315,65,8,51825522,29
+53,Oded Shmueli,UDL conference,2016,Program Refinement in Fair Transition Systems.,Delphine Longuet,Balaguer,edition 2016 UDL conference,136879349,54499542,38,8,51825522,29
+54,Norbert Blum,UDL conference,2018,A Functional Model for Describing and Reasoning About Time Behaviour of Computing Systems.,Karl Meinke,Madrid,edition 2018 UDL conference,144811525,69169521,21,10,93756049,51
+55,Arnold Schönhage,UDL conference,2021,"M-Nets: An Algebra of High-Level Petri Nets, with an Application to the Semantics of Concurrent Programming Languages.",Delphine Longuet,London,edition 2021 UDL conference,54729487,87816070,41,13,51825522,29
+56,Norbert Blum,UDL conference,2015,On the Look-Ahead Problem in Lexical Analysis.,Walter J. Savitch,Barcelona,edition 2015 UDL conference,91242024,69169521,21,9,62597745,78
+57,Arnold Schönhage,UDL conference,2018,A theory of formal synthesis via inductive learning.,Karl Meinke,Barcelona,edition 2018 UDL conference,119530169,87816070,41,14,93756049,51
+58,Norbert Blum,UDL conference,2017,The maximum gain of increasing the number of preemptions in multiprocessor scheduling.,Walter J. Savitch,Balaguer,edition 2017 UDL conference,48329483,69169521,21,4,62597745,78
+59,Juha Honkala,MAXsat conference,2019,Data Encodings and Their Costs.,George Leih,Madrid,edition 2019 MAXsat conference,70376884,71311097,72,13,83213016,34
+60,Arnold Schönhage,UDL conference,2020,Hierarchies of Complete Problems.,Karl Meinke,Barcelona,edition 2020 UDL conference,113721699,87816070,41,18,93756049,51
+61,Nathan Goodman,MAXsat conference,2019,Ein Vollständigkeitssatz für Programme und Schaltkreise.,Karl Meinke,Balaguer,edition 2019 MAXsat conference,144406997,68918315,65,20,93756049,51
+62,Oded Shmueli,MAXsat conference,2019,Ein Vollständigkeitssatz für Programme und Schaltkreise.,Karl Meinke,Balaguer,edition 2019 MAXsat conference,144406997,54499542,38,20,93756049,51
+63,Norbert Blum,MAXsat conference,2016,Type-based information flow analysis for the pi-calculus.,Walter J. Savitch,Barcelona,edition 2016 MAXsat conference,144944559,69169521,21,18,62597745,78
+64,Sanjeev Saxena,UDL conference,2020,Sur une Conjecture de S. Greibach.,Delphine Longuet,Barcelona,edition 2020 UDL conference,109991784,74050536,86,5,51825522,29
+65,Nathan Goodman,UDL conference,2018,A Conservation Law for G/G/m Queueing Systems.,George Leih,London,edition 2018 UDL conference,144166811,68918315,65,11,83213016,34
+66,Oded Shmueli,UDL conference,2018,A Conservation Law for G/G/m Queueing Systems.,George Leih,London,edition 2018 UDL conference,144166811,54499542,38,11,83213016,34
+67,Nathan Goodman,UDL conference,2016,Applications of Efficient Mergeable Heaps for Optimization Problems on Trees.,Walter J. Savitch,Balaguer,edition 2016 UDL conference,89237695,68918315,65,8,62597745,78
+68,Oded Shmueli,UDL conference,2016,Applications of Efficient Mergeable Heaps for Optimization Problems on Trees.,Walter J. Savitch,Balaguer,edition 2016 UDL conference,89237695,54499542,38,8,62597745,78
+69,Hans Ulrich Simon,UDL conference,2017,Context-Free Graph Grammars and Concatenation of Graphs.,Delphine Longuet,Balaguer,edition 2017 UDL conference,83871484,66443876,74,16,51825522,29
+70,Arnold Schönhage,UDL conference,2019,On a Class of Recursive Procedures and Equivalent Iterative Ones.,Delphine Longuet,London,edition 2019 UDL conference,94741730,87816070,41,12,51825522,29
+71,Nathan Goodman,MAXsat conference,2019,Algorithms for Fast Evaluation of Boolean Expressions.,Delphine Longuet,Balaguer,edition 2019 MAXsat conference,149922080,68918315,65,7,51825522,29
+72,Oded Shmueli,MAXsat conference,2019,Algorithms for Fast Evaluation of Boolean Expressions.,Delphine Longuet,Balaguer,edition 2019 MAXsat conference,149922080,54499542,38,7,51825522,29
+73,Sanjeev Saxena,MAXsat conference,2019,A general account of coinduction up-to.,George Leih,Barcelona,edition 2019 MAXsat conference,134526238,74050536,86,7,83213016,34
+74,Nathan Goodman,MAXsat conference,2021,A Comparison of Two Synchronizing Concepts.,Karl Meinke,London,edition 2021 MAXsat conference,133950720,68918315,65,10,93756049,51
+75,Oded Shmueli,MAXsat conference,2021,A Comparison of Two Synchronizing Concepts.,Karl Meinke,London,edition 2021 MAXsat conference,133950720,54499542,38,10,93756049,51
+76,Hans Ulrich Simon,MAXsat conference,2019,How to Calculate Symmetries of Petri Nets.,Delphine Longuet,London,edition 2019 MAXsat conference,107104140,66443876,74,5,51825522,29
+77,Arnold Schönhage,MAXsat conference,2017,"Nonterminals, Homomorphisms and Codings in Different Variations of OL-Systems. I. Deterministic Systems.",George Leih,Lleida,edition 2017 MAXsat conference,156330727,87816070,41,20,83213016,34
+78,Hans Ulrich Simon,UDL conference,2017,Recognizability of graph and pattern languages.,Walter J. Savitch,Madrid,edition 2017 UDL conference,146359807,66443876,74,14,62597745,78
+79,Juha Honkala,MAXsat conference,2019,The Synthesis Problem of Petri Nets.,Delphine Longuet,London,edition 2019 MAXsat conference,51759713,71311097,72,5,51825522,29
+80,Norbert Blum,MAXsat conference,2016,A Binary Operation on Trees and an Initial Algebra Characterization for Finite Tree Types.,Walter J. Savitch,London,edition 2016 MAXsat conference,92919105,69169521,21,16,62597745,78
+81,Nathan Goodman,MAXsat conference,2015,On weighted first-order logics with discounting.,Walter J. Savitch,Balaguer,edition 2015 MAXsat conference,107399826,68918315,65,17,62597745,78
+82,Oded Shmueli,MAXsat conference,2015,On weighted first-order logics with discounting.,Walter J. Savitch,Balaguer,edition 2015 MAXsat conference,107399826,54499542,38,17,62597745,78
+83,Sanjeev Saxena,MAXsat conference,2021,A Characterization of Context-free String Languages by Directed Node-label Controlled Graph Grammars.,Walter J. Savitch,Lleida,edition 2021 MAXsat conference,154703968,74050536,86,20,62597745,78
+84,Nathan Goodman,UDL conference,2016,"Demonic, angelic and unbounded probabilistic choices in sequential programs.",Delphine Longuet,Madrid,edition 2016 UDL conference,49724721,68918315,65,19,51825522,29
+85,Oded Shmueli,UDL conference,2016,"Demonic, angelic and unbounded probabilistic choices in sequential programs.",Delphine Longuet,Madrid,edition 2016 UDL conference,49724721,54499542,38,19,51825522,29
+86,Hans Ulrich Simon,UDL conference,2021,An Efficiency Preorder for Processes.,George Leih,Balaguer,edition 2021 UDL conference,60693750,66443876,74,10,83213016,34
+87,Arnold Schönhage,MAXsat conference,2017,On the Generalization of Higman and Kruskal's Theorems to Regular Languages and Rational Trees.,Walter J. Savitch,Lleida,edition 2017 MAXsat conference,181690515,87816070,41,5,62597745,78
+88,Arnold Schönhage,MAXsat conference,2020,Modeling Splits in File Structures.,George Leih,Madrid,edition 2020 MAXsat conference,163710598,87816070,41,17,83213016,34
+89,Juha Honkala,UDL conference,2015,Languages Accepted by Systolic Y-Tree Automata: Structural Characterizations.,Walter J. Savitch,Balaguer,edition 2015 UDL conference,117884684,71311097,72,14,62597745,78
+90,Norbert Blum,UDL conference,2019,Synchronized regular expressions.,Delphine Longuet,Madrid,edition 2019 UDL conference,138429783,69169521,21,7,51825522,29
+91,Norbert Blum,MAXsat conference,2020,On regular tree languages and deterministic pushdown automata.,George Leih,Lleida,edition 2020 MAXsat conference,73789324,69169521,21,13,83213016,34
+92,Juha Honkala,UDL conference,2020,A Modal Logic for Message Passing Processes.,Walter J. Savitch,London,edition 2020 UDL conference,116899370,71311097,72,20,62597745,78
+93,Arnold Schönhage,UDL conference,2020,Maintaining Range Trees in Secondary Memory. Part I: Partitions.,Walter J. Savitch,Madrid,edition 2020 UDL conference,111290429,87816070,41,19,62597745,78
+94,Arnold Schönhage,UDL conference,2018,Does indirect addressing matter? - A note.,George Leih,Lleida,edition 2018 UDL conference,102076910,87816070,41,20,83213016,34
+95,Norbert Blum,MAXsat conference,2018,Reasoning Algebraically about Loops.,Delphine Longuet,London,edition 2018 MAXsat conference,74824620,69169521,21,16,51825522,29
+96,Sanjeev Saxena,MAXsat conference,2015,A Model of a Time Sharing Virtual Memory System Solved Using Equivalence and Decomposition Methods.,Delphine Longuet,London,edition 2015 MAXsat conference,65641509,74050536,86,12,51825522,29
+97,Hans Ulrich Simon,MAXsat conference,2021,Trace Nets and Process Automata.,Delphine Longuet,Lleida,edition 2021 MAXsat conference,115523306,66443876,74,14,51825522,29
+98,Hans Ulrich Simon,UDL conference,2015,Metric propositional neighborhood logic with an equivalence relation.,Delphine Longuet,Barcelona,edition 2015 UDL conference,105667478,66443876,74,8,51825522,29
+99,Juha Honkala,MAXsat conference,2018,A Principle of Independence for Binary Tree Searching.,Walter J. Savitch,Balaguer,edition 2018 MAXsat conference,141902990,71311097,72,11,62597745,78
+100,Nathan Goodman,MAXsat conference,2019,Optimal Divide-and-Conquer to Compute Measure and Contour for a Set of Iso-Rectangles.,Delphine Longuet,Madrid,edition 2019 MAXsat conference,128318591,68918315,65,20,51825522,29
+101,Oded Shmueli,MAXsat conference,2019,Optimal Divide-and-Conquer to Compute Measure and Contour for a Set of Iso-Rectangles.,Delphine Longuet,Madrid,edition 2019 MAXsat conference,128318591,54499542,38,20,51825522,29
+102,Arnold Schönhage,MAXsat conference,2018,The Paging Drum Queue: A Uniform Perspective and Further Results.,Walter J. Savitch,Balaguer,edition 2018 MAXsat conference,178349240,87816070,41,8,62597745,78
+103,Hans Ulrich Simon,UDL conference,2017,The Undecidability of the Unification and Matching Problem for Canonical Theories.,George Leih,Barcelona,edition 2017 UDL conference,112967293,66443876,74,4,83213016,34
+104,Norbert Blum,UDL conference,2020,The Programming Language Pascal.,Walter J. Savitch,Madrid,edition 2020 UDL conference,99589826,69169521,21,19,62597745,78
+105,Hans Ulrich Simon,UDL conference,2016,"Semantics, calculi, and analysis for object-oriented specifications.",Delphine Longuet,Madrid,edition 2016 UDL conference,111747348,66443876,74,10,51825522,29
+106,Hans Ulrich Simon,UDL conference,2017,Inhibitionsfelder.,George Leih,Barcelona,edition 2017 UDL conference,178123063,66443876,74,4,83213016,34
+107,Norbert Blum,MAXsat conference,2015,Head and state hierarchies for unary multi-head finite automata.,Walter J. Savitch,London,edition 2015 MAXsat conference,144094814,69169521,21,15,62597745,78
+108,Sanjeev Saxena,MAXsat conference,2020,On the Number of Active-Operations Needed to Compute the Discrete Fourier Transform.,Walter J. Savitch,London,edition 2020 MAXsat conference,118613873,74050536,86,17,62597745,78
+109,Nathan Goodman,MAXsat conference,2021,The stuttering principle revisited.,Walter J. Savitch,Lleida,edition 2021 MAXsat conference,89933785,68918315,65,18,62597745,78
+110,Oded Shmueli,MAXsat conference,2021,The stuttering principle revisited.,Walter J. Savitch,Lleida,edition 2021 MAXsat conference,89933785,54499542,38,18,62597745,78
+111,Arnold Schönhage,MAXsat conference,2021,Redundant Proofs of Non-Interference in Levin-Gries CSP Program Proofs.,George Leih,Lleida,edition 2021 MAXsat conference,130431218,87816070,41,10,83213016,34
+112,Norbert Blum,MAXsat conference,2017,Lazy Structure Sharing for Query Optimization.,George Leih,Madrid,edition 2017 MAXsat conference,150452899,69169521,21,4,83213016,34
+113,Juha Honkala,UDL conference,2016,Fair ambients.,Delphine Longuet,Balaguer,edition 2016 UDL conference,184113201,71311097,72,19,51825522,29
+114,Nathan Goodman,MAXsat conference,2015,Concurrent Access to Data.,Walter J. Savitch,Balaguer,edition 2015 MAXsat conference,114110780,68918315,65,4,62597745,78
+115,Oded Shmueli,MAXsat conference,2015,Concurrent Access to Data.,Walter J. Savitch,Balaguer,edition 2015 MAXsat conference,114110780,54499542,38,4,62597745,78
+116,Nathan Goodman,UDL conference,2017,Relaxed red-black trees with group updates.,Karl Meinke,London,edition 2017 UDL conference,150506145,68918315,65,20,93756049,51
+117,Oded Shmueli,UDL conference,2017,Relaxed red-black trees with group updates.,Karl Meinke,London,edition 2017 UDL conference,150506145,54499542,38,20,93756049,51
+118,Juha Honkala,UDL conference,2019,Generation of Efficient ,Delphine Longuet,Lleida,edition 2019 UDL conference,150039281,71311097,72,7,51825522,29
+119,Sanjeev Saxena,UDL conference,2018,A Markovian queue with varying number of servers and applications to the performance comparison of HSDPA user equipment.,Walter J. Savitch,Barcelona,edition 2018 UDL conference,87412371,74050536,86,14,62597745,78
+120,Nathan Goodman,MAXsat conference,2015,Priority Conflict-Free Petri Nets.,Karl Meinke,Barcelona,edition 2015 MAXsat conference,69827167,68918315,65,18,93756049,51
+121,Oded Shmueli,MAXsat conference,2015,Priority Conflict-Free Petri Nets.,Karl Meinke,Barcelona,edition 2015 MAXsat conference,69827167,54499542,38,18,93756049,51
+122,Sanjeev Saxena,UDL conference,2016,Optimum Multiway Search Trees.,George Leih,Lleida,edition 2016 UDL conference,52957531,74050536,86,20,83213016,34
+123,Nathan Goodman,MAXsat conference,2016,Characterization of all Optimal Networks for a Simultaneous Computation of AND and NOR.,Karl Meinke,Barcelona,edition 2016 MAXsat conference,132059313,68918315,65,18,93756049,51
+124,Oded Shmueli,MAXsat conference,2016,Characterization of all Optimal Networks for a Simultaneous Computation of AND and NOR.,Karl Meinke,Barcelona,edition 2016 MAXsat conference,132059313,54499542,38,18,93756049,51
+125,Sanjeev Saxena,MAXsat conference,2016,Parallel Integer Sorting Using Small Operations.,Karl Meinke,Madrid,edition 2016 MAXsat conference,79225833,74050536,86,9,93756049,51
+126,Juha Honkala,UDL conference,2016,Stochastic cooperative distributed grammar systems and random graphs.,Karl Meinke,Barcelona,edition 2016 UDL conference,180399014,71311097,72,10,93756049,51
+127,Nathan Goodman,MAXsat conference,2021,Performance Evaluation of Fork and Join Synchronization Primitives.,Walter J. Savitch,Madrid,edition 2021 MAXsat conference,63332624,68918315,65,13,62597745,78
+128,Oded Shmueli,MAXsat conference,2021,Performance Evaluation of Fork and Join Synchronization Primitives.,Walter J. Savitch,Madrid,edition 2021 MAXsat conference,63332624,54499542,38,13,62597745,78
+129,Arnold Schönhage,UDL conference,2017,Some properties of the disjunctive languages contained in ,George Leih,Balaguer,edition 2017 UDL conference,160131184,87816070,41,6,83213016,34
+130,Norbert Blum,MAXsat conference,2020,Systolic Automata for VLSI on Balanced Trees.,Walter J. Savitch,Madrid,edition 2020 MAXsat conference,188359788,69169521,21,20,62597745,78
+131,Hans Ulrich Simon,MAXsat conference,2020,A new natural structural congruence in the pi-calculus with replication.,Delphine Longuet,London,edition 2020 MAXsat conference,93452451,66443876,74,4,51825522,29
+132,Juha Honkala,UDL conference,2018,Optimal Multiprogramming.,Delphine Longuet,Barcelona,edition 2018 UDL conference,54094516,71311097,72,4,51825522,29
+133,Hans Ulrich Simon,MAXsat conference,2015,Classes of Systolic Y-Tree Automata and a Comparison with Systolic Trellis Automata.,Delphine Longuet,London,edition 2015 MAXsat conference,74013185,66443876,74,6,51825522,29
+134,Norbert Blum,UDL conference,2015,On Real-Time Cellular Automata and Trellis Automata.,Karl Meinke,Madrid,edition 2015 UDL conference,90981656,69169521,21,6,93756049,51
+135,Juha Honkala,MAXsat conference,2016,Transformational Design of Real-Time Systems Part I: From Requirements to Program Specifications.,Karl Meinke,Balaguer,edition 2016 MAXsat conference,76507920,71311097,72,19,93756049,51
+136,Arnold Schönhage,UDL conference,2020,Performance Preorder and Competitive Equivalence.,Karl Meinke,Lleida,edition 2020 UDL conference,74506129,87816070,41,17,93756049,51
+137,Norbert Blum,MAXsat conference,2015,A Survey of Normal Form Covers for Context Free Grammars.,Delphine Longuet,Barcelona,edition 2015 MAXsat conference,59670452,69169521,21,12,51825522,29
+138,Nathan Goodman,UDL conference,2015,A Note on Synthesis and Classification of Sorting Algorithms.,George Leih,Lleida,edition 2015 UDL conference,133746939,68918315,65,8,83213016,34
+139,Oded Shmueli,UDL conference,2015,A Note on Synthesis and Classification of Sorting Algorithms.,George Leih,Lleida,edition 2015 UDL conference,133746939,54499542,38,8,83213016,34
+140,Juha Honkala,MAXsat conference,2015,Liveness of a mutex algorithm in a fair process algebra.,Karl Meinke,London,edition 2015 MAXsat conference,56849448,71311097,72,8,93756049,51
+141,Arnold Schönhage,MAXsat conference,2021,"Another Look at the ""Longest Ascending Subsequence"" Problem.",Walter J. Savitch,Barcelona,edition 2021 MAXsat conference,183111327,87816070,41,17,62597745,78
+142,Juha Honkala,UDL conference,2019,Complexity Theory and the Operational Structure of Algebraic Programming Systems.,Walter J. Savitch,Lleida,edition 2019 UDL conference,162156992,71311097,72,15,62597745,78
+143,Nathan Goodman,UDL conference,2021,Models for Reactivity.,Delphine Longuet,Madrid,edition 2021 UDL conference,100725999,68918315,65,5,51825522,29
+144,Oded Shmueli,UDL conference,2021,Models for Reactivity.,Delphine Longuet,Madrid,edition 2021 UDL conference,100725999,54499542,38,5,51825522,29
+145,Hans Ulrich Simon,MAXsat conference,2015,"Axioms for Generalized Graphs, Illustrated by a Cantor-Bernstein Proposition.",George Leih,London,edition 2015 MAXsat conference,104718158,66443876,74,11,83213016,34
+146,Arnold Schönhage,UDL conference,2020,A Proof System for Distributed Processes.,George Leih,Madrid,edition 2020 UDL conference,93481841,87816070,41,16,83213016,34
+147,Juha Honkala,MAXsat conference,2020,Finite State Relational Programs.,Karl Meinke,London,edition 2020 MAXsat conference,180472432,71311097,72,10,93756049,51
+148,Norbert Blum,UDL conference,2018,A Gap Between the Actual Complexity of Permutations and Their Entropy Defined by Stoß.,Karl Meinke,Balaguer,edition 2018 UDL conference,150674477,69169521,21,11,93756049,51
+149,Arnold Schönhage,UDL conference,2015,MAT learners for tree series: an abstract data type and two realizations.,Walter J. Savitch,Madrid,edition 2015 UDL conference,103789697,87816070,41,5,62597745,78
+150,Hans Ulrich Simon,UDL conference,2019,Exponentially decreasing number of operations in balanced trees.,Walter J. Savitch,Lleida,edition 2019 UDL conference,168359893,66443876,74,12,62597745,78
+151,Norbert Blum,UDL conference,2021,Correctness of the Compiling Process Based on Axiomatic Semantics.,George Leih,Madrid,edition 2021 UDL conference,197165379,69169521,21,4,83213016,34
+152,Nathan Goodman,MAXsat conference,2020,Paramodulated Connection Graphs.,Delphine Longuet,Balaguer,edition 2020 MAXsat conference,189315054,68918315,65,12,51825522,29
+153,Oded Shmueli,MAXsat conference,2020,Paramodulated Connection Graphs.,Delphine Longuet,Balaguer,edition 2020 MAXsat conference,189315054,54499542,38,12,51825522,29
+154,Arnold Schönhage,MAXsat conference,2018,The Lattice of Data Refinement.,Delphine Longuet,Madrid,edition 2018 MAXsat conference,54734344,87816070,41,4,51825522,29
+155,Hans Ulrich Simon,MAXsat conference,2018,Backtracking in Recursive Computations.,George Leih,Madrid,edition 2018 MAXsat conference,73730375,66443876,74,11,83213016,34
+156,Norbert Blum,UDL conference,2020,A first step in characterizing three-element codes.,George Leih,Barcelona,edition 2020 UDL conference,67733843,69169521,21,17,83213016,34
+157,Sanjeev Saxena,UDL conference,2015,Efficient LL(1) Error Correction and Recovery Using Only Insertions.,Walter J. Savitch,Lleida,edition 2015 UDL conference,181259636,74050536,86,9,62597745,78
+158,Hans Ulrich Simon,MAXsat conference,2016,Formal Derivation of Strongly Correct Concurrent Programs.,George Leih,Lleida,edition 2016 MAXsat conference,103282699,66443876,74,5,83213016,34

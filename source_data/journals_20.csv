@@ -1,18 +1,13 @@
-,Author,Journal,Year,Paper,Editor,City,Edition,Isbn,Dni,Age,Pages
-0,Nathan Goodman,IEEE Journal,2017,Parallel Integer Sorting and Simulation Amongst CRCW Models.,Joseph M. Morris,London,edition 2017 IEEE Journal,145646732,75035292,49,19
-1,Oded Shmueli,IEEE Journal,2017,Parallel Integer Sorting and Simulation Amongst CRCW Models.,Joseph M. Morris,London,edition 2017 IEEE Journal,145646732,61285105,73,19
-2,Norbert Blum,IEEE Journal,2020,Pattern Matching in Trees and Nets.,Jürgen Nehmer,Barcelona,edition 2020 IEEE Journal,125745539,84387125,26,9
-3,Juha Honkala,IEEE Journal,2021,NP-complete Problems Simplified on Tree Schemas.,Patrick Cousot,Balaguer,edition 2021 IEEE Journal,60108076,71319269,39,10
-4,Juha Honkala,IEEE Journal,2017,On the Power of Chain Rules in Context Free Grammars.,Joseph M. Morris,Balaguer,edition 2017 IEEE Journal,150317764,71319269,39,8
-5,Arnold Schönhage,UPC journal,2020,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,Isi Mitrani,Balaguer,edition 2020 UPC journal,116295519,82282372,51,13
-6,Nathan Goodman,UPC journal,2016,A characterization of rational D0L power series.,Joseph M. Morris,London,edition 2016 UPC journal,168186999,75035292,49,13
-7,Oded Shmueli,UPC journal,2016,A characterization of rational D0L power series.,Joseph M. Morris,London,edition 2016 UPC journal,168186999,61285105,73,13
-8,Arnold Schönhage,IEEE Journal,2016,Parallel Integer Sorting and Simulation Amongst CRCW Models.,Isi Mitrani,Barcelona,edition 2016 IEEE Journal,145646732,82282372,51,19
-9,Norbert Blum,IEEE Journal,2017,Pattern Matching in Trees and Nets.,Patrick Cousot,Madrid,edition 2017 IEEE Journal,125745539,84387125,26,9
-10,Nathan Goodman,IEEE Journal,2020,NP-complete Problems Simplified on Tree Schemas.,Jürgen Nehmer,London,edition 2020 IEEE Journal,60108076,75035292,49,10
-11,Oded Shmueli,IEEE Journal,2020,NP-complete Problems Simplified on Tree Schemas.,Jürgen Nehmer,London,edition 2020 IEEE Journal,60108076,61285105,73,10
-12,Nathan Goodman,UPC journal,2020,On the Power of Chain Rules in Context Free Grammars.,Patrick Cousot,Barcelona,edition 2020 UPC journal,150317764,75035292,49,8
-13,Oded Shmueli,UPC journal,2020,On the Power of Chain Rules in Context Free Grammars.,Patrick Cousot,Barcelona,edition 2020 UPC journal,150317764,61285105,73,8
-14,Nathan Goodman,IEEE Journal,2017,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,Patrick Cousot,Balaguer,edition 2017 IEEE Journal,116295519,75035292,49,13
-15,Oded Shmueli,IEEE Journal,2017,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,Patrick Cousot,Balaguer,edition 2017 IEEE Journal,116295519,61285105,73,13
-16,Sanjeev Saxena,UPC journal,2021,A characterization of rational D0L power series.,Patrick Cousot,London,edition 2021 UPC journal,168186999,96551868,37,13
+,Author,Journal,Year,Paper,Editor,City,Edition,Isbn,Dni,Age,Pages,EditorDni,EditorAge
+0,Juha Honkala,IEEE Journal,2017,Parallel Integer Sorting and Simulation Amongst CRCW Models.,Joseph M. Morris,Lleida,edition 2017 IEEE Journal,74512387,56526190,73,4,85596858,32
+1,Juha Honkala,IEEE Journal,2020,Pattern Matching in Trees and Nets.,Joseph M. Morris,Balaguer,edition 2020 IEEE Journal,55615006,56526190,73,18,85596858,32
+2,Arnold Schönhage,IEEE Journal,2015,NP-complete Problems Simplified on Tree Schemas.,Isi Mitrani,London,edition 2015 IEEE Journal,144751907,89618573,85,19,48114305,62
+3,Alex Kondratyev,UPC journal,2017,On the Power of Chain Rules in Context Free Grammars.,Jürgen Nehmer,Lleida,edition 2017 UPC journal,61564671,77025663,65,18,58079280,84
+4,Maciej Koutny,UPC journal,2017,On the Power of Chain Rules in Context Free Grammars.,Jürgen Nehmer,Lleida,edition 2017 UPC journal,61564671,49582023,25,18,58079280,84
+5,Victor Khomenko,UPC journal,2017,On the Power of Chain Rules in Context Free Grammars.,Jürgen Nehmer,Lleida,edition 2017 UPC journal,61564671,87211531,88,18,58079280,84
+6,Walter Vogler,UPC journal,2017,On the Power of Chain Rules in Context Free Grammars.,Jürgen Nehmer,Lleida,edition 2017 UPC journal,61564671,91904388,47,18,58079280,84
+7,Alex Kondratyev,IEEE Journal,2019,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,Patrick Cousot,Barcelona,edition 2019 IEEE Journal,124317633,77025663,65,14,92376584,37
+8,Maciej Koutny,IEEE Journal,2019,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,Patrick Cousot,Barcelona,edition 2019 IEEE Journal,124317633,49582023,25,14,92376584,37
+9,Victor Khomenko,IEEE Journal,2019,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,Patrick Cousot,Barcelona,edition 2019 IEEE Journal,124317633,87211531,88,14,92376584,37
+10,Walter Vogler,IEEE Journal,2019,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,Patrick Cousot,Barcelona,edition 2019 IEEE Journal,124317633,91904388,47,14,92376584,37
+11,Robin Milner,UPC journal,2017,A characterization of rational D0L power series.,Jürgen Nehmer,London,edition 2017 UPC journal,94155456,58197823,65,20,58079280,84

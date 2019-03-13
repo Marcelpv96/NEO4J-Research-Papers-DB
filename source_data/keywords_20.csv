@@ -1,55 +1,39 @@
 ,Paper,Keyword
-0,The Derivation of Systolic Implementations of Programs.,DeepLearning
-1,The Derivation of Systolic Implementations of Programs.,android
-2,Fifo Nets Without Order Deadlock.,qbits
-3,On the Complementation Rule for Multivalued Dependencies in Database Relations.,neo4j
-4,On the Complementation Rule for Multivalued Dependencies in Database Relations.,tensor flow
-5,Equational weighted tree transformations.,android
-6,Equational weighted tree transformations.,python
-7,Merged processes: a new condensed representation of Petri net behaviour.,neo4j
-8,Merged processes: a new condensed representation of Petri net behaviour.,qbits
-9,Merged processes: a new condensed representation of Petri net behaviour.,android
-10,Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos.,neo4j
-11,Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos.,tensor flow
-12,Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos.,DeepLearning
-13,A Three-Stage Construction for Multiconnection Networks.,NN
-14,The Expressive Power of Delay Operators in SCCS.,CNN
-15,Calculi for Interaction.,NN
-16,A Synthesis of Several Sorting Algorithms.,qbits
-17,A Synthesis of Several Sorting Algorithms.,pandas
-18,A Workload Model Representative of Static and Dynamic Characteristics.,NN
-19,A Workload Model Representative of Static and Dynamic Characteristics.,DeepLearning
-20,A Workload Model Representative of Static and Dynamic Characteristics.,CNN
-21,Gray visiting Motzkins.,NN
-22,Trace- and failure-based semantics for responsiveness.,tensor flow
-23,Trace- and failure-based semantics for responsiveness.,python
-24,Trace- and failure-based semantics for responsiveness.,DeepLearning
-25,Branching Processes in the Analysis of the Heights of Trees.,python
-26,Branching Processes in the Analysis of the Heights of Trees.,DeepLearning
-27,Parallel Integer Sorting and Simulation Amongst CRCW Models.,DeepLearning
-28,Parallel Integer Sorting and Simulation Amongst CRCW Models.,qbits
-29,Parallel Integer Sorting and Simulation Amongst CRCW Models.,python
-30,Pattern Matching in Trees and Nets.,CNN
-31,NP-complete Problems Simplified on Tree Schemas.,python
-32,NP-complete Problems Simplified on Tree Schemas.,DeepLearning
-33,NP-complete Problems Simplified on Tree Schemas.,tensor flow
-34,On the Power of Chain Rules in Context Free Grammars.,qbits
-35,On the Power of Chain Rules in Context Free Grammars.,android
-36,On the Power of Chain Rules in Context Free Grammars.,neo4j
-37,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,NN
-38,A characterization of rational D0L power series.,neo4j
-39,A characterization of rational D0L power series.,DeepLearning
-40,Parallel Integer Sorting and Simulation Amongst CRCW Models.,NN
-41,Parallel Integer Sorting and Simulation Amongst CRCW Models.,DeepLearning
-42,Parallel Integer Sorting and Simulation Amongst CRCW Models.,neo4j
-43,Pattern Matching in Trees and Nets.,NN
-44,NP-complete Problems Simplified on Tree Schemas.,pandas
-45,NP-complete Problems Simplified on Tree Schemas.,python
-46,NP-complete Problems Simplified on Tree Schemas.,qbits
-47,On the Power of Chain Rules in Context Free Grammars.,python
-48,On the Power of Chain Rules in Context Free Grammars.,CNN
-49,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,DeepLearning
-50,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,pandas
-51,A characterization of rational D0L power series.,python
-52,A characterization of rational D0L power series.,pandas
-53,A characterization of rational D0L power series.,DeepLearning
+0,The Derivation of Systolic Implementations of Programs.,NN
+1,The Derivation of Systolic Implementations of Programs.,data storage
+2,The Derivation of Systolic Implementations of Programs.,DeepLearning
+3,Fifo Nets Without Order Deadlock.,data processing
+4,Fifo Nets Without Order Deadlock.,data modeling
+5,Fifo Nets Without Order Deadlock.,DeepLearning
+6,On the Complementation Rule for Multivalued Dependencies in Database Relations.,CNN
+7,On the Complementation Rule for Multivalued Dependencies in Database Relations.,DeepLearning
+8,Equational weighted tree transformations.,data modeling
+9,Equational weighted tree transformations.,CNN
+10,Merged processes: a new condensed representation of Petri net behaviour.,data storage
+11,Merged processes: a new condensed representation of Petri net behaviour.,DeepLearning
+12,Merged processes: a new condensed representation of Petri net behaviour.,indexing
+13,Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos.,data processing
+14,Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos.,indexing
+15,A Three-Stage Construction for Multiconnection Networks.,data modeling
+16,The Expressive Power of Delay Operators in SCCS.,CNN
+17,The Expressive Power of Delay Operators in SCCS.,indexing
+18,Calculi for Interaction.,data management
+19,Calculi for Interaction.,data storage
+20,A Synthesis of Several Sorting Algorithms.,DeepLearning
+21,A Workload Model Representative of Static and Dynamic Characteristics.,data management
+22,Gray visiting Motzkins.,data storage
+23,Gray visiting Motzkins.,data management
+24,Trace- and failure-based semantics for responsiveness.,indexing
+25,Branching Processes in the Analysis of the Heights of Trees.,data processing
+26,Branching Processes in the Analysis of the Heights of Trees.,data modeling
+27,Parallel Integer Sorting and Simulation Amongst CRCW Models.,data management
+28,Parallel Integer Sorting and Simulation Amongst CRCW Models.,data storage
+29,Pattern Matching in Trees and Nets.,CNN
+30,NP-complete Problems Simplified on Tree Schemas.,data querying
+31,On the Power of Chain Rules in Context Free Grammars.,data querying
+32,On the Power of Chain Rules in Context Free Grammars.,DeepLearning
+33,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,data querying
+34,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,data management
+35,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,data processing
+36,A characterization of rational D0L power series.,DeepLearning
+37,A characterization of rational D0L power series.,indexing

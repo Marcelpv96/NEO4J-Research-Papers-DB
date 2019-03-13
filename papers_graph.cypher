@@ -7,7 +7,7 @@ MERGE (journal_author:Scientific {name:journals.Author, age:journals.Age, dni:jo
 MERGE (journal:Journal {name:journals.Journal})
 MERGE (journal_year:Year {year:journals.Year})
 MERGE (journal_paper:Scientific_Paper {name:journals.Paper, ISBN:journals.Isbn, Pages:journals.Pages})
-MERGE (journal_editor:Scientific {name:journals.Editor})
+MERGE (journal_editor:Scientific {name:journals.Editor, age:journals.EditorAge, dni:journals.EditorDni})
 MERGE (journal_city:City {name:journals.City})
 MERGE(journal_edition:Journal_edition {name:journals.Edition, year:journals.Year})
 
@@ -72,7 +72,7 @@ WITH count(*) as dummy
 
 /* Create all nodes related with reviews */
 LOAD CSV WITH HEADERS FROM 'file:///reviews_20.csv' AS reviews
-MATCH (author:Scientific)-[:writes]->(author_paper:Scientific_Paper),(editor:Scientific),(paper_review:Scientific_Paper)
-WHERE author.name = reviews.Author AND editor.name = reviews.Editor AND paper_review.name = reviews.Paper AND author_paper.name <> paper_review.name
-MERGE (editor)-[:Assigns_paper{name:paper_review.name}]->(author)
+MATCH (author:Scientific)-[:writes]->(paper_review:Scientific_Paper), (reviewer:Scientific), (editor:Scientific)
+WHERE author.name <> reviewer.name AND reviewer.name = reviewer.Author AND editor.name = reviews.Editor
+MERGE (editor)-[:Assigns_paper{name:paper_review.name}]->(reviewer)
 ;
