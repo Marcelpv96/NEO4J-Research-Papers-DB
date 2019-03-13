@@ -23,14 +23,14 @@ RETURN person,conference
 
 /*  Find the impact factors of the journals in the graph MIGHT BE DONE*/
 MATCH (paper:Scientific_Paper)-[:edition]->(edition:Journal_edition)-[:AtYear]->(year:Year)
-WHERE year.year = 2019
+WHERE year.year = "2019"
 WITH collect(paper) as papers_2019
 MATCH (paper:Scientific_Paper)-[:edition]->(edition:Journal_edition)-[:AtYear]->(year:Year)
-WHERE year.year = 2018 OR year.year = 2017
-MATCH (citing_paper:Scientific_Paper)-[:refersTo]->(paper)
-WHERE citing_paper IN papers_2019
+WHERE year.year = "2018" OR year.year = "2017"
+MATCH (paper)-[:refersTo]->(cited_paper:Scientific_Paper)
+WHERE cited_paper IN papers_2019
 MATCH (journal:Journal)-[:hasEdition]->(edition)
-WITH count(citing_paper) as no_citings, paper, journal
+WITH count(cited_paper) as no_citings, paper, journal
 RETURN journal, sum(no_citings)/count(paper)
 
 
