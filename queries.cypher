@@ -34,7 +34,7 @@ MATCH (cited_paper:Scientific_Paper)-[:refersTo]->(paper)
 WHERE cited_paper IN papers_2019
 MATCH (edition)-[:isEdition]->(journal:Journal)
 WITH count(cited_paper) as no_citings, paper, journal
-RETURN journal, sum(no_citings)/count(paper)
+RETURN journal, tofloat(sum(no_citings))/tofloat(count(paper))
 
 
 
