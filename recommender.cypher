@@ -10,7 +10,7 @@ MATCH (kw:KeyWord)
 WHERE kw.name = "data management" OR kw.name  = "indexing" OR kw.name = "data modeling" OR kw.name = "big data" OR kw.name = "data processing" or kw.name = "data storage" OR kw.name = "data querying"
 MERGE (DBcommunity)-[:HasKeyWord]->(kw)
 
-/* 2nd relate the corresponding journal with each community. */
+/* 2nd relate the corresponding edition with each community. */
 MATCH (all_papers:Scientific_Paper)-[:publishedON]->(edition:Journal_edition)
 MATCH (kw:KeyWord)<-[:HasKeyWord]-(kw_paper:Scientific_Paper)-[:publishedON]->(edition:Journal_edition)
 WHERE kw.name = "data management" OR kw.name  = "indexing" OR kw.name = "data modeling" OR kw.name = "big data" OR kw.name = "data processing" or kw.name = "data storage" OR kw.name = "data.querying"
@@ -31,10 +31,26 @@ MERGE (edition)-[:relatedTo]->(community)
 
 
 /*3rd Find the most cited papers in each community*/
-optional match(c:Community{Community_name:"DB community"})<-[:relatedTo]-(journal_edition:Journal_edition)<-[:publishedON]-(journal_papers)<-[:refersTo]-(ref_joun_paper)
-return journal_papers as Papers, COUNT(distinct ref_joun_paper) as num_citations
-Order by num_citations desc
-UNION
-optional match (c:Community{Community_name:"DB community"})<-[:relatedTo]-(conference_edition:Conference_edition)<-[:publishedON]-(conference_papers)<-[:refersTo]-(ref_conf_paper)
-return conference_papers as Papers, count(distinct ref_conf_paper) as num_citations
-ORDER BY num_citations desc
+CALL algo.pageRank.stream(
+    'MATCH (c:Community{Community_name:"DB community"})<-[:relatedTo]-(type)<-[:publishedON]-(citing_paper)
+	WITH citing_paper as citer
+	MATCH (c:Community{Community_name:"DB community"})<-[:relatedTo]-(type)<-[:publishedON]-(paper)<-[relation:refersTo]-(citer)
+	WHERE citer MATCH 
+	RETURN distinct paper',
+    'refersTo', {iterations:20, dampingFactor:0.85})
+YIELD nodeId, score
+MATCH (p:Scientific_Paper)
+WHERE id(p) = nodeId
+WITH p, score LIMIT 100
+MATCH (c:Community{Community_name:"DB community"})
+MERGE (p)-[:inTop100]->(c)
+RETURN p.name, score
+ORDER by score DESC
+
+/*4*/
+MATCH (person:Scientific)-[:writes]->(paper)-[:inTop100]->(c:Community{Community_name:"DB community"})
+WITH person, c, count(paper) as papers
+MERGE (person)-[:goodReviewer]->(c)
+WITH person, c, papers
+WHERE papers >= 2
+MERGE (person)-[:isGuru]->(c)
