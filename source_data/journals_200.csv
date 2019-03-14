@@ -1,99 +1,119 @@
 ,Author,Journal,Year,Paper,Editor,City,Edition,Isbn,Dni,Age,Pages,EditorDni,EditorAge
-0,Alain Finkel,IEEE Journal,2018,Parallel Integer Sorting and Simulation Amongst CRCW Models.,Jürgen Nehmer,Lleida,edition 2018 IEEE Journal,61352201,80076757,76,9,77629661,29
-1,Annie Choquet,IEEE Journal,2018,Parallel Integer Sorting and Simulation Amongst CRCW Models.,Jürgen Nehmer,Lleida,edition 2018 IEEE Journal,61352201,73366044,58,9,77629661,29
-2,Carol Critchlow,IEEE Journal,2016,Pattern Matching in Trees and Nets.,Jürgen Nehmer,Barcelona,edition 2016 IEEE Journal,51297526,51645588,76,7,77629661,29
-3,Prakash Panangaden,IEEE Journal,2016,Pattern Matching in Trees and Nets.,Jürgen Nehmer,Barcelona,edition 2016 IEEE Journal,51297526,92861615,31,7,77629661,29
-4,Arnold Schönhage,IEEE Journal,2016,NP-complete Problems Simplified on Tree Schemas.,Jürgen Nehmer,Balaguer,edition 2016 IEEE Journal,141664840,61820563,79,6,77629661,29
-5,Juha Honkala,IEEE Journal,2020,On the Power of Chain Rules in Context Free Grammars.,Joseph M. Morris,Lleida,edition 2020 IEEE Journal,106681459,78960593,88,6,74372603,77
-6,Alex Kondratyev,IEEE Journal,2015,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,Patrick Cousot,London,edition 2015 IEEE Journal,125329000,89819829,83,8,83062547,20
-7,Maciej Koutny,IEEE Journal,2015,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,Patrick Cousot,London,edition 2015 IEEE Journal,125329000,67535130,79,8,83062547,20
-8,Victor Khomenko,IEEE Journal,2015,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,Patrick Cousot,London,edition 2015 IEEE Journal,125329000,78235152,58,8,83062547,20
-9,Walter Vogler,IEEE Journal,2015,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,Patrick Cousot,London,edition 2015 IEEE Journal,125329000,71969710,44,8,83062547,20
-10,Hans Ulrich Simon,IEEE Journal,2021,A characterization of rational D0L power series.,Joseph M. Morris,Balaguer,edition 2021 IEEE Journal,128362839,59674338,31,20,74372603,77
-11,Juha Honkala,IEEE Journal,2021,The Derivation of Systolic Implementations of Programs.,Jürgen Nehmer,Madrid,edition 2021 IEEE Journal,135282881,78960593,88,17,77629661,29
-12,Wim H. Hesselink,UPC journal,2020,Fifo Nets Without Order Deadlock.,Jürgen Nehmer,London,edition 2020 UPC journal,57624338,84270123,31,15,77629661,29
-13,Christian Lengauer,UPC journal,2015,On the Complementation Rule for Multivalued Dependencies in Database Relations.,Joseph M. Morris,Madrid,edition 2015 UPC journal,156151679,65290277,24,16,74372603,77
-14,Chua-Huang Huang,UPC journal,2015,On the Complementation Rule for Multivalued Dependencies in Database Relations.,Joseph M. Morris,Madrid,edition 2015 UPC journal,156151679,88439547,37,16,74372603,77
-15,Joachim Biskup,UPC journal,2021,Equational weighted tree transformations.,Jürgen Nehmer,Balaguer,edition 2021 UPC journal,186314869,55930153,67,5,77629661,29
-16,Hans Ulrich Simon,IEEE Journal,2017,Merged processes: a new condensed representation of Petri net behaviour.,Jürgen Nehmer,Barcelona,edition 2017 IEEE Journal,118175471,59674338,31,11,77629661,29
-17,Arnold Schönhage,UPC journal,2019,Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos.,Joseph M. Morris,Balaguer,edition 2019 UPC journal,144951418,61820563,79,16,74372603,77
-18,Robin Milner,IEEE Journal,2016,A Three-Stage Construction for Multiconnection Networks.,Jürgen Nehmer,Barcelona,edition 2016 IEEE Journal,174642158,63611618,30,16,77629661,29
-19,Sanjeev Saxena,UPC journal,2017,The Expressive Power of Delay Operators in SCCS.,Patrick Cousot,Lleida,edition 2017 UPC journal,176274156,85988832,36,9,83062547,20
-20,Robin Milner,IEEE Journal,2015,Calculi for Interaction.,Jürgen Nehmer,Balaguer,edition 2015 IEEE Journal,180396715,63611618,30,11,77629661,29
-21,Nathan Goodman,IEEE Journal,2015,A Synthesis of Several Sorting Algorithms.,Isi Mitrani,Barcelona,edition 2015 IEEE Journal,155251921,94763246,58,9,76269016,30
-22,Oded Shmueli,IEEE Journal,2015,A Synthesis of Several Sorting Algorithms.,Isi Mitrani,Barcelona,edition 2015 IEEE Journal,155251921,66971368,29,9,76269016,30
-23,Nathan Goodman,UPC journal,2020,A Workload Model Representative of Static and Dynamic Characteristics.,Jürgen Nehmer,Madrid,edition 2020 UPC journal,194973408,94763246,58,13,77629661,29
-24,Oded Shmueli,UPC journal,2020,A Workload Model Representative of Static and Dynamic Characteristics.,Jürgen Nehmer,Madrid,edition 2020 UPC journal,194973408,66971368,29,13,77629661,29
-25,Robin Milner,UPC journal,2017,Gray visiting Motzkins.,Patrick Cousot,London,edition 2017 UPC journal,86045803,63611618,30,13,83062547,20
-26,Norbert Blum,IEEE Journal,2016,Trace- and failure-based semantics for responsiveness.,Joseph M. Morris,Madrid,edition 2016 IEEE Journal,100887549,64277410,27,15,74372603,77
-27,Giuseppe Serazzi,IEEE Journal,2018,Branching Processes in the Analysis of the Heights of Trees.,Isi Mitrani,Lleida,edition 2018 IEEE Journal,49813748,63356105,81,17,76269016,30
-28,M. Italiani,IEEE Journal,2018,Branching Processes in the Analysis of the Heights of Trees.,Isi Mitrani,Lleida,edition 2018 IEEE Journal,49813748,95797768,88,17,76269016,30
-29,Maria Calzarossa,IEEE Journal,2018,Branching Processes in the Analysis of the Heights of Trees.,Isi Mitrani,Lleida,edition 2018 IEEE Journal,49813748,65454077,68,17,76269016,30
-30,Christian Ronse,IEEE Journal,2019,Least Upper Bound on the Cost of Optimum Binary Search Trees.,Jürgen Nehmer,Lleida,edition 2019 IEEE Journal,75645393,96722502,56,16,77629661,29
-31,Norbert Blum,IEEE Journal,2017,The Mathematical Analysis of the Computer System Modeled as a Two Stage Cyclic Queue.,Joseph M. Morris,Madrid,edition 2017 IEEE Journal,178517815,64277410,27,18,74372603,77
-32,Juha Honkala,UPC journal,2015,"Invariants, Composition, and Substitution.",Joseph M. Morris,Lleida,edition 2015 UPC journal,57477526,78960593,88,16,74372603,77
-33,Robin Milner,UPC journal,2019,Maximum Entropy and the ,Jürgen Nehmer,Balaguer,edition 2019 UPC journal,111393837,63611618,30,15,77629661,29
-34,George Rahonis,UPC journal,2016,Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach.,Isi Mitrani,Madrid,edition 2016 UPC journal,170032283,61171373,86,6,76269016,30
-35,Symeon Bozapalidis,UPC journal,2016,Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach.,Isi Mitrani,Madrid,edition 2016 UPC journal,170032283,66591288,87,6,76269016,30
-36,Zoltán Fülöp 0001,UPC journal,2016,Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach.,Isi Mitrani,Madrid,edition 2016 UPC journal,170032283,68110752,80,6,76269016,30
-37,John Darlington,UPC journal,2017,A theory of structural stationarity in the ,Patrick Cousot,Lleida,edition 2017 UPC journal,166562734,57951864,55,18,83062547,20
-38,Arnold Schönhage,UPC journal,2017,Hex ist PSPACE-vollständig.,Jürgen Nehmer,Barcelona,edition 2017 UPC journal,146107592,61820563,79,6,77629661,29
-39,Robin Milner,IEEE Journal,2015,Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells.,Jürgen Nehmer,Barcelona,edition 2015 IEEE Journal,171573371,63611618,30,7,77629661,29
-40,John Darlington,IEEE Journal,2017,Disjunctivity and other properties of sets of pseudo-bordered words.,Jürgen Nehmer,Balaguer,edition 2017 IEEE Journal,101857264,57951864,55,8,77629661,29
-41,Nathan Goodman,UPC journal,2020,Relational structures model of concurrency.,Jürgen Nehmer,London,edition 2020 UPC journal,133266014,94763246,58,8,77629661,29
-42,Oded Shmueli,UPC journal,2020,Relational structures model of concurrency.,Jürgen Nehmer,London,edition 2020 UPC journal,133266014,66971368,29,8,77629661,29
-43,Norbert Blum,IEEE Journal,2017,On an Equivalence between Continuation and Stack Semantics.,Joseph M. Morris,Lleida,edition 2017 IEEE Journal,50425324,64277410,27,10,74372603,77
-44,Alex Kondratyev,UPC journal,2019,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.,Joseph M. Morris,Balaguer,edition 2019 UPC journal,57497750,89819829,83,9,74372603,77
-45,Maciej Koutny,UPC journal,2019,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.,Joseph M. Morris,Balaguer,edition 2019 UPC journal,57497750,67535130,79,9,74372603,77
-46,Victor Khomenko,UPC journal,2019,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.,Joseph M. Morris,Balaguer,edition 2019 UPC journal,57497750,78235152,58,9,74372603,77
-47,Walter Vogler,UPC journal,2019,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.,Joseph M. Morris,Balaguer,edition 2019 UPC journal,57497750,71969710,44,9,74372603,77
-48,Christian Lengauer,UPC journal,2015,A Note on the Density of Inherently Ambiguous Context-free Languages.,Jürgen Nehmer,Balaguer,edition 2015 UPC journal,143533193,65290277,24,13,77629661,29
-49,Chua-Huang Huang,UPC journal,2015,A Note on the Density of Inherently Ambiguous Context-free Languages.,Jürgen Nehmer,Balaguer,edition 2015 UPC journal,143533193,88439547,37,13,77629661,29
-50,Joachim Biskup,UPC journal,2019,Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array.,Joseph M. Morris,London,edition 2019 UPC journal,83480737,55930153,67,20,74372603,77
-51,Nathan Goodman,IEEE Journal,2017,Computational Algorithms for Networks of Queues with Rejection Blocking.,Joseph M. Morris,Balaguer,edition 2017 IEEE Journal,76449989,94763246,58,10,74372603,77
-52,Oded Shmueli,IEEE Journal,2017,Computational Algorithms for Networks of Queues with Rejection Blocking.,Joseph M. Morris,Balaguer,edition 2017 IEEE Journal,76449989,66971368,29,10,74372603,77
-53,Norbert Blum,UPC journal,2018,Compositional Refinements in Multiple Blackboard Systems.,Patrick Cousot,Madrid,edition 2018 UPC journal,92072475,64277410,27,20,83062547,20
-54,Carol Critchlow,IEEE Journal,2015,"Special issue on ""Combining Compositionality and Concurrency"": part 1.",Joseph M. Morris,Lleida,edition 2015 IEEE Journal,152847009,51645588,76,17,74372603,77
-55,Prakash Panangaden,IEEE Journal,2015,"Special issue on ""Combining Compositionality and Concurrency"": part 1.",Joseph M. Morris,Lleida,edition 2015 IEEE Journal,152847009,92861615,31,17,74372603,77
-56,Wim H. Hesselink,IEEE Journal,2016,Automatic verification of concurrent systems using a formula-based compositional approach.,Isi Mitrani,Madrid,edition 2016 IEEE Journal,63193008,84270123,31,18,76269016,30
-57,Joachim Biskup,IEEE Journal,2015,On Removing the Machine from the Language.,Jürgen Nehmer,London,edition 2015 IEEE Journal,112969806,55930153,67,18,77629661,29
-58,Robin Milner,UPC journal,2017,Complete Problems for Space Bounded Subclasses of NP.,Joseph M. Morris,London,edition 2017 UPC journal,64571498,63611618,30,13,74372603,77
-59,Wim H. Hesselink,IEEE Journal,2019,Efficient controller synthesis for a fragment of MTL,Isi Mitrani,Balaguer,edition 2019 IEEE Journal,154566875,84270123,31,9,76269016,30
-60,Christian Lengauer,UPC journal,2021,Two Notions of Correctness and Their Relation to Testing.,Isi Mitrani,London,edition 2021 UPC journal,124254481,65290277,24,13,76269016,30
-61,Chua-Huang Huang,UPC journal,2021,Two Notions of Correctness and Their Relation to Testing.,Isi Mitrani,London,edition 2021 UPC journal,124254481,88439547,37,13,76269016,30
-62,Christian Ronse,IEEE Journal,2017,Best Huffman Trees.,Joseph M. Morris,Balaguer,edition 2017 IEEE Journal,138138669,96722502,56,5,74372603,77
-63,Sanjeev Saxena,IEEE Journal,2017,Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler.,Isi Mitrani,Lleida,edition 2017 IEEE Journal,190851069,85988832,36,4,76269016,30
-64,Juha Honkala,UPC journal,2015,The Parsing Problem for Affix Grammars.,Isi Mitrani,Balaguer,edition 2015 UPC journal,91536372,78960593,88,18,76269016,30
-65,Arnold Schönhage,IEEE Journal,2019,On Efficient Entreeings.,Isi Mitrani,Barcelona,edition 2019 IEEE Journal,141185675,61820563,79,15,76269016,30
-66,Robin Milner,IEEE Journal,2018,Persistence of Vector Replacement Systems is Decidable.,Isi Mitrani,Lleida,edition 2018 IEEE Journal,169718877,63611618,30,12,76269016,30
-67,Joachim Biskup,UPC journal,2019,Implementing Daubechies Wavelet Transform with Weighted Finite Automata.,Joseph M. Morris,Madrid,edition 2019 UPC journal,120043395,55930153,67,9,74372603,77
-68,Giuseppe Serazzi,IEEE Journal,2020,Functional Behavior in Data Spaces.,Joseph M. Morris,Balaguer,edition 2020 IEEE Journal,140278293,63356105,81,17,74372603,77
-69,M. Italiani,IEEE Journal,2020,Functional Behavior in Data Spaces.,Joseph M. Morris,Balaguer,edition 2020 IEEE Journal,140278293,95797768,88,17,74372603,77
-70,Maria Calzarossa,IEEE Journal,2020,Functional Behavior in Data Spaces.,Joseph M. Morris,Balaguer,edition 2020 IEEE Journal,140278293,65454077,68,17,74372603,77
-71,Norbert Blum,IEEE Journal,2016,Inductive Completion with Retracts.,Isi Mitrani,London,edition 2016 IEEE Journal,186706582,64277410,27,14,76269016,30
-72,Robin Milner,UPC journal,2020,Sometime = Always + Recursion = Always on the Equivalence of the Intermittent and Invariant Assertions Methods for Proving Inevitability Properties of Programs.,Joseph M. Morris,Lleida,edition 2020 UPC journal,85701402,63611618,30,10,74372603,77
-73,Christian Ronse,IEEE Journal,2015,Complete Parameterized Families of Job Scheduling Strategies.,Isi Mitrani,Barcelona,edition 2015 IEEE Journal,168981889,96722502,56,16,76269016,30
-74,Nathan Goodman,IEEE Journal,2020,Modelling higher-order dual nondeterminacy.,Isi Mitrani,Barcelona,edition 2020 IEEE Journal,171974160,94763246,58,7,76269016,30
-75,Oded Shmueli,IEEE Journal,2020,Modelling higher-order dual nondeterminacy.,Isi Mitrani,Barcelona,edition 2020 IEEE Journal,171974160,66971368,29,7,76269016,30
-76,George Rahonis,UPC journal,2017,Dispatcher Primitives for the Construction of Operating System Kernels.,Isi Mitrani,Madrid,edition 2017 UPC journal,169112902,61171373,86,7,76269016,30
-77,Symeon Bozapalidis,UPC journal,2017,Dispatcher Primitives for the Construction of Operating System Kernels.,Isi Mitrani,Madrid,edition 2017 UPC journal,169112902,66591288,87,7,76269016,30
-78,Zoltán Fülöp 0001,UPC journal,2017,Dispatcher Primitives for the Construction of Operating System Kernels.,Isi Mitrani,Madrid,edition 2017 UPC journal,169112902,68110752,80,7,76269016,30
-79,Christian Ronse,UPC journal,2021,A Note on Multihead Automata and Context-Sensitive Languages,Isi Mitrani,Madrid,edition 2021 UPC journal,64200511,96722502,56,4,76269016,30
-80,Sanjeev Saxena,UPC journal,2021,A Recursive Second Order Initial Algebra Specification of Primitive Recursion.,Patrick Cousot,Balaguer,edition 2021 UPC journal,133760491,85988832,36,20,83062547,20
-81,Robin Milner,IEEE Journal,2021,Compositional schedulability analysis of real-time actor-based systems.,Patrick Cousot,Barcelona,edition 2021 IEEE Journal,145886010,63611618,30,9,83062547,20
-82,Vincent Vajnovszki,IEEE Journal,2020,Context-Free Graph Languages of Bounded Degree are Generated by Apex Graph Grammars.,Isi Mitrani,Barcelona,edition 2020 IEEE Journal,192301928,96231696,53,9,76269016,30
-83,Christian Lengauer,IEEE Journal,2019,Worst Case Performance of Weighted Buddy Systems.,Jürgen Nehmer,Madrid,edition 2019 IEEE Journal,138150547,65290277,24,12,77629661,29
-84,Chua-Huang Huang,IEEE Journal,2019,Worst Case Performance of Weighted Buddy Systems.,Jürgen Nehmer,Madrid,edition 2019 IEEE Journal,138150547,88439547,37,12,77629661,29
-85,Juha Honkala,IEEE Journal,2017,Contextual Nets.,Jürgen Nehmer,London,edition 2017 IEEE Journal,142457904,78960593,88,14,77629661,29
-86,Sanjeev Saxena,UPC journal,2015,COSY - A System Specification Language Based on Paths and Processes.,Isi Mitrani,Balaguer,edition 2015 UPC journal,102670927,85988832,36,14,76269016,30
-87,Juha Honkala,IEEE Journal,2020,Applying relation algebra and Rel View to solve problems on orders and lattices.,Joseph M. Morris,London,edition 2020 IEEE Journal,170169099,78960593,88,20,74372603,77
-88,Vincent Vajnovszki,UPC journal,2016,Eliminating Unit Productions from LR Parsers.,Isi Mitrani,Barcelona,edition 2016 UPC journal,61064637,96231696,53,14,76269016,30
-89,Alex Kondratyev,IEEE Journal,2016,Attribute (Re)evaluation in OPTRAN.,Isi Mitrani,Madrid,edition 2016 IEEE Journal,121485942,89819829,83,18,76269016,30
-90,Maciej Koutny,IEEE Journal,2016,Attribute (Re)evaluation in OPTRAN.,Isi Mitrani,Madrid,edition 2016 IEEE Journal,121485942,67535130,79,18,76269016,30
-91,Victor Khomenko,IEEE Journal,2016,Attribute (Re)evaluation in OPTRAN.,Isi Mitrani,Madrid,edition 2016 IEEE Journal,121485942,78235152,58,18,76269016,30
-92,Walter Vogler,IEEE Journal,2016,Attribute (Re)evaluation in OPTRAN.,Isi Mitrani,Madrid,edition 2016 IEEE Journal,121485942,71969710,44,18,76269016,30
-93,Carol Critchlow,IEEE Journal,2017,On Parallel Integer Sorting.,Jürgen Nehmer,Barcelona,edition 2017 IEEE Journal,193796960,51645588,76,8,77629661,29
-94,Prakash Panangaden,IEEE Journal,2017,On Parallel Integer Sorting.,Jürgen Nehmer,Barcelona,edition 2017 IEEE Journal,193796960,92861615,31,8,77629661,29
-95,Giuseppe Serazzi,UPC journal,2019,Domain Independence and the Relational Calculus.,Patrick Cousot,Balaguer,edition 2019 UPC journal,138366203,63356105,81,11,83062547,20
-96,M. Italiani,UPC journal,2019,Domain Independence and the Relational Calculus.,Patrick Cousot,Balaguer,edition 2019 UPC journal,138366203,95797768,88,11,83062547,20
-97,Maria Calzarossa,UPC journal,2019,Domain Independence and the Relational Calculus.,Patrick Cousot,Balaguer,edition 2019 UPC journal,138366203,65454077,68,11,83062547,20
+0,Giuseppe Serazzi,IEEE Journal,2015,Parallel Integer Sorting and Simulation Amongst CRCW Models.,Jürgen Nehmer,Lleida,edition 2015 IEEE Journal,180109046,92380886,39,16,49204190,36
+1,M. Italiani,IEEE Journal,2015,Parallel Integer Sorting and Simulation Amongst CRCW Models.,Jürgen Nehmer,Lleida,edition 2015 IEEE Journal,180109046,51544247,45,16,49204190,36
+2,Maria Calzarossa,IEEE Journal,2015,Parallel Integer Sorting and Simulation Amongst CRCW Models.,Jürgen Nehmer,Lleida,edition 2015 IEEE Journal,180109046,96069778,36,16,49204190,36
+3,Nathan Goodman,IEEE Journal,2015,Pattern Matching in Trees and Nets.,Patrick Cousot,Madrid,edition 2015 IEEE Journal,61835803,81428395,76,12,89579786,53
+4,Oded Shmueli,IEEE Journal,2015,Pattern Matching in Trees and Nets.,Patrick Cousot,Madrid,edition 2015 IEEE Journal,61835803,69705216,89,12,89579786,53
+5,George Rahonis,IEEE Journal,2018,NP-complete Problems Simplified on Tree Schemas.,Patrick Cousot,Madrid,edition 2018 IEEE Journal,88026261,66280426,86,6,89579786,53
+6,Symeon Bozapalidis,IEEE Journal,2018,NP-complete Problems Simplified on Tree Schemas.,Patrick Cousot,Madrid,edition 2018 IEEE Journal,88026261,94562652,20,6,89579786,53
+7,Zoltán Fülöp 0001,IEEE Journal,2018,NP-complete Problems Simplified on Tree Schemas.,Patrick Cousot,Madrid,edition 2018 IEEE Journal,88026261,96942218,43,6,89579786,53
+8,George Rahonis,IEEE Journal,2021,On the Power of Chain Rules in Context Free Grammars.,Joseph M. Morris,London,edition 2021 IEEE Journal,179023893,66280426,86,6,59252960,32
+9,Symeon Bozapalidis,IEEE Journal,2021,On the Power of Chain Rules in Context Free Grammars.,Joseph M. Morris,London,edition 2021 IEEE Journal,179023893,94562652,20,6,59252960,32
+10,Zoltán Fülöp 0001,IEEE Journal,2021,On the Power of Chain Rules in Context Free Grammars.,Joseph M. Morris,London,edition 2021 IEEE Journal,179023893,96942218,43,6,59252960,32
+11,Christian Lengauer,UPC journal,2017,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,Patrick Cousot,Balaguer,edition 2017 UPC journal,125529583,69720624,88,4,89579786,53
+12,Chua-Huang Huang,UPC journal,2017,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,Patrick Cousot,Balaguer,edition 2017 UPC journal,125529583,74381271,86,4,89579786,53
+13,Norbert Blum,UPC journal,2019,A characterization of rational D0L power series.,Patrick Cousot,Barcelona,edition 2019 UPC journal,88389155,94826399,33,12,89579786,53
+14,Wim H. Hesselink,UPC journal,2019,The Derivation of Systolic Implementations of Programs.,Patrick Cousot,Madrid,edition 2019 UPC journal,156620241,58190535,39,11,89579786,53
+15,George Rahonis,IEEE Journal,2019,Fifo Nets Without Order Deadlock.,Isi Mitrani,Balaguer,edition 2019 IEEE Journal,128777434,66280426,86,4,75935839,67
+16,Symeon Bozapalidis,IEEE Journal,2019,Fifo Nets Without Order Deadlock.,Isi Mitrani,Balaguer,edition 2019 IEEE Journal,128777434,94562652,20,4,75935839,67
+17,Zoltán Fülöp 0001,IEEE Journal,2019,Fifo Nets Without Order Deadlock.,Isi Mitrani,Balaguer,edition 2019 IEEE Journal,128777434,96942218,43,4,75935839,67
+18,Arnold Schönhage,IEEE Journal,2021,On the Complementation Rule for Multivalued Dependencies in Database Relations.,Patrick Cousot,Balaguer,edition 2021 IEEE Journal,172466621,95850559,27,7,89579786,53
+19,Robin Milner,UPC journal,2016,Equational weighted tree transformations.,Patrick Cousot,Barcelona,edition 2016 UPC journal,129575763,64542026,44,14,89579786,53
+20,Alain Finkel,UPC journal,2018,Merged processes: a new condensed representation of Petri net behaviour.,Patrick Cousot,London,edition 2018 UPC journal,151539924,67741368,83,4,89579786,53
+21,Annie Choquet,UPC journal,2018,Merged processes: a new condensed representation of Petri net behaviour.,Patrick Cousot,London,edition 2018 UPC journal,151539924,95449175,44,4,89579786,53
+22,Juha Honkala,IEEE Journal,2016,Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos.,Patrick Cousot,London,edition 2016 IEEE Journal,152182843,84300194,83,12,89579786,53
+23,Christian Ronse,UPC journal,2015,A Three-Stage Construction for Multiconnection Networks.,Isi Mitrani,Lleida,edition 2015 UPC journal,70431582,53601553,59,18,75935839,67
+24,John Darlington,IEEE Journal,2015,The Expressive Power of Delay Operators in SCCS.,Patrick Cousot,Lleida,edition 2015 IEEE Journal,182509979,51333161,33,5,89579786,53
+25,Juha Honkala,IEEE Journal,2020,Calculi for Interaction.,Isi Mitrani,London,edition 2020 IEEE Journal,104843308,84300194,83,17,75935839,67
+26,Vincent Vajnovszki,UPC journal,2020,A Synthesis of Several Sorting Algorithms.,Joseph M. Morris,Balaguer,edition 2020 UPC journal,121107562,88692555,30,10,59252960,32
+27,Robin Milner,IEEE Journal,2019,A Workload Model Representative of Static and Dynamic Characteristics.,Isi Mitrani,Lleida,edition 2019 IEEE Journal,180568020,64542026,44,9,75935839,67
+28,Sanjeev Saxena,UPC journal,2016,Gray visiting Motzkins.,Patrick Cousot,Barcelona,edition 2016 UPC journal,128993709,97939121,65,19,89579786,53
+29,Giuseppe Serazzi,UPC journal,2021,Trace- and failure-based semantics for responsiveness.,Joseph M. Morris,Barcelona,edition 2021 UPC journal,158667205,92380886,39,10,59252960,32
+30,M. Italiani,UPC journal,2021,Trace- and failure-based semantics for responsiveness.,Joseph M. Morris,Barcelona,edition 2021 UPC journal,158667205,51544247,45,10,59252960,32
+31,Maria Calzarossa,UPC journal,2021,Trace- and failure-based semantics for responsiveness.,Joseph M. Morris,Barcelona,edition 2021 UPC journal,158667205,96069778,36,10,59252960,32
+32,Christian Ronse,IEEE Journal,2021,Branching Processes in the Analysis of the Heights of Trees.,Patrick Cousot,Lleida,edition 2021 IEEE Journal,125392781,53601553,59,19,89579786,53
+33,Norbert Blum,UPC journal,2015,Least Upper Bound on the Cost of Optimum Binary Search Trees.,Joseph M. Morris,London,edition 2015 UPC journal,154020802,94826399,33,20,59252960,32
+34,Vincent Vajnovszki,UPC journal,2018,The Mathematical Analysis of the Computer System Modeled as a Two Stage Cyclic Queue.,Patrick Cousot,London,edition 2018 UPC journal,166898970,88692555,30,6,89579786,53
+35,Christian Ronse,IEEE Journal,2016,"Invariants, Composition, and Substitution.",Jürgen Nehmer,Barcelona,edition 2016 IEEE Journal,117749554,53601553,59,12,49204190,36
+36,Giuseppe Serazzi,UPC journal,2017,Maximum Entropy and the ,Patrick Cousot,London,edition 2017 UPC journal,185985761,92380886,39,7,89579786,53
+37,M. Italiani,UPC journal,2017,Maximum Entropy and the ,Patrick Cousot,London,edition 2017 UPC journal,185985761,51544247,45,7,89579786,53
+38,Maria Calzarossa,UPC journal,2017,Maximum Entropy and the ,Patrick Cousot,London,edition 2017 UPC journal,185985761,96069778,36,7,89579786,53
+39,Vincent Vajnovszki,IEEE Journal,2020,Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach.,Joseph M. Morris,Lleida,edition 2020 IEEE Journal,138529559,88692555,30,12,59252960,32
+40,Vincent Vajnovszki,IEEE Journal,2021,A theory of structural stationarity in the ,Isi Mitrani,Barcelona,edition 2021 IEEE Journal,171014383,88692555,30,19,75935839,67
+41,George Rahonis,IEEE Journal,2015,Hex ist PSPACE-vollständig.,Isi Mitrani,Balaguer,edition 2015 IEEE Journal,71648917,66280426,86,18,75935839,67
+42,Symeon Bozapalidis,IEEE Journal,2015,Hex ist PSPACE-vollständig.,Isi Mitrani,Balaguer,edition 2015 IEEE Journal,71648917,94562652,20,18,75935839,67
+43,Zoltán Fülöp 0001,IEEE Journal,2015,Hex ist PSPACE-vollständig.,Isi Mitrani,Balaguer,edition 2015 IEEE Journal,71648917,96942218,43,18,75935839,67
+44,Giuseppe Serazzi,IEEE Journal,2015,Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells.,Jürgen Nehmer,Lleida,edition 2015 IEEE Journal,153703727,92380886,39,14,49204190,36
+45,M. Italiani,IEEE Journal,2015,Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells.,Jürgen Nehmer,Lleida,edition 2015 IEEE Journal,153703727,51544247,45,14,49204190,36
+46,Maria Calzarossa,IEEE Journal,2015,Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells.,Jürgen Nehmer,Lleida,edition 2015 IEEE Journal,153703727,96069778,36,14,49204190,36
+47,Giuseppe Serazzi,IEEE Journal,2018,Disjunctivity and other properties of sets of pseudo-bordered words.,Jürgen Nehmer,Balaguer,edition 2018 IEEE Journal,137308463,92380886,39,17,49204190,36
+48,M. Italiani,IEEE Journal,2018,Disjunctivity and other properties of sets of pseudo-bordered words.,Jürgen Nehmer,Balaguer,edition 2018 IEEE Journal,137308463,51544247,45,17,49204190,36
+49,Maria Calzarossa,IEEE Journal,2018,Disjunctivity and other properties of sets of pseudo-bordered words.,Jürgen Nehmer,Balaguer,edition 2018 IEEE Journal,137308463,96069778,36,17,49204190,36
+50,Nathan Goodman,UPC journal,2017,Relational structures model of concurrency.,Jürgen Nehmer,London,edition 2017 UPC journal,127423786,81428395,76,4,49204190,36
+51,Oded Shmueli,UPC journal,2017,Relational structures model of concurrency.,Jürgen Nehmer,London,edition 2017 UPC journal,127423786,69705216,89,4,49204190,36
+52,Norbert Blum,UPC journal,2015,On an Equivalence between Continuation and Stack Semantics.,Joseph M. Morris,Lleida,edition 2015 UPC journal,77070959,94826399,33,9,59252960,32
+53,Christian Ronse,UPC journal,2016,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.,Isi Mitrani,Lleida,edition 2016 UPC journal,59990164,53601553,59,19,75935839,67
+54,Carol Critchlow,IEEE Journal,2018,A Note on the Density of Inherently Ambiguous Context-free Languages.,Jürgen Nehmer,Balaguer,edition 2018 IEEE Journal,147271828,50199752,42,13,49204190,36
+55,Prakash Panangaden,IEEE Journal,2018,A Note on the Density of Inherently Ambiguous Context-free Languages.,Jürgen Nehmer,Balaguer,edition 2018 IEEE Journal,147271828,97764636,42,13,49204190,36
+56,Alex Kondratyev,UPC journal,2017,Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array.,Isi Mitrani,Madrid,edition 2017 UPC journal,137260226,80560225,45,14,75935839,67
+57,Maciej Koutny,UPC journal,2017,Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array.,Isi Mitrani,Madrid,edition 2017 UPC journal,137260226,86096266,80,14,75935839,67
+58,Victor Khomenko,UPC journal,2017,Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array.,Isi Mitrani,Madrid,edition 2017 UPC journal,137260226,49930289,62,14,75935839,67
+59,Walter Vogler,UPC journal,2017,Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array.,Isi Mitrani,Madrid,edition 2017 UPC journal,137260226,95841204,48,14,75935839,67
+60,Christian Lengauer,IEEE Journal,2020,Computational Algorithms for Networks of Queues with Rejection Blocking.,Isi Mitrani,Barcelona,edition 2020 IEEE Journal,152348934,69720624,88,6,75935839,67
+61,Chua-Huang Huang,IEEE Journal,2020,Computational Algorithms for Networks of Queues with Rejection Blocking.,Isi Mitrani,Barcelona,edition 2020 IEEE Journal,152348934,74381271,86,6,75935839,67
+62,John Darlington,UPC journal,2017,Compositional Refinements in Multiple Blackboard Systems.,Patrick Cousot,Balaguer,edition 2017 UPC journal,72720567,51333161,33,17,89579786,53
+63,Juha Honkala,IEEE Journal,2018,"Special issue on ""Combining Compositionality and Concurrency"": part 1.",Patrick Cousot,London,edition 2018 IEEE Journal,83108476,84300194,83,16,89579786,53
+64,Joachim Biskup,UPC journal,2016,Automatic verification of concurrent systems using a formula-based compositional approach.,Isi Mitrani,Lleida,edition 2016 UPC journal,73949128,86025039,69,16,75935839,67
+65,Christian Ronse,UPC journal,2020,On Removing the Machine from the Language.,Isi Mitrani,Lleida,edition 2020 UPC journal,123377205,53601553,59,15,75935839,67
+66,Christian Lengauer,IEEE Journal,2018,Complete Problems for Space Bounded Subclasses of NP.,Isi Mitrani,Barcelona,edition 2018 IEEE Journal,74219690,69720624,88,13,75935839,67
+67,Chua-Huang Huang,IEEE Journal,2018,Complete Problems for Space Bounded Subclasses of NP.,Isi Mitrani,Barcelona,edition 2018 IEEE Journal,74219690,74381271,86,13,75935839,67
+68,Vincent Vajnovszki,IEEE Journal,2021,Efficient controller synthesis for a fragment of MTL,Jürgen Nehmer,Barcelona,edition 2021 IEEE Journal,61040702,88692555,30,4,49204190,36
+69,Hans Ulrich Simon,UPC journal,2017,Two Notions of Correctness and Their Relation to Testing.,Patrick Cousot,Balaguer,edition 2017 UPC journal,102764354,57240839,33,17,89579786,53
+70,Alex Kondratyev,UPC journal,2015,Best Huffman Trees.,Joseph M. Morris,Barcelona,edition 2015 UPC journal,66083849,80560225,45,16,59252960,32
+71,Maciej Koutny,UPC journal,2015,Best Huffman Trees.,Joseph M. Morris,Barcelona,edition 2015 UPC journal,66083849,86096266,80,16,59252960,32
+72,Victor Khomenko,UPC journal,2015,Best Huffman Trees.,Joseph M. Morris,Barcelona,edition 2015 UPC journal,66083849,49930289,62,16,59252960,32
+73,Walter Vogler,UPC journal,2015,Best Huffman Trees.,Joseph M. Morris,Barcelona,edition 2015 UPC journal,66083849,95841204,48,16,59252960,32
+74,Sanjeev Saxena,IEEE Journal,2019,Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler.,Isi Mitrani,Balaguer,edition 2019 IEEE Journal,112753476,97939121,65,19,75935839,67
+75,Giuseppe Serazzi,IEEE Journal,2018,The Parsing Problem for Affix Grammars.,Jürgen Nehmer,Lleida,edition 2018 IEEE Journal,174762313,92380886,39,18,49204190,36
+76,M. Italiani,IEEE Journal,2018,The Parsing Problem for Affix Grammars.,Jürgen Nehmer,Lleida,edition 2018 IEEE Journal,174762313,51544247,45,18,49204190,36
+77,Maria Calzarossa,IEEE Journal,2018,The Parsing Problem for Affix Grammars.,Jürgen Nehmer,Lleida,edition 2018 IEEE Journal,174762313,96069778,36,18,49204190,36
+78,Nathan Goodman,UPC journal,2018,On Efficient Entreeings.,Joseph M. Morris,Lleida,edition 2018 UPC journal,110763826,81428395,76,8,59252960,32
+79,Oded Shmueli,UPC journal,2018,On Efficient Entreeings.,Joseph M. Morris,Lleida,edition 2018 UPC journal,110763826,69705216,89,8,59252960,32
+80,Christian Lengauer,IEEE Journal,2019,Persistence of Vector Replacement Systems is Decidable.,Isi Mitrani,London,edition 2019 IEEE Journal,118467935,69720624,88,9,75935839,67
+81,Chua-Huang Huang,IEEE Journal,2019,Persistence of Vector Replacement Systems is Decidable.,Isi Mitrani,London,edition 2019 IEEE Journal,118467935,74381271,86,9,75935839,67
+82,Robin Milner,UPC journal,2018,Implementing Daubechies Wavelet Transform with Weighted Finite Automata.,Joseph M. Morris,Madrid,edition 2018 UPC journal,113792903,64542026,44,9,59252960,32
+83,Hans Ulrich Simon,UPC journal,2017,Functional Behavior in Data Spaces.,Jürgen Nehmer,London,edition 2017 UPC journal,187085906,57240839,33,15,49204190,36
+84,Christian Lengauer,IEEE Journal,2017,Inductive Completion with Retracts.,Isi Mitrani,Madrid,edition 2017 IEEE Journal,108551578,69720624,88,16,75935839,67
+85,Chua-Huang Huang,IEEE Journal,2017,Inductive Completion with Retracts.,Isi Mitrani,Madrid,edition 2017 IEEE Journal,108551578,74381271,86,16,75935839,67
+86,Juha Honkala,UPC journal,2016,Sometime = Always + Recursion = Always on the Equivalence of the Intermittent and Invariant Assertions Methods for Proving Inevitability Properties of Programs.,Patrick Cousot,Madrid,edition 2016 UPC journal,163531585,84300194,83,5,89579786,53
+87,George Rahonis,IEEE Journal,2016,Complete Parameterized Families of Job Scheduling Strategies.,Jürgen Nehmer,Balaguer,edition 2016 IEEE Journal,63647919,66280426,86,7,49204190,36
+88,Symeon Bozapalidis,IEEE Journal,2016,Complete Parameterized Families of Job Scheduling Strategies.,Jürgen Nehmer,Balaguer,edition 2016 IEEE Journal,63647919,94562652,20,7,49204190,36
+89,Zoltán Fülöp 0001,IEEE Journal,2016,Complete Parameterized Families of Job Scheduling Strategies.,Jürgen Nehmer,Balaguer,edition 2016 IEEE Journal,63647919,96942218,43,7,49204190,36
+90,George Rahonis,UPC journal,2021,Modelling higher-order dual nondeterminacy.,Jürgen Nehmer,Barcelona,edition 2021 UPC journal,156602516,66280426,86,12,49204190,36
+91,Symeon Bozapalidis,UPC journal,2021,Modelling higher-order dual nondeterminacy.,Jürgen Nehmer,Barcelona,edition 2021 UPC journal,156602516,94562652,20,12,49204190,36
+92,Zoltán Fülöp 0001,UPC journal,2021,Modelling higher-order dual nondeterminacy.,Jürgen Nehmer,Barcelona,edition 2021 UPC journal,156602516,96942218,43,12,49204190,36
+93,George Rahonis,IEEE Journal,2015,Dispatcher Primitives for the Construction of Operating System Kernels.,Jürgen Nehmer,Barcelona,edition 2015 IEEE Journal,68185775,66280426,86,18,49204190,36
+94,Symeon Bozapalidis,IEEE Journal,2015,Dispatcher Primitives for the Construction of Operating System Kernels.,Jürgen Nehmer,Barcelona,edition 2015 IEEE Journal,68185775,94562652,20,18,49204190,36
+95,Zoltán Fülöp 0001,IEEE Journal,2015,Dispatcher Primitives for the Construction of Operating System Kernels.,Jürgen Nehmer,Barcelona,edition 2015 IEEE Journal,68185775,96942218,43,18,49204190,36
+96,Alex Kondratyev,IEEE Journal,2021,A Note on Multihead Automata and Context-Sensitive Languages,Patrick Cousot,Lleida,edition 2021 IEEE Journal,56539418,80560225,45,20,89579786,53
+97,Maciej Koutny,IEEE Journal,2021,A Note on Multihead Automata and Context-Sensitive Languages,Patrick Cousot,Lleida,edition 2021 IEEE Journal,56539418,86096266,80,20,89579786,53
+98,Victor Khomenko,IEEE Journal,2021,A Note on Multihead Automata and Context-Sensitive Languages,Patrick Cousot,Lleida,edition 2021 IEEE Journal,56539418,49930289,62,20,89579786,53
+99,Walter Vogler,IEEE Journal,2021,A Note on Multihead Automata and Context-Sensitive Languages,Patrick Cousot,Lleida,edition 2021 IEEE Journal,56539418,95841204,48,20,89579786,53
+100,Christian Lengauer,IEEE Journal,2020,A Recursive Second Order Initial Algebra Specification of Primitive Recursion.,Jürgen Nehmer,Madrid,edition 2020 IEEE Journal,146150294,69720624,88,19,49204190,36
+101,Chua-Huang Huang,IEEE Journal,2020,A Recursive Second Order Initial Algebra Specification of Primitive Recursion.,Jürgen Nehmer,Madrid,edition 2020 IEEE Journal,146150294,74381271,86,19,49204190,36
+102,George Rahonis,UPC journal,2015,Compositional schedulability analysis of real-time actor-based systems.,Jürgen Nehmer,London,edition 2015 UPC journal,179970132,66280426,86,20,49204190,36
+103,Symeon Bozapalidis,UPC journal,2015,Compositional schedulability analysis of real-time actor-based systems.,Jürgen Nehmer,London,edition 2015 UPC journal,179970132,94562652,20,20,49204190,36
+104,Zoltán Fülöp 0001,UPC journal,2015,Compositional schedulability analysis of real-time actor-based systems.,Jürgen Nehmer,London,edition 2015 UPC journal,179970132,96942218,43,20,49204190,36
+105,Alain Finkel,UPC journal,2020,Context-Free Graph Languages of Bounded Degree are Generated by Apex Graph Grammars.,Patrick Cousot,Lleida,edition 2020 UPC journal,160764739,67741368,83,17,89579786,53
+106,Annie Choquet,UPC journal,2020,Context-Free Graph Languages of Bounded Degree are Generated by Apex Graph Grammars.,Patrick Cousot,Lleida,edition 2020 UPC journal,160764739,95449175,44,17,89579786,53
+107,Vincent Vajnovszki,IEEE Journal,2019,Worst Case Performance of Weighted Buddy Systems.,Joseph M. Morris,Madrid,edition 2019 IEEE Journal,77165846,88692555,30,19,59252960,32
+108,Hans Ulrich Simon,UPC journal,2015,Contextual Nets.,Jürgen Nehmer,Barcelona,edition 2015 UPC journal,129747895,57240839,33,12,49204190,36
+109,Wim H. Hesselink,IEEE Journal,2017,COSY - A System Specification Language Based on Paths and Processes.,Jürgen Nehmer,Madrid,edition 2017 IEEE Journal,168741982,58190535,39,9,49204190,36
+110,Norbert Blum,UPC journal,2015,Applying relation algebra and Rel View to solve problems on orders and lattices.,Joseph M. Morris,London,edition 2015 UPC journal,137490274,94826399,33,19,59252960,32
+111,Juha Honkala,IEEE Journal,2016,Eliminating Unit Productions from LR Parsers.,Isi Mitrani,Lleida,edition 2016 IEEE Journal,76612954,84300194,83,12,75935839,67
+112,Wim H. Hesselink,UPC journal,2019,Attribute (Re)evaluation in OPTRAN.,Isi Mitrani,Balaguer,edition 2019 UPC journal,175211551,58190535,39,17,75935839,67
+113,Nathan Goodman,IEEE Journal,2016,On Parallel Integer Sorting.,Joseph M. Morris,London,edition 2016 IEEE Journal,117733881,81428395,76,18,59252960,32
+114,Oded Shmueli,IEEE Journal,2016,On Parallel Integer Sorting.,Joseph M. Morris,London,edition 2016 IEEE Journal,117733881,69705216,89,18,59252960,32
+115,Giuseppe Serazzi,UPC journal,2015,Domain Independence and the Relational Calculus.,Patrick Cousot,Madrid,edition 2015 UPC journal,150507208,92380886,39,9,89579786,53
+116,M. Italiani,UPC journal,2015,Domain Independence and the Relational Calculus.,Patrick Cousot,Madrid,edition 2015 UPC journal,150507208,51544247,45,9,89579786,53
+117,Maria Calzarossa,UPC journal,2015,Domain Independence and the Relational Calculus.,Patrick Cousot,Madrid,edition 2015 UPC journal,150507208,96069778,36,9,89579786,53

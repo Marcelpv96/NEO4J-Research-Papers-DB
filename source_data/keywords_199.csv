@@ -1,0 +1,418 @@
+,Paper,Keyword
+0,Multi-Granularity Locking for Nested Transactions: A Proof Using a Possibilities Mapping.,big data
+1,Multi-Granularity Locking for Nested Transactions: A Proof Using a Possibilities Mapping.,indexing
+2,Bounded Quantification and Relations Recognizable by Finite Automata.,indexing
+3,Bounded Quantification and Relations Recognizable by Finite Automata.,data modeling
+4,Bounded Quantification and Relations Recognizable by Finite Automata.,data querying
+5,A Complete Algebraic Characterization of Behavioral Subtyping.,data storage
+6,Efficient execution of dynamically controllable simple temporal networks with uncertainty.,data management
+7,Efficient execution of dynamically controllable simple temporal networks with uncertainty.,data storage
+8,Minimum Feedback Vertex Sets in Cocomparability Graphs and Convex Bipartite Graphs.,indexing
+9,Minimum Feedback Vertex Sets in Cocomparability Graphs and Convex Bipartite Graphs.,data storage
+10,Minimum Feedback Vertex Sets in Cocomparability Graphs and Convex Bipartite Graphs.,big data
+11,Behavioural Approaches to Algebraic Specifications: A Comparative Study.,data querying
+12,Instruction sequence processing operators.,data querying
+13,What is Failure? An Approach to Constructive Negation.,data modeling
+14,What is Failure? An Approach to Constructive Negation.,indexing
+15,What is Failure? An Approach to Constructive Negation.,data querying
+16,STG decomposition strategies in combination with unfolding.,data processing
+17,STG decomposition strategies in combination with unfolding.,data management
+18,Quad Trees: A Data Structure for Retrieval on Composite Keys.,data querying
+19,Quad Trees: A Data Structure for Retrieval on Composite Keys.,data storage
+20,Quad Trees: A Data Structure for Retrieval on Composite Keys.,big data
+21,On the Number of Relational Operators Necessary to Compute Certain Functions of Real Variables.,big data
+22,On the Number of Relational Operators Necessary to Compute Certain Functions of Real Variables.,data storage
+23,A Study of Queueing Networks with Deterministic Service and Application to Computer Networks.,indexing
+24,Probabilistic bisimulation for realistic schedulers.,data querying
+25,Probabilistic bisimulation for realistic schedulers.,data storage
+26,Probabilistic bisimulation for realistic schedulers.,data management
+27,Explaining the Wheel Sieve.,data storage
+28,Another Polynomial Homomorphism.,big data
+29,Variance Reduction Techniques for the Simulation of Markov Process.,data management
+30,Variance Reduction Techniques for the Simulation of Markov Process.,data modeling
+31,State complexity of deletion and bipolar deletion.,data querying
+32,State complexity of deletion and bipolar deletion.,data processing
+33,State complexity of deletion and bipolar deletion.,data management
+34,Decomposition of Graphs and Monotone Formula Size of Homogeneous Functions.,indexing
+35,Symbolic checking of Fuzzy CTL on Fuzzy Program Graph.,big data
+36,Symbolic checking of Fuzzy CTL on Fuzzy Program Graph.,data management
+37,Regular and context-free nominal traces.,big data
+38,Deterministic pushdown-CD-systems of stateless deterministic R(1)-automata.,indexing
+39,Deterministic pushdown-CD-systems of stateless deterministic R(1)-automata.,data querying
+40,Special issue: Synthesis and SYNT 2014.,data modeling
+41,On the Synchronization in Parallel Communicating Grammar Systems.,big data
+42,On the Synchronization in Parallel Communicating Grammar Systems.,data management
+43,On the Synchronization in Parallel Communicating Grammar Systems.,data processing
+44,Weakly Context-Sensitive Languages as Model for Programming Languages.,indexing
+45,Weakly Context-Sensitive Languages as Model for Programming Languages.,big data
+46,Weakly Context-Sensitive Languages as Model for Programming Languages.,data querying
+47,Rules of Inference for Procedure Calls.,data processing
+48,The Construction of Operator Interfaces Based on Logical Input Devices.,data management
+49,The Construction of Operator Interfaces Based on Logical Input Devices.,data processing
+50,The Construction of Operator Interfaces Based on Logical Input Devices.,indexing
+51,High Level Tree Transducers and Iterated Pushdown Tree Transducers.,data management
+52,High Level Tree Transducers and Iterated Pushdown Tree Transducers.,big data
+53,High Level Tree Transducers and Iterated Pushdown Tree Transducers.,data storage
+54,Gobang ist PSPACE-vollständig.,data management
+55,A note on autodense related languages.,data processing
+56,Solving HPP and SAT by P Systems with Active Membranes and Separation Rules.,data processing
+57,Optimizing the Costs of Hierarchical Quorum Consensus.,data storage
+58,Optimizing the Costs of Hierarchical Quorum Consensus.,data modeling
+59,Recursive Petri nets.,data querying
+60,Multitype Multiprogramming Models.,data querying
+61,Multitype Multiprogramming Models.,data storage
+62,Automatic Correction of Syntax-Errors in Programming Languages.,data processing
+63,Automatic Correction of Syntax-Errors in Programming Languages.,data management
+64,Representation and uniformization of algebraic transductions.,data management
+65,Representation and uniformization of algebraic transductions.,data modeling
+66,Concurrent Bisimulations in Petri Nets.,data modeling
+67,Enhanced prefetching and caching strategies for single- and multi-disk systems.,data storage
+68,Enhanced prefetching and caching strategies for single- and multi-disk systems.,data processing
+69,Enhanced prefetching and caching strategies for single- and multi-disk systems.,data querying
+70,Recording the Use of Memory in Right-Boundary Grammars and Push-Down Automata.,data processing
+71,Recording the Use of Memory in Right-Boundary Grammars and Push-Down Automata.,data modeling
+72,State space axioms for T-systems.,big data
+73,State space axioms for T-systems.,data storage
+74,State space axioms for T-systems.,data processing
+75,Extended multi bottom-up tree transducers.,big data
+76,Extended multi bottom-up tree transducers.,data querying
+77,The Clean Termination of Iterative Programs.,indexing
+78,Infinite Proof Rules for Loops.,big data
+79,Nonfinite Axiomatizability of the Equational Theory of Shuffle.,data modeling
+80,"Running a job on a collection of partly available machines, with on-line restarts.",data modeling
+81,"Running a job on a collection of partly available machines, with on-line restarts.",data storage
+82,"Running a job on a collection of partly available machines, with on-line restarts.",data processing
+83,Data Refinement by Calculation.,data storage
+84,Data Refinement by Calculation.,data modeling
+85,Data Refinement by Calculation.,data processing
+86,Program Refinement in Fair Transition Systems.,big data
+87,Program Refinement in Fair Transition Systems.,data querying
+88,Program Refinement in Fair Transition Systems.,indexing
+89,A Functional Model for Describing and Reasoning About Time Behaviour of Computing Systems.,indexing
+90,A Functional Model for Describing and Reasoning About Time Behaviour of Computing Systems.,data processing
+91,"M-Nets: An Algebra of High-Level Petri Nets, with an Application to the Semantics of Concurrent Programming Languages.",data storage
+92,"M-Nets: An Algebra of High-Level Petri Nets, with an Application to the Semantics of Concurrent Programming Languages.",data modeling
+93,"M-Nets: An Algebra of High-Level Petri Nets, with an Application to the Semantics of Concurrent Programming Languages.",data querying
+94,On the Look-Ahead Problem in Lexical Analysis.,big data
+95,On the Look-Ahead Problem in Lexical Analysis.,indexing
+96,On the Look-Ahead Problem in Lexical Analysis.,data storage
+97,A theory of formal synthesis via inductive learning.,data storage
+98,The maximum gain of increasing the number of preemptions in multiprocessor scheduling.,data management
+99,The maximum gain of increasing the number of preemptions in multiprocessor scheduling.,data storage
+100,Data Encodings and Their Costs.,big data
+101,Hierarchies of Complete Problems.,data management
+102,Hierarchies of Complete Problems.,data storage
+103,Hierarchies of Complete Problems.,indexing
+104,Ein Vollständigkeitssatz für Programme und Schaltkreise.,indexing
+105,Ein Vollständigkeitssatz für Programme und Schaltkreise.,data processing
+106,Type-based information flow analysis for the pi-calculus.,data modeling
+107,Type-based information flow analysis for the pi-calculus.,data processing
+108,Type-based information flow analysis for the pi-calculus.,data storage
+109,Sur une Conjecture de S. Greibach.,big data
+110,A Conservation Law for G/G/m Queueing Systems.,data storage
+111,A Conservation Law for G/G/m Queueing Systems.,big data
+112,A Conservation Law for G/G/m Queueing Systems.,data processing
+113,Applications of Efficient Mergeable Heaps for Optimization Problems on Trees.,data storage
+114,Applications of Efficient Mergeable Heaps for Optimization Problems on Trees.,data modeling
+115,Applications of Efficient Mergeable Heaps for Optimization Problems on Trees.,indexing
+116,Context-Free Graph Grammars and Concatenation of Graphs.,big data
+117,Context-Free Graph Grammars and Concatenation of Graphs.,data management
+118,Context-Free Graph Grammars and Concatenation of Graphs.,indexing
+119,On a Class of Recursive Procedures and Equivalent Iterative Ones.,data querying
+120,On a Class of Recursive Procedures and Equivalent Iterative Ones.,data processing
+121,Algorithms for Fast Evaluation of Boolean Expressions.,data modeling
+122,Algorithms for Fast Evaluation of Boolean Expressions.,data querying
+123,Algorithms for Fast Evaluation of Boolean Expressions.,data processing
+124,A general account of coinduction up-to.,data querying
+125,A general account of coinduction up-to.,data modeling
+126,A general account of coinduction up-to.,data management
+127,A Comparison of Two Synchronizing Concepts.,data storage
+128,A Comparison of Two Synchronizing Concepts.,data modeling
+129,How to Calculate Symmetries of Petri Nets.,data management
+130,"Nonterminals, Homomorphisms and Codings in Different Variations of OL-Systems. I. Deterministic Systems.",big data
+131,"Nonterminals, Homomorphisms and Codings in Different Variations of OL-Systems. I. Deterministic Systems.",data processing
+132,"Nonterminals, Homomorphisms and Codings in Different Variations of OL-Systems. I. Deterministic Systems.",indexing
+133,Recognizability of graph and pattern languages.,indexing
+134,Recognizability of graph and pattern languages.,data storage
+135,Recognizability of graph and pattern languages.,data management
+136,The Synthesis Problem of Petri Nets.,data management
+137,A Binary Operation on Trees and an Initial Algebra Characterization for Finite Tree Types.,data querying
+138,On weighted first-order logics with discounting.,data processing
+139,On weighted first-order logics with discounting.,data modeling
+140,On weighted first-order logics with discounting.,data management
+141,A Characterization of Context-free String Languages by Directed Node-label Controlled Graph Grammars.,data storage
+142,A Characterization of Context-free String Languages by Directed Node-label Controlled Graph Grammars.,data modeling
+143,A Characterization of Context-free String Languages by Directed Node-label Controlled Graph Grammars.,data processing
+144,"Demonic, angelic and unbounded probabilistic choices in sequential programs.",data querying
+145,An Efficiency Preorder for Processes.,indexing
+146,On the Generalization of Higman and Kruskal's Theorems to Regular Languages and Rational Trees.,indexing
+147,On the Generalization of Higman and Kruskal's Theorems to Regular Languages and Rational Trees.,data management
+148,Modeling Splits in File Structures.,data processing
+149,Modeling Splits in File Structures.,indexing
+150,Modeling Splits in File Structures.,data management
+151,Languages Accepted by Systolic Y-Tree Automata: Structural Characterizations.,indexing
+152,Languages Accepted by Systolic Y-Tree Automata: Structural Characterizations.,data storage
+153,Synchronized regular expressions.,data storage
+154,Synchronized regular expressions.,big data
+155,Synchronized regular expressions.,data processing
+156,On regular tree languages and deterministic pushdown automata.,data management
+157,On regular tree languages and deterministic pushdown automata.,data querying
+158,A Modal Logic for Message Passing Processes.,big data
+159,A Modal Logic for Message Passing Processes.,data storage
+160,A Modal Logic for Message Passing Processes.,data modeling
+161,Maintaining Range Trees in Secondary Memory. Part I: Partitions.,data querying
+162,Maintaining Range Trees in Secondary Memory. Part I: Partitions.,big data
+163,Maintaining Range Trees in Secondary Memory. Part I: Partitions.,data processing
+164,Does indirect addressing matter? - A note.,data modeling
+165,Does indirect addressing matter? - A note.,data processing
+166,Does indirect addressing matter? - A note.,data querying
+167,Reasoning Algebraically about Loops.,data management
+168,Reasoning Algebraically about Loops.,indexing
+169,A Model of a Time Sharing Virtual Memory System Solved Using Equivalence and Decomposition Methods.,indexing
+170,A Model of a Time Sharing Virtual Memory System Solved Using Equivalence and Decomposition Methods.,data management
+171,A Model of a Time Sharing Virtual Memory System Solved Using Equivalence and Decomposition Methods.,data storage
+172,Trace Nets and Process Automata.,data processing
+173,Trace Nets and Process Automata.,big data
+174,Trace Nets and Process Automata.,data querying
+175,Metric propositional neighborhood logic with an equivalence relation.,indexing
+176,A Principle of Independence for Binary Tree Searching.,data querying
+177,A Principle of Independence for Binary Tree Searching.,indexing
+178,Optimal Divide-and-Conquer to Compute Measure and Contour for a Set of Iso-Rectangles.,data querying
+179,The Paging Drum Queue: A Uniform Perspective and Further Results.,data storage
+180,The Paging Drum Queue: A Uniform Perspective and Further Results.,big data
+181,The Undecidability of the Unification and Matching Problem for Canonical Theories.,indexing
+182,The Undecidability of the Unification and Matching Problem for Canonical Theories.,data storage
+183,The Undecidability of the Unification and Matching Problem for Canonical Theories.,big data
+184,The Programming Language Pascal.,data storage
+185,The Programming Language Pascal.,data management
+186,"Semantics, calculi, and analysis for object-oriented specifications.",indexing
+187,Inhibitionsfelder.,data management
+188,Inhibitionsfelder.,indexing
+189,Inhibitionsfelder.,data storage
+190,Head and state hierarchies for unary multi-head finite automata.,indexing
+191,On the Number of Active-Operations Needed to Compute the Discrete Fourier Transform.,data querying
+192,On the Number of Active-Operations Needed to Compute the Discrete Fourier Transform.,indexing
+193,The stuttering principle revisited.,data management
+194,The stuttering principle revisited.,indexing
+195,The stuttering principle revisited.,big data
+196,Redundant Proofs of Non-Interference in Levin-Gries CSP Program Proofs.,big data
+197,Redundant Proofs of Non-Interference in Levin-Gries CSP Program Proofs.,indexing
+198,Lazy Structure Sharing for Query Optimization.,data querying
+199,Lazy Structure Sharing for Query Optimization.,data storage
+200,Fair ambients.,big data
+201,Fair ambients.,data storage
+202,Fair ambients.,data processing
+203,Concurrent Access to Data.,big data
+204,Concurrent Access to Data.,data storage
+205,Relaxed red-black trees with group updates.,data querying
+206,Relaxed red-black trees with group updates.,data processing
+207,Relaxed red-black trees with group updates.,data modeling
+208,Generation of Efficient ,data modeling
+209,Generation of Efficient ,big data
+210,Generation of Efficient ,data storage
+211,A Markovian queue with varying number of servers and applications to the performance comparison of HSDPA user equipment.,data processing
+212,Priority Conflict-Free Petri Nets.,data modeling
+213,Priority Conflict-Free Petri Nets.,data storage
+214,Priority Conflict-Free Petri Nets.,data management
+215,Optimum Multiway Search Trees.,data processing
+216,Optimum Multiway Search Trees.,big data
+217,Optimum Multiway Search Trees.,data querying
+218,Characterization of all Optimal Networks for a Simultaneous Computation of AND and NOR.,big data
+219,Parallel Integer Sorting Using Small Operations.,indexing
+220,Parallel Integer Sorting Using Small Operations.,data querying
+221,Stochastic cooperative distributed grammar systems and random graphs.,data processing
+222,Performance Evaluation of Fork and Join Synchronization Primitives.,data management
+223,Performance Evaluation of Fork and Join Synchronization Primitives.,data querying
+224,Some properties of the disjunctive languages contained in ,data storage
+225,Some properties of the disjunctive languages contained in ,data processing
+226,Some properties of the disjunctive languages contained in ,big data
+227,Systolic Automata for VLSI on Balanced Trees.,data modeling
+228,Systolic Automata for VLSI on Balanced Trees.,indexing
+229,Systolic Automata for VLSI on Balanced Trees.,big data
+230,A new natural structural congruence in the pi-calculus with replication.,indexing
+231,A new natural structural congruence in the pi-calculus with replication.,data querying
+232,A new natural structural congruence in the pi-calculus with replication.,data processing
+233,Optimal Multiprogramming.,big data
+234,Optimal Multiprogramming.,data querying
+235,Classes of Systolic Y-Tree Automata and a Comparison with Systolic Trellis Automata.,data querying
+236,Classes of Systolic Y-Tree Automata and a Comparison with Systolic Trellis Automata.,data modeling
+237,On Real-Time Cellular Automata and Trellis Automata.,big data
+238,On Real-Time Cellular Automata and Trellis Automata.,data processing
+239,On Real-Time Cellular Automata and Trellis Automata.,data management
+240,Transformational Design of Real-Time Systems Part I: From Requirements to Program Specifications.,indexing
+241,Performance Preorder and Competitive Equivalence.,data management
+242,A Survey of Normal Form Covers for Context Free Grammars.,data querying
+243,A Note on Synthesis and Classification of Sorting Algorithms.,indexing
+244,A Note on Synthesis and Classification of Sorting Algorithms.,data storage
+245,Liveness of a mutex algorithm in a fair process algebra.,big data
+246,Liveness of a mutex algorithm in a fair process algebra.,indexing
+247,Liveness of a mutex algorithm in a fair process algebra.,data management
+248,"Another Look at the ""Longest Ascending Subsequence"" Problem.",big data
+249,"Another Look at the ""Longest Ascending Subsequence"" Problem.",indexing
+250,"Another Look at the ""Longest Ascending Subsequence"" Problem.",data modeling
+251,Complexity Theory and the Operational Structure of Algebraic Programming Systems.,indexing
+252,Models for Reactivity.,indexing
+253,"Axioms for Generalized Graphs, Illustrated by a Cantor-Bernstein Proposition.",data processing
+254,A Proof System for Distributed Processes.,data management
+255,A Proof System for Distributed Processes.,big data
+256,A Proof System for Distributed Processes.,indexing
+257,Finite State Relational Programs.,data management
+258,A Gap Between the Actual Complexity of Permutations and Their Entropy Defined by Stoß.,data querying
+259,A Gap Between the Actual Complexity of Permutations and Their Entropy Defined by Stoß.,data management
+260,A Gap Between the Actual Complexity of Permutations and Their Entropy Defined by Stoß.,data processing
+261,MAT learners for tree series: an abstract data type and two realizations.,data modeling
+262,Exponentially decreasing number of operations in balanced trees.,data storage
+263,Correctness of the Compiling Process Based on Axiomatic Semantics.,data modeling
+264,Correctness of the Compiling Process Based on Axiomatic Semantics.,data querying
+265,Correctness of the Compiling Process Based on Axiomatic Semantics.,indexing
+266,Paramodulated Connection Graphs.,data management
+267,Paramodulated Connection Graphs.,indexing
+268,The Lattice of Data Refinement.,big data
+269,The Lattice of Data Refinement.,data processing
+270,The Lattice of Data Refinement.,data modeling
+271,Backtracking in Recursive Computations.,data modeling
+272,A first step in characterizing three-element codes.,data modeling
+273,Efficient LL(1) Error Correction and Recovery Using Only Insertions.,data processing
+274,Efficient LL(1) Error Correction and Recovery Using Only Insertions.,data querying
+275,Efficient LL(1) Error Correction and Recovery Using Only Insertions.,big data
+276,Parallel Integer Sorting and Simulation Amongst CRCW Models.,indexing
+277,Pattern Matching in Trees and Nets.,data processing
+278,Pattern Matching in Trees and Nets.,big data
+279,NP-complete Problems Simplified on Tree Schemas.,data modeling
+280,On the Power of Chain Rules in Context Free Grammars.,data processing
+281,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,data storage
+282,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,data modeling
+283,Schnelle Multiplikation von Polynomen über Körpern der Charakteristik 2.,data querying
+284,A characterization of rational D0L power series.,data processing
+285,A characterization of rational D0L power series.,data modeling
+286,A characterization of rational D0L power series.,data storage
+287,The Derivation of Systolic Implementations of Programs.,data modeling
+288,The Derivation of Systolic Implementations of Programs.,data processing
+289,Fifo Nets Without Order Deadlock.,big data
+290,On the Complementation Rule for Multivalued Dependencies in Database Relations.,data querying
+291,On the Complementation Rule for Multivalued Dependencies in Database Relations.,indexing
+292,On the Complementation Rule for Multivalued Dependencies in Database Relations.,data management
+293,Equational weighted tree transformations.,big data
+294,Equational weighted tree transformations.,indexing
+295,Merged processes: a new condensed representation of Petri net behaviour.,data querying
+296,Verifying a simplification of mutual exclusion by Lycklama-Hadzilacos.,data storage
+297,A Three-Stage Construction for Multiconnection Networks.,data modeling
+298,A Three-Stage Construction for Multiconnection Networks.,data management
+299,The Expressive Power of Delay Operators in SCCS.,big data
+300,Calculi for Interaction.,data management
+301,Calculi for Interaction.,data storage
+302,Calculi for Interaction.,data modeling
+303,A Synthesis of Several Sorting Algorithms.,data processing
+304,A Synthesis of Several Sorting Algorithms.,indexing
+305,A Synthesis of Several Sorting Algorithms.,data querying
+306,A Workload Model Representative of Static and Dynamic Characteristics.,data querying
+307,A Workload Model Representative of Static and Dynamic Characteristics.,data storage
+308,A Workload Model Representative of Static and Dynamic Characteristics.,data modeling
+309,Gray visiting Motzkins.,data storage
+310,Gray visiting Motzkins.,data processing
+311,Trace- and failure-based semantics for responsiveness.,data modeling
+312,Trace- and failure-based semantics for responsiveness.,indexing
+313,Trace- and failure-based semantics for responsiveness.,data management
+314,Branching Processes in the Analysis of the Heights of Trees.,data querying
+315,Branching Processes in the Analysis of the Heights of Trees.,data modeling
+316,Least Upper Bound on the Cost of Optimum Binary Search Trees.,data management
+317,Least Upper Bound on the Cost of Optimum Binary Search Trees.,big data
+318,The Mathematical Analysis of the Computer System Modeled as a Two Stage Cyclic Queue.,data storage
+319,"Invariants, Composition, and Substitution.",big data
+320,"Invariants, Composition, and Substitution.",indexing
+321,Maximum Entropy and the ,big data
+322,Maximum Entropy and the ,data management
+323,Maximum Entropy and the ,indexing
+324,Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach.,data querying
+325,Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach.,data storage
+326,Abstraction and Performance in the Design of Parallel Programs: An Overview of the SAT Approach.,big data
+327,A theory of structural stationarity in the ,data modeling
+328,A theory of structural stationarity in the ,data management
+329,Hex ist PSPACE-vollständig.,data storage
+330,Hex ist PSPACE-vollständig.,data modeling
+331,Hex ist PSPACE-vollständig.,data management
+332,Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells.,data modeling
+333,Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells.,data querying
+334,Evolutionary Systems: A Language Generating Device Inspired by Evolving Communities of Cells.,indexing
+335,Disjunctivity and other properties of sets of pseudo-bordered words.,data querying
+336,Disjunctivity and other properties of sets of pseudo-bordered words.,big data
+337,Disjunctivity and other properties of sets of pseudo-bordered words.,data storage
+338,Relational structures model of concurrency.,big data
+339,Relational structures model of concurrency.,indexing
+340,Relational structures model of concurrency.,data modeling
+341,On an Equivalence between Continuation and Stack Semantics.,data management
+342,On an Equivalence between Continuation and Stack Semantics.,big data
+343,On an Equivalence between Continuation and Stack Semantics.,data querying
+344,Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.,indexing
+345,A Note on the Density of Inherently Ambiguous Context-free Languages.,data querying
+346,Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array.,big data
+347,Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array.,data modeling
+348,Time Lower Bounds for Parallel Sorting on a Mesh-Conected Processor Array.,data processing
+349,Computational Algorithms for Networks of Queues with Rejection Blocking.,data querying
+350,Computational Algorithms for Networks of Queues with Rejection Blocking.,data processing
+351,Compositional Refinements in Multiple Blackboard Systems.,big data
+352,Compositional Refinements in Multiple Blackboard Systems.,indexing
+353,Compositional Refinements in Multiple Blackboard Systems.,data processing
+354,"Special issue on ""Combining Compositionality and Concurrency"": part 1.",data processing
+355,"Special issue on ""Combining Compositionality and Concurrency"": part 1.",big data
+356,Automatic verification of concurrent systems using a formula-based compositional approach.,data storage
+357,Automatic verification of concurrent systems using a formula-based compositional approach.,data querying
+358,Automatic verification of concurrent systems using a formula-based compositional approach.,indexing
+359,On Removing the Machine from the Language.,data processing
+360,On Removing the Machine from the Language.,data querying
+361,Complete Problems for Space Bounded Subclasses of NP.,indexing
+362,Efficient controller synthesis for a fragment of MTL,data management
+363,Efficient controller synthesis for a fragment of MTL,data storage
+364,Efficient controller synthesis for a fragment of MTL,data querying
+365,Two Notions of Correctness and Their Relation to Testing.,data processing
+366,Two Notions of Correctness and Their Relation to Testing.,data modeling
+367,Two Notions of Correctness and Their Relation to Testing.,data querying
+368,Best Huffman Trees.,data storage
+369,Behandlung verschiedener INTEGER-Darstellungen durch optimierende Compiler.,data processing
+370,The Parsing Problem for Affix Grammars.,data modeling
+371,On Efficient Entreeings.,data querying
+372,Persistence of Vector Replacement Systems is Decidable.,indexing
+373,Persistence of Vector Replacement Systems is Decidable.,data processing
+374,Persistence of Vector Replacement Systems is Decidable.,data querying
+375,Implementing Daubechies Wavelet Transform with Weighted Finite Automata.,data management
+376,Implementing Daubechies Wavelet Transform with Weighted Finite Automata.,indexing
+377,Implementing Daubechies Wavelet Transform with Weighted Finite Automata.,data modeling
+378,Functional Behavior in Data Spaces.,data processing
+379,Functional Behavior in Data Spaces.,data querying
+380,Inductive Completion with Retracts.,data modeling
+381,Inductive Completion with Retracts.,data processing
+382,Inductive Completion with Retracts.,big data
+383,Sometime = Always + Recursion = Always on the Equivalence of the Intermittent and Invariant Assertions Methods for Proving Inevitability Properties of Programs.,big data
+384,Sometime = Always + Recursion = Always on the Equivalence of the Intermittent and Invariant Assertions Methods for Proving Inevitability Properties of Programs.,indexing
+385,Complete Parameterized Families of Job Scheduling Strategies.,data querying
+386,Complete Parameterized Families of Job Scheduling Strategies.,indexing
+387,Complete Parameterized Families of Job Scheduling Strategies.,data management
+388,Modelling higher-order dual nondeterminacy.,data querying
+389,Dispatcher Primitives for the Construction of Operating System Kernels.,indexing
+390,Dispatcher Primitives for the Construction of Operating System Kernels.,data modeling
+391,A Note on Multihead Automata and Context-Sensitive Languages,data storage
+392,A Note on Multihead Automata and Context-Sensitive Languages,data processing
+393,A Note on Multihead Automata and Context-Sensitive Languages,big data
+394,A Recursive Second Order Initial Algebra Specification of Primitive Recursion.,data querying
+395,A Recursive Second Order Initial Algebra Specification of Primitive Recursion.,big data
+396,A Recursive Second Order Initial Algebra Specification of Primitive Recursion.,data processing
+397,Compositional schedulability analysis of real-time actor-based systems.,data processing
+398,Compositional schedulability analysis of real-time actor-based systems.,data storage
+399,Context-Free Graph Languages of Bounded Degree are Generated by Apex Graph Grammars.,data management
+400,Worst Case Performance of Weighted Buddy Systems.,data modeling
+401,Worst Case Performance of Weighted Buddy Systems.,big data
+402,Worst Case Performance of Weighted Buddy Systems.,data storage
+403,Contextual Nets.,data querying
+404,Contextual Nets.,data management
+405,COSY - A System Specification Language Based on Paths and Processes.,data querying
+406,COSY - A System Specification Language Based on Paths and Processes.,big data
+407,Applying relation algebra and Rel View to solve problems on orders and lattices.,data querying
+408,Applying relation algebra and Rel View to solve problems on orders and lattices.,data processing
+409,Applying relation algebra and Rel View to solve problems on orders and lattices.,data storage
+410,Eliminating Unit Productions from LR Parsers.,big data
+411,Eliminating Unit Productions from LR Parsers.,data storage
+412,Attribute (Re)evaluation in OPTRAN.,data querying
+413,On Parallel Integer Sorting.,data management
+414,On Parallel Integer Sorting.,big data
+415,On Parallel Integer Sorting.,data modeling
+416,Domain Independence and the Relational Calculus.,indexing
