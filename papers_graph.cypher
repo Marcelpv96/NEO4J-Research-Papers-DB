@@ -1,5 +1,5 @@
 /* First of all load load data from CSV */
-LOAD CSV WITH HEADERS FROM 'file:///journals_200.csv' AS journals
+LOAD CSV WITH HEADERS FROM 'file:///journals_150.csv' AS journals
 
 
 /* Create all the nodes related with JOURNAL and relations */
@@ -26,7 +26,7 @@ WITH count(*) as dummy
 
 
 /* Create all the nodes_related with CONFERENCE and relations*/
-LOAD CSV WITH HEADERS FROM 'file:///conferences_200.csv' AS conferences
+LOAD CSV WITH HEADERS FROM 'file:///conferences_150.csv' AS conferences
 MERGE (conference_author:Scientific {name:conferences.Author, age:conferences.Age, dni:conferences.Dni})
 MERGE (conference:Conference {name:conferences.Conference})
 MERGE (conference_year:Year {year:conferences.Year})
@@ -50,7 +50,7 @@ MERGE (edition)-[:AtYear]->(year)
 WITH count(*) as dummy
 
 /* Create all the nodes realted with keywords */
-LOAD CSV WITH HEADERS FROM 'file:///keywords_200.csv' AS keywords
+LOAD CSV WITH HEADERS FROM 'file:///keywords_150.csv' AS keywords
 MERGE (keyword:KeyWord {name:keywords.Keyword})
 WITH keywords, keyword
 MATCH (paper:Scientific_Paper)
@@ -60,7 +60,7 @@ MERGE (paper)-[:HasKeyWord]->(keyword)
 WITH count(*) as dummy
 
 /* Create all nodes related with references */
-LOAD CSV WITH HEADERS FROM 'file:///references_200.csv' AS refers
+LOAD CSV WITH HEADERS FROM 'file:///references_150.csv' AS refers
 WITH refers
 MATCH (paper:Scientific_Paper),(reference:Scientific_Paper)
 WHERE paper.name = refers.paper AND reference.name = refers.reference AND paper.name <> reference.name
@@ -69,8 +69,8 @@ MERGE (paper)-[:refersTo]->(reference)
 WITH count(*) as dummy
 
 /* Create all nodes related with reviews */
-LOAD CSV WITH HEADERS FROM 'file:///reviews_200.csv' AS reviews
+LOAD CSV WITH HEADERS FROM 'file:///reviews_150.csv' AS reviews
 MATCH (author:Scientific)-[:writes]->(paper_review:Scientific_Paper), (reviewer:Scientific), (editor:Scientific)
-WHERE author.name <> reviewer.name AND reviewer.name = reviews.Author AND editor.name = reviews.Editor
+WHERE paper_review.name = reviews.Paper AND reviewer.name = reviews.Author AND reviewer.name <> author.name AND editor.name = reviews.Editor
 MERGE (editor)-[:Assigns_paper{name:paper_review.name}]->(reviewer)
 ;

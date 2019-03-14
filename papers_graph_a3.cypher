@@ -69,9 +69,9 @@ MERGE (paper)-[:refersTo]->(reference)
 WITH count(*) as dummy
 
 /* Create all nodes related with reviews */
-LOAD CSV WITH HEADERS FROM 'file:///reviews_200.csv' AS reviews
+LOAD CSV WITH HEADERS FROM 'file:///reviews_150.csv' AS reviews
 MATCH (author:Scientific)-[:writes]->(paper_review:Scientific_Paper), (reviewer:Scientific), (editor:Scientific)
-WHERE author.name <> reviewer.name AND reviewer.name = reviews.Author AND editor.name = reviews.Editor
+WHERE paper_review.name = reviews.Paper AND reviewer.name = reviews.Author AND reviewer.name <> author.name AND editor.name = reviews.Editor
 MERGE (editor)-[:Assigns_paper{name:paper_review.name}]->(reviewer)
 MERGE (reviewer)-[:Review_sent]->(review:Review {Opinion:reviews.Opinion, Decision:reviews.Decision})
 MERGE (review)-[:Review_of]->(paper_review)
