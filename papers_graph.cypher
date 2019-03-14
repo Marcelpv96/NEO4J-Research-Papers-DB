@@ -8,18 +8,16 @@ MERGE (journal:Journal {name:journals.Journal})
 MERGE (journal_year:Year {year:journals.Year})
 MERGE (journal_paper:Scientific_Paper {name:journals.Paper, ISBN:journals.Isbn, Pages:journals.Pages})
 MERGE (journal_editor:Scientific {name:journals.Editor, age:journals.EditorAge, dni:journals.EditorDni})
-MERGE (journal_city:City {name:journals.City})
-MERGE(journal_edition:Journal_edition {name:journals.Edition, year:journals.Year})
+MERGE(volume:Volume {name:journals.Edition, year:journals.Year})
 
 MERGE (journal_author)-[:writes]->(journal_paper)
-MERGE (journal_paper)-[:publishedON]->(journal_edition)
-MERGE (journal_edition)-[:city]->(journal_city)
+MERGE (journal_paper)-[:publishedON]->(volume)
 MERGE (journal)-[:edit_by]->(journal_editor)
-MERGE (journal)<-[:isEdition]-(journal_edition)
+MERGE (journal)<-[:isEdition]-(volume)
 
 WITH count(*) as dummy
 
-MATCH (year:Year), (edition:Journal_edition)
+MATCH (year:Year), (edition:Volume)
 WHERE year.year = edition.year
 MERGE (edition)-[:AtYear]->(year)
 
@@ -35,17 +33,17 @@ MERGE (conference_year:Year {year:conferences.Year})
 MERGE (conference_paper:Scientific_Paper {name:conferences.Paper, ISBN:conferences.Isbn ,pages:conferences.Pages})
 MERGE (conference_editor:Scientific {name:conferences.Editor, age:conferences.EditorAge, dni:conferences.EditorDni})
 MERGE (conference_city:City {name:conferences.City})
-MERGE (conference_edition:Conference_edition {name:conferences.Edition, year:conferences.Year})
+MERGE (proceeding:Proceeding {name:conferences.Edition, year:conferences.Year})
 
 MERGE (conference_author)-[:writes]->(conference_paper)
-MERGE (conference_paper)-[:publishedON]->(conference_edition)
-MERGE (conference_edition)-[:city]->(conference_city)
+MERGE (conference_paper)-[:publishedON]->(proceeding)
+MERGE (proceeding)-[:city]->(conference_city)
 MERGE (conference)-[:edits]->(conference_editor)
-MERGE (conference)<-[:isEdition]-(conference_edition)
+MERGE (conference)<-[:isEdition]-(proceeding)
 
 WITH count(*) as dummy
 
-MATCH (year:Year), (edition:Conference_edition)
+MATCH (year:Year), (edition:Proceeding)
 WHERE year.year = edition.year
 MERGE (edition)-[:AtYear]->(year)
 
@@ -73,6 +71,6 @@ WITH count(*) as dummy
 /* Create all nodes related with reviews */
 LOAD CSV WITH HEADERS FROM 'file:///reviews_200.csv' AS reviews
 MATCH (author:Scientific)-[:writes]->(paper_review:Scientific_Paper), (reviewer:Scientific), (editor:Scientific)
-WHERE author.name <> reviewer.name AND reviewer.name = reviewer.Author AND editor.name = reviews.Editor
+WHERE author.name <> reviewer.name AND reviewer.name = reviews.Author AND editor.name = reviews.Editor
 MERGE (editor)-[:Assigns_paper{name:paper_review.name}]->(reviewer)
 ;
