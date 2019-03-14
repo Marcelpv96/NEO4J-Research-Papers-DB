@@ -40,37 +40,17 @@ RETURN journal, tofloat(sum(no_citings))/tofloat(count(paper))
 
 
 -----3-----
-/* Betweenness Centrality Algorithm scientific_paper->Node, refersTo->Edge*/
-CALL algo.betweenness.stream('Scientific','publish',{direction:'out'})
+CALL algo.betweenness.stream('Scientific_Paper','refersTo',
+{direction:'in'})
 YIELD nodeId, centrality
-MATCH (person:Scientific) WHERE id(person) = nodeId
-RETURN person.name AS person,centrality
+MATCH (key:Scientific_Paper) WHERE id(key) = nodeId
+RETURN key.name AS keyword, centrality
 ORDER BY centrality DESC;
 
-/*Page Rank Algorithm*/
-CALL algo.pageRank.stream('Scientific_Paper', 'refersTo', {iterations:20, dampingFactor:0.85})
+CALL algo.pageRank.stream(NULL, 'HasKeyWord', 
+{iterations:20, dampingFactor:0.85})
 YIELD nodeId, score
-RETURN algo.getNodeById(nodeId).name AS paper,score
+MATCH (key:KeyWord)
+WHERE id(key) = nodeId
+RETURN key.name as Keyword, score
 ORDER BY score DESC
-
-
-
------3-----
-/* Betweenness Centrality Algorithm scientific_paper->Node, refersTo->Edge*/
-CALL algo.betweenness.stream('Scientific','publish',{direction:'out'})
-YIELD nodeId, centrality
-MATCH (person:Scientific) WHERE id(person) = nodeId
-RETURN person.name AS person,centrality
-ORDER BY centrality DESC;
-
-/*Page Rank Algorithm*/
-CALL algo.pageRank.stream('Scientific_Paper', 'refersTo', {iterations:20, dampingFactor:0.85})
-YIELD nodeId, score
-RETURN algo.getNodeById(nodeId).name AS paper,score
-ORDER BY score DESC
-
-/*Single Source Shortest Path--  This should give the shortest path to all nddes from the node in the match statement*/
-MATCH (paper:Scientific_Paper {name:'Nonterminals Versus Homomorphisms in Defining Languages for Some Classes of Rewriting Systems.'})
-CALL algo.shortestPath.deltaStepping.stream(n)
-YIELD nodeId, distance
-RETURN algo.getNodeById(nodeId).name AS destination, distance
