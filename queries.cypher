@@ -7,8 +7,8 @@ WITH person,  citations_list, range(0, size(citations_list)-1) AS index
 UNWIND index AS i
 WITH person, citations_list, index, collect(citations_list[i]-(i+1)) as rest
 WITH person, citations_list, [x IN range(0, size(citations_list)-1) WHERE rest[x] < 0 ] AS result
-RETURN person, citations_list, CASE WHEN size(result) = 0  THEN size(citations_list) ELSE head(result) END as h-index
-ORDER BY h-index DESC
+RETURN person, citations_list, CASE WHEN size(result) = 0  THEN size(citations_list) ELSE head(result) END as h_index
+ORDER BY h_index DESC
 
 /* returns the conference and its top cited papers DONE*/
 MATCH (citing_paper:Scientific_Paper)-[:refersTo]->
@@ -47,7 +47,7 @@ MATCH (key:Scientific_Paper) WHERE id(key) = nodeId
 RETURN key.name AS keyword, centrality
 ORDER BY centrality DESC;
 
-CALL algo.pageRank.stream(NULL, 'HasKeyWord', 
+CALL algo.pageRank.stream(NULL, 'HasKeyWord',
 {iterations:20, dampingFactor:0.85})
 YIELD nodeId, score
 MATCH (key:KeyWord)
